@@ -1,8 +1,8 @@
 {
   "name": "test",
   "description": "test block list",
-  "direction": "incoming",
   "denied-remote-domains": ["discord.com",
-                            "ru.com"]
+                            "ru.com"],
+  "direction": "incoming"
 }
 
