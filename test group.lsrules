@@ -1,0 +1,15 @@
+{
+  "description" : "",
+  "name" : "test group",
+  "rules" : [
+    {
+      "action" : "deny",
+      "remote-domains" : [
+        "discord.com",
+        "facebook.com",
+        "twitter.com",
+        "youtube.com"
+      ]
+    }
+  ]
+}
