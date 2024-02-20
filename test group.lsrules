@@ -4,6 +4,7 @@
   "rules" : [
     {
       "action" : "deny",
+"process" : "Any",
       "remote-domains" : "softonic.com"
     }
   ]
