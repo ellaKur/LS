@@ -1,15 +1,10 @@
 {
-  "description" : "test 2024-02-20",
-  "name" : "test group",
+  "description" : "",
+  "name" : "test groupV1",
   "rules" : [
     {
       "action" : "deny",
-      "remote-domains" : [
-        "discord.com",
-        "facebook.com",
-        "twitter.com",
-        "youtube.com"
-      ]
+      "remote-domains" : "softonic.com"
     }
   ]
 }
