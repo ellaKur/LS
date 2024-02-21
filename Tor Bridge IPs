@@ -1,1 +1,11 @@
-
+{
+  "name": "Bridge IPs",
+  "description": "testing Bridge IPs",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "any",
+      "remote-addresses": [104.244.75.74, 104.244.75.74, 131.188.40.189]
+    }
+  ]
+}
