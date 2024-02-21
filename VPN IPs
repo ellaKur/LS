@@ -1,6 +1,6 @@
 {
   "description" : "",
-  "name" : "VPN lsrules",
+  "name" : "VPN IPs",
   "rules" : [
     {
       "process" : "any",
