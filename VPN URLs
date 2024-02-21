@@ -1,10 +1,9 @@
 {
-  "description" : "VPN URLs",
+  "description" : "",
   "name" : "From Hosts - VPN URLs",
   "rules" : [
     {
       "action" : "deny",
-      "direction" : 'outgoing",
       "remote-domains" : [
         "12vpn.com",
         "1clickvpn.net",
