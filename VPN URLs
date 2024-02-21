@@ -5,6 +5,7 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "su89-cdn.net",
         "12vpn.com",
         "1clickvpn.net",
         "acevpn.com",
