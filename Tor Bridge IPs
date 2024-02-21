@@ -1,6 +1,6 @@
 {
   "name": "Bridge IPs",
-  "description": "testing outgoing Bridge IPs",
+  "description": "Bridge IPs not allowed",
   "rules": [
     {
       "action": "deny",
