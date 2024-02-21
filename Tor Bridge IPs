@@ -5,6 +5,7 @@
     {
       "action": "deny",
       "process": "any",
+      "direction": "incoming",
       "remote-addresses": "104.244.75.74, 104.244.75.74, 131.188.40.189"
     }
   ]
