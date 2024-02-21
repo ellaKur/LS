@@ -1,6 +1,6 @@
 {
   "description" : "",
-  "name" : "From Hosts - VPN URLs",
+  "name" : "Hosts VPN URLs",
   "rules" : [
     {
       "action" : "deny",
