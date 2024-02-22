@@ -6,8 +6,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "hola.org",
-        "su89-cdn.net",
+        "h-vpn.org", "hola.org", "su89-cdn.net",
         "12vpn.com",
         "1clickvpn.net",
         "acevpn.com",
