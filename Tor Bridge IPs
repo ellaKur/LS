@@ -1,5 +1,5 @@
 {
-  "name": "Bridge IPs",
+  "name": "Tor Bridge IPs",
   "description": "Bridge IPs not allowed",
   "rules": [
     {
