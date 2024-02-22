@@ -6,7 +6,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "h-vpn.org", "hola.org", "su89-cdn.net",
+        "h-vpn.org", "hola.org", "su89-cdn.net", "yd6n63ptky.com",
         "12vpn.com",
         "1clickvpn.net",
         "acevpn.com",
@@ -296,7 +296,7 @@
       "action" : "deny",
       "direction" : "incoming",
       "remote-domains" : [
-        "h-vpn.org", "hola.org", "su89-cdn.net",
+        "h-vpn.org", "hola.org", "su89-cdn.net", "yd6n63ptky.com",
         "12vpn.com",
         "1clickvpn.net",
         "acevpn.com",
