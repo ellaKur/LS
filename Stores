@@ -1,0 +1,15 @@
+{
+  "description" : "Stores",
+  "name" : "Stores",
+  "rules" : [
+    {
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        “amp-api.apps.apple.com”, “osxapps.itunes.apple.com”, “amp-api-edge.apps.apple.com”,
+        "chrome.google.com", "chrome.webstore.com", "chromewebstore.google.com", "chromewebstore.googleapis.com",
+        "addons.mozilla.org",
+        "addons.opera.com”
+        ]
+    }
+}
