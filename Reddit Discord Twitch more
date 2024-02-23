@@ -16,7 +16,7 @@
         "discordstatus.com"
       ]
     }
-
+ 
     {
       "action" : "deny",
       "remote-domains" : [
