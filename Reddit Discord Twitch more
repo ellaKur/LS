@@ -1,5 +1,5 @@
 {
-  "description" : "",
+  "description" : "T",
   "name" : "reddit",
   "rules" : [
     {
@@ -22,7 +22,7 @@
 }
 
 {
-  "description" : "",
+  "description" : "D",
   "name" : "reddit",
   "rules" : [
     {
