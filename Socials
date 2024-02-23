@@ -5,6 +5,8 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "dating-chat.click", 
+
         "badoo.com",
         "bumble.com",
         "clover.co",
