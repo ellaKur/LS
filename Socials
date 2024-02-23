@@ -5,6 +5,14 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "myspace.com",
+        "myspacecdn.com"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "whatsapp.com",
         "whatsapp.net"
       ]
