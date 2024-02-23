@@ -1,7 +1,7 @@
 {
   "description" : "R D I T T",
   "name" : "R I T, etc",
-  "notes" : "Reddit, Twitch, Instagram, etc",
+  "notes" : "Reddit, Discord, Instagram, Telegram, Twitch, etc",
   "rules" : [
     {
       "action" : "deny",
