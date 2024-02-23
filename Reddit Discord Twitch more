@@ -17,6 +17,18 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "t.me",
+        "telegram.dog",
+        "telegram.me",
+        "telegram.org",
+        "telesco.pe",
+        "tg.dev"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "discord.co.uk",
         "discord.com",
         "discord.me",
