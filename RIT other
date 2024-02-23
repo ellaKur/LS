@@ -1,6 +1,6 @@
 {
   "description" : "",
-  "name" : "Reddit, Twitch, Instagram, etc",
+  "name" : "R T I etc",
   "direction" : "outgoing",
   "rules" : [
     {
