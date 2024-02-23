@@ -5,6 +5,20 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "tiktok.com",
+        "tiktok.org",
+        "tiktokcdn.com",
+        "byteoversea.com",
+        "bytedance.com",
+        "muscdn.com",
+        "musical.ly",
+        "musically.ly"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "twitter.com",
         "twitter.com.edgekey.net",
         "twimg.com",
