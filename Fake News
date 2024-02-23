@@ -2,7 +2,13 @@
   "description" : "",
   "name" : "fake news",
   "notes" : "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts",
-  "rules" : [
+  "rules" : [    {
+      "action" : "deny",
+      "remote-domains" : [
+        "blogspot.com"
+      ]
+    },
+
     {
       "action" : "deny",
       "remote-domains" : [
