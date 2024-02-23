@@ -1,6 +1,6 @@
 {
   "description" : "Stores",
-  "name" : "App Store URLs",
+  "name" : "Stores",
   "rules" : [
     {
       "action" : "deny",
