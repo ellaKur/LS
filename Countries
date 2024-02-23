@@ -5,6 +5,14 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "china.org.cn",
+	"cn.com"
+      ]
+    }, 
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "u-buy.com.ua",
 	"com.ua"
       ]
