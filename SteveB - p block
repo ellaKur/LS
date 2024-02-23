@@ -6,6 +6,13 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "myvip.co"
+        ]
+    },
+    
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "0.oldgyhogola.com",
         "0.xd-cdn.com",
         "0.xxx-cdn.com",
