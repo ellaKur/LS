@@ -1,0 +1,43 @@
+{
+  "description" : "",
+  "name" : "reddit",
+  "rules" : [
+    {
+      "action" : "deny",
+      "remote-domains" : [
+        "ext-twitch.tv",
+        "jtvnw.net",
+        "live-video.net",
+        "ttvnw.net",
+        "twitch-shadow.net",
+        "twitch.a2z.com",
+        "twitch.tv",
+        "twitchcdn-shadow.net",
+        "twitchcdn.net",
+        "twitchsvc-staging.tech",
+        "twitchsvc.net"
+      ]
+    }
+  ]
+}
+
+{
+  "description" : "",
+  "name" : "reddit",
+  "rules" : [
+    {
+      "action" : "deny",
+      "remote-domains" : [
+        "discord.co.uk",
+        "discord.com",
+        "discord.me",
+        "discord.media",
+        "discordapp.com",
+        "discordapp.gg",
+        "discordapp.net",
+        "discordservers.com",
+        "discordstatus.com"
+      ]
+    }
+  ]
+}
