@@ -1,10 +1,10 @@
 {
-  "description" : "",
-  "name" : "R T I etc",
-  "direction" : "outgoing",
+  "description" : "R I T",
+  "name" : "Reddit, Twitch, Instagram, etc",
   "rules" : [
     {
       "action" : "deny",
+      "direction" : "outgoing",
       "remote-domains" : [
         "4chan-ads.org",
         "4chan.org",
@@ -151,13 +151,13 @@
         "telesco.pe",
         "teleskoponline.info",
         "tg.dev",
-        "twitch.tv",
-        “twitch.a2z.com“,
-        “twitchcdn-shadow.net“,
-        “twitchcdn.net“,
-        “twitchsvc-staging.tech“,
-        “twitchsvc.net“,
         "twimg.com",
+        "twitch.a2z.com",
+        "twitch.tv",
+        "twitchcdn-shadow.net",
+        "twitchcdn.net",
+        "twitchsvc-staging.tech",
+        "twitchsvc.net",
         "twitter.com",
         "us.reddit.com",
         "v.redd.it",
