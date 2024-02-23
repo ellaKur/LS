@@ -1,6 +1,7 @@
 {
   "description" : "R I T",
-  "name" : "Reddit, Twitch, Instagram, etc",
+  "name" : "R I T, etc",
+  "notes" : "Reddit, Twitch, Instagram, etc",
   "rules" : [
     {
       "action" : "deny",
