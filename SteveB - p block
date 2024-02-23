@@ -1,7 +1,7 @@
 {
   "description" : "",
   "name" : "p block",
-  "notes" : "hostsVN Adult - URLs only",
+  "notes" : "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
   "rules" : [
     {
       "action" : "deny",
