@@ -1,7 +1,19 @@
 {
-  "description" : "",
-  "name" : "reddit",
+  "description" : "Bad SNets",
+  "name" : "Bad SNets",
   "rules" : [
+    {
+      "action" : "deny",
+      "remote-domains" : [
+        "t.me",
+        "telegram.dog",
+        "telegram.me",
+        "telegram.org",
+        "telesco.pe",
+        "tg.dev"
+      ]
+    },
+
     {
       "action" : "deny",
       "remote-domains" : [
