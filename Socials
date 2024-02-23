@@ -5,6 +5,31 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "messenger.com",
+        "facebook.com",
+        "facebook.be",
+        "facebook.de",
+        "facebook.dk",
+        "facebook.es",
+        "facebook.fr",
+        "facebook.is",
+        "facebook.it",
+        "facebook.jp",
+        "facebook.mx",
+        "facebook.nl",
+        "facebook.no",
+        "facebook.se",
+        "facebook.us",
+        "fbcdn.com",
+        "fbcdn.net",
+        "fb.ed",
+        "tfbnw.net"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "dating-chat.click", 
 
         "badoo.com",
