@@ -5,14 +5,8 @@
     {
       "action" : "deny",
       "remote-domains" : [
-        "tiktok.com",
-        "tiktok.org",
-        "tiktokcdn.com",
-        "byteoversea.com",
-        "bytedance.com",
-        "muscdn.com",
-        "musical.ly",
-        "musically.ly"
+        "whatsapp.com",
+        "whatsapp.net"
       ]
     },
 
