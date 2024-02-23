@@ -5,8 +5,16 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "twitter.com",
+        "threads.net"
+      ]
+    },
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "messenger.com",
         "facebook.com",
+        "facebook.com.edgekey.net",
         "facebook.be",
         "facebook.de",
         "facebook.dk",
@@ -20,13 +28,15 @@
         "facebook.no",
         "facebook.se",
         "facebook.us",
+        "facebook.com.edgesuite.net",
         "fbcdn.com",
         "fbcdn.net",
         "fb.ed",
         "fb.com",
         "fbsbx.com",
         "m.me",
-        "tfbnw.net"
+        "tfbnw.net",
+        "threads.net"
       ]
     },
 
