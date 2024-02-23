@@ -1,6 +1,7 @@
 {
   "description" : "",
-  "name" : "hostsVN Adult - URLs only",
+  "name" : p block"
+  "notes" : "hostsVN Adult - URLs only",
   "rules" : [
     {
       "action" : "deny",
