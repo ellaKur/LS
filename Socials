@@ -1,6 +1,6 @@
 {
-  "description" : "SNets",
-  "name" : "Bad SNets",
+  "description" : "Socials",
+  "name" : "SNets",
   "rules" : [
     {
       "action" : "deny",
