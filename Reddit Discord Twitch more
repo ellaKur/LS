@@ -5,6 +5,67 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "badoo.com",
+        "bumble.com",
+        "clover.co",
+        "coffeemeetsbagel.com",
+        "happn.com",
+        "hinge.co",
+        "lobi.co",
+        "match.com",
+        "mbga.jp",
+        "mixch.tv",
+        "mixi.jp",
+        "okcupid.com",
+        "pof.com",
+        "tinder.com",
+        "weareher.com"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
+        "admin.datememe.com",
+        "blog.datememe.com",
+        "bn.datememe.com",
+        "c1.datememe.com",
+        "c2.datememe.com",
+        "c3.datememe.com",
+        "datememe.com",
+        "de.datememe.com",
+        "en.datememe.com",
+        "es.datememe.com",
+        "fr.datememe.com",
+        "hi.datememe.com",
+        "id.datememe.com",
+        "ja.datememe.com",
+        "jv.datememe.com",
+        "ko.datememe.com",
+        "pt.datememe.com",
+        "ru.datememe.com",
+        "th.datememe.com",
+        "vi.datememe.com",
+        "zh-cn.datememe.com"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
+        "admin-staging.joinclubhouse.com",
+        "community.joinclubhouse.com",
+        "ios.joinclubhouse.com",
+        "joinclubhouse.com",
+        "staging.joinclubhouse.com",
+        "testflight.joinclubhouse.com",
+        "welcome.joinclubhouse.com"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "t.me",
         "telegram.dog",
         "telegram.me",
