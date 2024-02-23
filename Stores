@@ -10,7 +10,7 @@
         "chrome.google.com", "chrome.webstore.com", "chromewebstore.google.com", "chromewebstore.googleapis.com",
         "addons.mozilla.org",
         "addons.opera.com”
-			]
-    		}
-	]
+		]
+    	}
+]
 }
