@@ -47,7 +47,7 @@
       "action" : "deny",
       "remote-domains" : [
         "api.instagram.com",
-        "black.ish.instagram.com",,
+        "black.ish.instagram.com",
         "cdninstagram.com",
         "i.instagram.com",
         "instagram-shv-01-ams2.fbcdn.net",
