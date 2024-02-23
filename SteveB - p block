@@ -1,7 +1,7 @@
 {
   "description" : "",
   "name" : "p block",
-  "notes" : "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
+  "notes" : "abc",
   "rules" : [
     {
       "action" : "deny",
