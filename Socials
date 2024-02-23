@@ -5,6 +5,13 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "tumblr.com"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "myspace.com",
         "myspacecdn.com"
       ]
