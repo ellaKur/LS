@@ -6,9 +6,12 @@
       "action" : "deny",
       "remote-domains" : [
         "twitter.com",
-        "threads.net"
+        "twitter.com.edgekey.net",
+        "twimg.com",
+        "x.com"
       ]
     },
+
     {
       "action" : "deny",
       "remote-domains" : [
