@@ -152,6 +152,7 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "chpic.su",
         "t.me",
         "telegram.dog",
         "telegram.me",
