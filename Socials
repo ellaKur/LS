@@ -5,6 +5,14 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "truthsocial.org",
+        "truthsocial.com"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "4chan-ads.org",
         "4chan.org",
         "4tube.com"
