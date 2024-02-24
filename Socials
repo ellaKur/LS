@@ -71,6 +71,7 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "mailingonfire.com",
         "dating-chat.click", 
 
         "badoo.com",
