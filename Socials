@@ -35,6 +35,7 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "twitter.co.uk",
         "twitter.com",
         "twitter.com.edgekey.net",
         "twimg.com",
