@@ -48,6 +48,7 @@
       "action" : "deny",
       "remote-domains" : [
         "messenger.com",
+        "facebook.co.uk",
         "facebook.com",
         "facebook.com.edgekey.net",
         "facebook.be",
