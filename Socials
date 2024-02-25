@@ -27,6 +27,15 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "signal.com",
+        "signal.net",
+        "signal.org"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "whatsapp.com",
         "whatsapp.net"
       ]
