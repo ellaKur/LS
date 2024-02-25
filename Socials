@@ -7,7 +7,9 @@
       "remote-domains" : [
         "signal.com",
         "signal.net",
-        "signal.org"
+        "signal.org",
+        "quoracdn.net",
+        "quora.com"
       ]
     },
 
