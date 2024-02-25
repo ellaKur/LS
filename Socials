@@ -73,6 +73,7 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "youngsinglemeetups.com",
         "zoosk.com", 
         "mailingonfire.com",
         "dating-chat.click", 
