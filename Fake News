@@ -5,7 +5,9 @@
   "rules" : [    {
       "action" : "deny",
       "remote-domains" : [
-        "blogspot.com"
+        "blogspot.com",
+        "quora.com"
+
       ]
     },
 
