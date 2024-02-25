@@ -79,6 +79,9 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "snap.licdn.com",
+        "snap-date.com",
+
         "youngsinglemeetups.com",
         "zoosk.com", 
         "mailingonfire.com",
