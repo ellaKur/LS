@@ -90,6 +90,7 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "gab.com",
         "snap.licdn.com",
         "snap-date.com",
 
