@@ -5,6 +5,15 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "signal.com",
+        "signal.net",
+        "signal.org"
+      ]
+    },
+
+    {
+      "action" : "deny",
+      "remote-domains" : [
         "4chan-ads.org",
         "4chan.org",
         "4tube.com",
@@ -21,15 +30,6 @@
         "tumblr.com",
         "wordpress.com",
         "wp.com"
-      ]
-    },
-
-    {
-      "action" : "deny",
-      "remote-domains" : [
-        "signal.com",
-        "signal.net",
-        "signal.org"
       ]
     },
 
