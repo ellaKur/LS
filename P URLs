@@ -1,6 +1,6 @@
 {
   "description" : "2024-02-25",
-  "name" : "hostsVN Adult - URLs parsed v3",
+  "name" : "P",
   "rules" : [
     {
       "action" : "deny",
