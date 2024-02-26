@@ -1,15 +1,18 @@
 {
-  "description" : "Socials",
+  "description" : "2024-02-25 1635",
   "name" : "S",
   "rules" : [
     {
       "action" : "deny",
       "remote-domains" : [
+        "quoracdn.net",
+        "quora.com",
         "signal.com",
         "signal.net",
         "signal.org",
-        "quoracdn.net",
-        "quora.com"
+	"tiktok.com",
+        "whatsapp.com",
+        "whatsapp.net"
       ]
     },
 
@@ -32,14 +35,6 @@
         "tumblr.com",
         "wordpress.com",
         "wp.com"
-      ]
-    },
-
-    {
-      "action" : "deny",
-      "remote-domains" : [
-        "whatsapp.com",
-        "whatsapp.net"
       ]
     },
 
