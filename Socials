@@ -158,6 +158,7 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "chpic.su",
         "t.me",
 	"telegram.com",
         "telegram.dog",
@@ -167,19 +168,6 @@
         "tg.dev",
         "ru.codekeeper.Telegram",
         "telegram.im"
-      ]
-    },
-
-    {
-      "action" : "deny",
-      "remote-domains" : [
-        "chpic.su",
-        "t.me",
-        "telegram.dog",
-        "telegram.me",
-        "telegram.org",
-        "telesco.pe",
-        "tg.dev"
       ]
     },
 
