@@ -1,5 +1,5 @@
 {
-  "description" : "Stores",
+  "description" : "2024-02-25 1612",
   "name" : "Stores",
   "rules" : [
     {
@@ -9,14 +9,18 @@
         "addons.opera.com",
         "amp-api-edge.apps.apple.com",
         "amp-api.apps.apple.com",
+        "apk.cafe",
+        "appsdrop.com",
         "chrome.google.com",
         "chrome.webstore.com",
         "chromewebstore.google.com",
         "chromewebstore.googleapis.com",
-        "mobile9.com",
+        "downloads.digitaltrends.com",
         "mob.org",
+        "mobile9.com",
         "mrdownload.com",
-        "osxapps.itunes.apple.com"
+        "osxapps.itunes.apple.com",
+        "softonic.com"
       ]
     }
   ]
