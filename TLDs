@@ -1,11 +1,10 @@
 {
-  "description" : "2024-02-25 1700",
+  "description" : "2024-02-25 1710",
   "name" : "TLDs",
   "rules" : [
     {
       "action" : "deny",
       "remote-domains" : [
-        "analiax.ru",
         "ar.com",
         "bg",
         "co.cz",
@@ -13,29 +12,19 @@
         "co.ro",
         "co.ua",
         "co.za",
-        "cojo.ru",
         "com.ar",
         "com.tr",
         "com.ua",
-        "coop-land.ru",
-        "dikoross.ru",
-        "espritgames.ru",
-        "ggdt.ru",
-        "mail.ru",
         "mobi",
         "net.ar",
         "net.hr",
-        "nozdr.ru",
-        "peoples.ru",
         "ru",
         "ru.com",
-        "tgstat.ru",
         "tr",
         "ua",
         "vn",
         "xxx",
-        "xyz",
-        "yandex.ru"
+        "xyz"
       ]
     }
   ]
