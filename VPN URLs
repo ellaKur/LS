@@ -1,6 +1,6 @@
 {
-  "description" : "2024-02-25 1812",
-  "name" : "VPN URLs",
+  "description" : "2025-02-25 1930",
+  "name" : "V URLs",
   "rules" : [
     {
       "action" : "deny",
