@@ -1,6 +1,6 @@
 {
-  "description" : "",
-  "name" : "Tor Nodes - All",
+  "description" : "2024-02-25 1857",
+  "name" : "T Nodes - All",
   "rules" : [
     {
       "action" : "deny",
