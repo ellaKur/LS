@@ -1,6 +1,6 @@
 {
   "description" : "2025-02-25 1905",
-  "name" : "Tor Nodes All",
+  "name" : "T All",
   "rules" : [
     {
       "action" : "deny",
