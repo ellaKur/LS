@@ -1,6 +1,6 @@
 {
   "description" : "2024-02-25 1605",
-  "name" : "VPN IPs out, in",
+  "name" : "V IPs out, in",
   "rules" : [
     {
       "action" : "deny",
