@@ -1,5 +1,5 @@
 {
-  "description" : "2024-02-25 1635",
+  "description" : "2024-02-25 1827",
   "name" : "S",
   "rules" : [
     {
@@ -159,6 +159,7 @@
       "action" : "deny",
       "remote-domains" : [
         "t.me",
+	"telegram.com",
         "telegram.dog",
         "telegram.me",
         "telegram.org",
@@ -186,6 +187,7 @@
       "action" : "deny",
       "remote-domains" : [
         "discord.co.uk",
+	"discord.org",
         "discord.com",
         "discord.me",
         "discord.media",
