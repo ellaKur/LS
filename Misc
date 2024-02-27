@@ -1,9 +1,10 @@
 {
   "description" : "2024-02-26 2207",
   "name" : "Misc",
-  "rules" : [    {
-      "action" : "deny",
+  "rules" : [    
+    {
       "notes" : "File Sharing",
+      "action" : "deny",
       "remote-domains" : [
         "archive.com",
         "downvideo2.quora-wiki.com",
