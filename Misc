@@ -1,5 +1,5 @@
 {
-  "description" : "2024-02-25 2228",
+  "description" : "2024-02-26 1708",
   "name" : "Misc",
   "rules" : [
     {
@@ -48,9 +48,6 @@
         "vimeo.extole.com",
         "vimeocdn.com",
         "wapaz.co",
-        "www.vimeo.com",
-        "www.vimeocdn.com",
-        "www.wapaz.co",
         "zenvideo.org",
         "zerochan.net"
       ]
