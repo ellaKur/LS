@@ -1,6 +1,0 @@
-{
-  "name": "test",
-  "description": "test block list",
-  "denied-remote-domains": ["discord.com", "ru.com", "com.ru", "ar.com", "yandex.ru"]
-}
-
