@@ -1,5 +1,5 @@
 {
-  "description" : "2024-02-26 2250",
+  "description" : "2024-02-27 1340",
   "name" : "TLDs",
   "rules" : [
     {
@@ -29,6 +29,7 @@
         "net.ar",
         "net.hr",
         "ng",
+        "onion",
         "pk",
         "rs",
         "ru",
