@@ -90,7 +90,8 @@
     {
       "action" : "deny",
       "remote-domains" : [
-        "match.com",
+        "matchme.singles",
+	"match.com",
 	"wellhello.com",
 	"gab.com",
         "snap.licdn.com",
