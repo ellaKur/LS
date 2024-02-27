@@ -1,9 +1,9 @@
 {
-  "description" : "2025-02-25 1930",
+  "description" : "2024-02-26 2137",
   "name" : "V URLs",
   "rules" : [
     {
-      "action" : "deny",
+      "action" : "allow",
       "remote-domains" : [
         "12vpn.com",
         "1clickvpn.net",
@@ -203,6 +203,7 @@
         "torproject.com",
         "torproject.org",
         "torrentprivacy.com",
+        "totalav.com",
         "touchvpn.net",
         "trilightzone.org",
         "tunnelbear.com",
