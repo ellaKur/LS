@@ -1,11 +1,12 @@
 {
-  "description" : "2024-02-26 2149",
+  "description" : "2024-02-26 2158",
   "name" : "Misc",
-  "rules" : [
-    {
+  "rules" : [    {
       "action" : "deny",
       "remote-domains" : [
         "archive.com",
+        "downvideo2.quora-wiki.com",
+        "fetcherx.com",
         "mediafire.com",
         "mega.co.nz",
         "mega.com",
@@ -13,7 +14,11 @@
         "mega.nz",
         "megapay.nz",
         "pcloud.com",
-        "pixhost.to"
+        "pixhost.to",
+        "www.mega.co.nz",
+        "www.mega.io",
+        "www.mega.nz",
+        "www.megapay.nz"
       ]
     },
 
