@@ -3,7 +3,7 @@
   "name" : "Misc",
   "rules" : [    {
       "action" : "deny",
-      "notes" : "abcdefg",
+      "notes" : "File Sharing",
       "remote-domains" : [
         "archive.com",
         "downvideo2.quora-wiki.com",
