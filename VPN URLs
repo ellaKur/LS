@@ -1,9 +1,9 @@
 {
-  "description" : "2024-02-26 2137",
+  "description" : "2024-02-27 1444",
   "name" : "V URLs",
   "rules" : [
     {
-      "action" : "allow",
+      "action" : "deny",
       "remote-domains" : [
         "12vpn.com",
         "1clickvpn.net",
@@ -46,6 +46,7 @@
         "cyberghost.com",
         "cyberghostvpn.com",
         "dev-assets-cms.cyberghostvpn.com",
+        "dist.torproject.com",
         "dotvpn.com",
         "dreamvpn.us",
         "droidvpn.com",
@@ -108,6 +109,7 @@
         "malavida.com",
         "maxivpn.com",
         "mazevpn.com",
+        "metrics.torproject.com",
         "microvpn.com",
         "moca.io",
         "mullvad.net",
@@ -272,6 +274,7 @@
         "worldproxies.io",
         "worldvpn.net",
         "www",
+        "www.torproject.com",
         "wwwnjal.la",
         "wwwringvpn.com",
         "xvpn.io",
