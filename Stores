@@ -1,5 +1,5 @@
 {
-  "description" : "2024-02-25 1612",
+  "description" : "2024-02-26 2128",
   "name" : "Stores",
   "rules" : [
     {
@@ -11,16 +11,21 @@
         "amp-api.apps.apple.com",
         "apk.cafe",
         "appsdrop.com",
+        "bestfreewaredownload.com",
         "chrome.google.com",
         "chrome.webstore.com",
         "chromewebstore.google.com",
         "chromewebstore.googleapis.com",
         "downloads.digitaltrends.com",
+        "istripper.software.informer.com",
+        "macosx-update.com",
+        "macupdate.com",
         "mob.org",
         "mobile9.com",
         "mrdownload.com",
         "osxapps.itunes.apple.com",
-        "softonic.com"
+        "softonic.com",
+        "update-mac.com"
       ]
     }
   ]
