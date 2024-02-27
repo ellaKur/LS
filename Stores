@@ -1,5 +1,5 @@
 {
-  "description" : "2024-02-26 2128",
+  "description" : "2024-02-27 1434",
   "name" : "Stores",
   "rules" : [
     {
@@ -10,6 +10,7 @@
         "amp-api-edge.apps.apple.com",
         "amp-api.apps.apple.com",
         "apk.cafe",
+        "apps.appple.com",
         "appsdrop.com",
         "bestfreewaredownload.com",
         "chrome.google.com",
