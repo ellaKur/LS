@@ -20,7 +20,10 @@
     {
       "action" : "deny",
       "remote-domains" : [
+        "4hub.app",
         "7msport.com",
+        "alamy.com",
+        "archive.org",
         "bollywoodhungama.com",
         "bruinou.com",
         "ccm.net",
@@ -48,6 +51,10 @@
         "vimeo.extole.com",
         "vimeocdn.com",
         "wapaz.co",
+        "watchvideo.digital",
+        "www.vimeo.com",
+        "www.vimeocdn.com",
+        "www.wapaz.co",
         "zenvideo.org",
         "zerochan.net"
       ]
