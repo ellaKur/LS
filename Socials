@@ -5,7 +5,8 @@
     {
       "action" : "deny",
       "remote-domains" : [
-        "quoracdn.net",
+        "meprofile.site",
+	"quoracdn.net",
         "quora.com",
         "signal.com",
         "signal.net",
