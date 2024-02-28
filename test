@@ -1,0 +1,14 @@
+{
+   "description"  :  "my  description", 
+   "name":"V  IPs  incoming", 
+   "rules"  :  [ 
+     { 
+       "action"  :  "deny", 
+       "direction"  :  "outgoing", 
+       "remote-domains"  :  [ 
+        "nyt.com",
+        "washpost.com"
+       ] 
+     } 
+   ] 
+}
