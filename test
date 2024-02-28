@@ -1,14 +1,15 @@
 {
-   "description"  :  "my  description", 
-   "name":"V  IPs  incoming", 
-   "rules"  :  [ 
-     { 
-       "action"  :  "deny", 
-       "direction"  :  "outgoing", 
-       "remote-domains"  :  [ 
+  "description" : "2024-02-28 1352",
+  "name" : "test",
+  "rules" : [
+    {
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
         "nyt.com",
+        "nytimes.com",
         "washpost.com"
-       ] 
-     } 
-   ] 
+      ]
+    }
+ ]
 }
