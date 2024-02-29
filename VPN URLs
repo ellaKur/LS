@@ -1,8 +1,9 @@
 {
-  "description" : "2024-02-29 1223",
+  "description" : "2024-02-29 1504",
   "name" : "V",
   "rules" : [
     {
+      "notes" : "VPN",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
