@@ -1,5 +1,5 @@
 {
-  "description" : "2024-02-28 1736",
+  "description" : "2024-02-28 1741",
   "name" : "test",
   "rules" : [
     {
@@ -13,7 +13,7 @@
     },
     {
       "action" : "deny",
-      "direction" : "incomining",
+      "direction" : "incoming",
       "remote-domains" : [
         "nyt.com",
         "nytimes.com",
