@@ -1,33 +1,33 @@
 {
-  "description" : "2024-02-27 1434",
+  "description" : "2024-02-29 1504",
   "name" : "Stores",
   "rules" : [
     {
+      "notes" : "stores",
       "action" : "deny",
+      "direction" : "outgoing",
       "remote-domains" : [
         "addons.mozilla.org",
-        "addons.opera.com",
-        "amp-api-edge.apps.apple.com",
-        "amp-api.apps.apple.com",
         "apk.cafe",
-        "apps.appple.com",
+        "apps.apple.com",
         "appsdrop.com",
         "bestfreewaredownload.com",
         "chrome.google.com",
         "chrome.webstore.com",
         "chromewebstore.google.com",
         "chromewebstore.googleapis.com",
-        "downloads.digitaltrends.com",
-        "istripper.software.informer.com",
+        "digitaltrends.com",
+        "informer.com",
+        "itunes.apple.com",
         "macosx-update.com",
         "macupdate.com",
         "mob.org",
         "mobile9.com",
         "mrdownload.com",
-        "osxapps.itunes.apple.com",
+        "opera.com",
         "softonic.com",
         "update-mac.com"
       ]
     }
-  ]
+ ]
 }
