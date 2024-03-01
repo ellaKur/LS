@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-01 1256",
+  "description" : "2024-03-01 1317",
   "name" : "S",
   "rules" : [
     {
@@ -98,7 +98,6 @@
         "gab.com",
         "happn.com",
         "hinge.co",
-        "licdn.com",
         "lobi.co",
         "luckycharmdating.com",
         "mailingonfire.com",
@@ -110,6 +109,7 @@
         "okcupid.com",
         "pof.com",
         "snap-date.com",
+        "snap.licdn.com",
         "tinder.com",
         "weareher.com",
         "wellhello.com",
