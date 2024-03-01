@@ -71,16 +71,17 @@
         "ampproject.org",
         "fastly.net",
         "redd.it",
+        "reddit-image.s3.amazonaws.com",
         "reddit-stream.com",
         "reddit.com",
         "redditblog.com",
         "redditgifts.com",
+        "redditgifts.s3.amazonaws.com",
         "redditinc.com",
         "redditmedia.com",
         "redditstatic.com",
         "reddituploads.com",
-        "s3-accelerate.amazonaws.com",
-        "s3.amazonaws.com"
+        "s3-accelerate.amazonaws.com"
       ]
     },
     {
