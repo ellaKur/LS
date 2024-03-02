@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-01 1043",
+  "description" : "2024-03-02 1225",
   "name" : "TLDs",
   "rules" : [
     {
@@ -9,6 +9,7 @@
       "remote-domains" : [
         "ar.com",
         "bg",
+        "club",
         "co.cr",
         "co.cz",
         "co.hu",
