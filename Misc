@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-03 0908",
+  "description" : "2024-03-03 1207",
   "name" : "Misc",
   "rules" : [
     {
@@ -191,12 +191,15 @@
       ]
     },
     {
-      "notes" : "fileStorage",
+      "notes" : "file storage",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
         "archive.com",
+        "dailydownloaded.com",
         "fetcherx.com",
+        "informer.com",
+        "macupdater.net",
         "mediafire.com",
         "mega.co.nz",
         "mega.com",
@@ -204,7 +207,12 @@
         "mega.nz",
         "megapay.nz",
         "pcloud.com",
-        "quora-wiki.com"
+        "quora-wiki.com",
+        "rapidgator.net",
+        "rumble.com",
+        "save4k.com",
+        "soft32.com",
+        "top4download.com"
       ]
     },
     {
