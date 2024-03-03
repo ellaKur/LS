@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-02 1225",
+  "description" : "2024-03-03 0908",
   "name" : "S",
   "rules" : [
     {
@@ -69,7 +69,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "ampproject.org",
-        "fastly.net",
+        "map.fastly.net",
         "redd.it",
         "reddit-image.s3.amazonaws.com",
         "reddit-stream.com",
