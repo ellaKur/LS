@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-02 1225",
+  "description" : "2024-03-03 0908",
   "name" : "Misc",
   "rules" : [
     {
@@ -41,24 +41,6 @@
         "watchvideo.digital",
         "zenvideo.org",
         "zerochan.net"
-      ]
-    },
-    {
-      "notes" : "spamMail",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "5jxyfawv3.net",
-        "appositively.jpn.com",
-        "creatential.com",
-        "dtfmessenger.com",
-        "elasticemail.com",
-        "grillquest.cfd",
-        "highendhkps.com",
-        "mail.ru",
-        "mailtknnews.com",
-        "us.com",
-        "wry-drawer.de"
       ]
     },
     {
@@ -138,6 +120,7 @@
         "donga.com",
         "downmagaz.net",
         "downzen.com",
+        "elasticemail.com",
         "espritgames.ru",
         "fdsc.ro",
         "flasharch.com",
