@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-03 0908",
+  "description" : "2024-03-03 1207",
   "name" : "Spam Email",
   "rules" : [
     {
@@ -18,10 +18,13 @@
         "cabaniasanlorenzo.com.ar",
         "cantarelliservicos.com.br",
         "cnc-metal.hr",
+        "co.id",
         "co.ug",
+        "com.tr",
         "cosal.ro",
         "creatential.com",
         "dtfmessenger.com",
+        "easyhfc.com",
         "elasticemail.com",
         "electuallynews.com",
         "eu.com",
@@ -49,6 +52,7 @@
         "plannelson.com",
         "prelucia.com",
         "profoto.jp",
+        "shgpu.com.ua",
         "sprint.cl",
         "sulfurious.com",
         "tesamproyectos.com",
