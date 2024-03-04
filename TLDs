@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-02 1225",
+  "description" : "2024-03-04 1311",
   "name" : "TLDs",
   "rules" : [
     {
@@ -13,6 +13,7 @@
         "co.cr",
         "co.cz",
         "co.hu",
+        "co.id",
         "co.il",
         "co.in",
         "co.nl",
@@ -20,6 +21,7 @@
         "co.nz",
         "co.ro",
         "co.ua",
+        "co.ug",
         "co.za",
         "com.ar",
         "com.br",
@@ -32,6 +34,7 @@
         "ru.com",
         "tr",
         "vn",
+        "xxx",
         "xyz"
       ]
     }
