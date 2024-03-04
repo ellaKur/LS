@@ -35,24 +35,6 @@
       ]
     },
     {
-      "notes" : "Twitch",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "a2z.com",
-        "ext-twitch.tv",
-        "jtvnw.net",
-        "live-video.net",
-        "ttvnw.net",
-        "twitch-shadow.net",
-        "twitch.tv",
-        "twitchcdn-shadow.net",
-        "twitchcdn.net",
-        "twitchsvc-staging.tech",
-        "twitchsvc.net"
-      ]
-    },
-    {
       "notes" : "Reddit",
       "action" : "deny",
       "direction" : "outgoing",
@@ -184,6 +166,24 @@
         "threads.net",
         "whatsapp.com",
         "whatsapp.net"
+      ]
+    },
+    {
+      "notes" : "Twitch",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "ext-twitch.tv",
+        "jtvnw.net",
+        "live-video.net",
+        "ttvnw.net",
+        "twitch-shadow.net",
+        "twitch.a2z.com",
+        "twitch.tv",
+        "twitchcdn-shadow.net",
+        "twitchcdn.net",
+        "twitchsvc-staging.tech",
+        "twitchsvc.net"
       ]
     },
     {
