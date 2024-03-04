@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-03 0908",
+  "description" : "2024-03-04 1311",
   "name" : "S",
   "rules" : [
     {
@@ -50,17 +50,6 @@
         "twitchcdn.net",
         "twitchsvc-staging.tech",
         "twitchsvc.net"
-      ]
-    },
-    {
-      "notes" : "Instagram",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "akamaihd.net",
-        "cdninstagram.com",
-        "instagram.co.uk",
-        "instagram.com"
       ]
     },
     {
@@ -115,6 +104,17 @@
         "wellhello.com",
         "youngsinglemeetups.com",
         "zoosk.com"
+      ]
+    },
+    {
+      "notes" : "Instagram",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "cdninstagram.com",
+        "instagram.co.uk",
+        "instagram.com",
+        "instagramstatic-a.akamaihd.net"
       ]
     },
     {
@@ -191,6 +191,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "itch.io",
         "pontetibetanomatera.it",
         "sharechat.com"
       ]
