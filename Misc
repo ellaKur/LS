@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-03 1207",
+  "description" : "2024-03-04 1311",
   "name" : "Misc",
   "rules" : [
     {
@@ -153,7 +153,6 @@
         "normhaber.com",
         "nozdr.ru",
         "otosection.com",
-        "ouo.io",
         "parameter.sk",
         "patorjack.com",
         "peoples.ru",
@@ -216,10 +215,20 @@
       ]
     },
     {
+      "notes" : "shortening",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "bit.ly",
+        "ouo.io"
+      ]
+    },
+    {
       "notes" : "malware",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "bunkrr.su",
         "dynssl.com",
         "nulled.to"
       ]
