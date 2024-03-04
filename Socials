@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-04 1311",
+  "description" : "2024-03-04 1330",
   "name" : "S",
   "rules" : [
     {
@@ -18,8 +18,6 @@
         "meprofile.site",
         "myspace.com",
         "myspacecdn.com",
-        "quora.com",
-        "quoracdn.net",
         "signal.com",
         "signal.net",
         "signal.org",
@@ -194,6 +192,16 @@
         "itch.io",
         "pontetibetanomatera.it",
         "sharechat.com"
+      ]
+    },
+    {
+      "notes" : "quora",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "quora-wiki.com",
+        "quora.com",
+        "quoracdn.net"
       ]
     },
     {
