@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-04 1330",
+  "description" : "2024-03-04 1515",
   "name" : "S",
   "rules" : [
     {
@@ -30,6 +30,16 @@
         "vk.com",
         "wordpress.com",
         "wp.com"
+      ]
+    },
+    {
+      "notes" : "social",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "almondraf.itch.io",
+        "pontetibetanomatera.it",
+        "sharechat.com"
       ]
     },
     {
@@ -82,7 +92,6 @@
         "tinder.com",
         "weareher.com",
         "wellhello.com",
-        "youngsinglemeetups.com",
         "zoosk.com"
       ]
     },
@@ -92,9 +101,12 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "cdninstagram.com",
+        "facebook.com",
+        "fbcdn.net",
         "instagram.co.uk",
         "instagram.com",
-        "instagramstatic-a.akamaihd.net"
+        "instagramstatic-a.akamaihd.net",
+        "net.edgesuite.net"
       ]
     },
     {
@@ -115,29 +127,12 @@
       ]
     },
     {
-      "notes" : "Discord",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "discord.co.uk",
-        "discord.com",
-        "discord.me",
-        "discord.media",
-        "discord.org",
-        "discordapp.com",
-        "discordapp.gg",
-        "discordapp.net",
-        "discordservers.com",
-        "discordstatus.com"
-      ]
-    },
-    {
       "notes" : "Facebook",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "edgekey.net",
-        "edgesuite.net",
+        "com.edgekey.net",
+        "com.edgesuite.net",
         "facebook.be",
         "facebook.co.uk",
         "facebook.com",
@@ -167,6 +162,36 @@
       ]
     },
     {
+      "notes" : "Twitter",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "com.edgekey.net",
+        "t.co",
+        "twimg.com",
+        "twitter.co.uk",
+        "twitter.com",
+        "x.com"
+      ]
+    },
+    {
+      "notes" : "Discord",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "discord.co.uk",
+        "discord.com",
+        "discord.me",
+        "discord.media",
+        "discord.org",
+        "discordapp.com",
+        "discordapp.gg",
+        "discordapp.net",
+        "discordservers.com",
+        "discordstatus.com"
+      ]
+    },
+    {
       "notes" : "Twitch",
       "action" : "deny",
       "direction" : "outgoing",
@@ -185,16 +210,6 @@
       ]
     },
     {
-      "notes" : "social",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "itch.io",
-        "pontetibetanomatera.it",
-        "sharechat.com"
-      ]
-    },
-    {
       "notes" : "quora",
       "action" : "deny",
       "direction" : "outgoing",
@@ -202,18 +217,6 @@
         "quora-wiki.com",
         "quora.com",
         "quoracdn.net"
-      ]
-    },
-    {
-      "notes" : "Twitter",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "t.co",
-        "twimg.com",
-        "twitter.co.uk",
-        "twitter.com",
-        "x.com"
       ]
     }
  ]
