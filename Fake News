@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-03 1207",
+  "description" : "2024-03-04 1515",
   "name" : "Fake News",
   "rules" : [
     {
@@ -324,7 +324,6 @@
         "columbiamonews.com",
         "columbiastandard.com",
         "columbusstandard.com",
-        "com.au",
         "com.de",
         "computing.news",
         "conchovalleynews.com",
@@ -1884,6 +1883,7 @@
         "therussophile.org",
         "thesaker.is",
         "thesconi.com",
+        "theshovel.com.au",
         "theskunk.org",
         "thesleuthjournal.com",
         "thespiritscience.net",
