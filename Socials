@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-04 1515",
+  "description" : "2024-03-05 1753",
   "name" : "S",
   "rules" : [
     {
@@ -47,11 +47,13 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "ampproject.org",
+        "amp-reddit-com.cdn.ampproject.org",
         "map.fastly.net",
         "redd.it",
         "reddit-image.s3.amazonaws.com",
         "reddit-stream.com",
+        "reddit-uploaded-media.s3-accelerate.amazonaws.com",
+        "reddit-uploaded-video.s3-accelerate.amazonaws.com",
         "reddit.com",
         "redditblog.com",
         "redditgifts.com",
@@ -59,8 +61,7 @@
         "redditinc.com",
         "redditmedia.com",
         "redditstatic.com",
-        "reddituploads.com",
-        "s3-accelerate.amazonaws.com"
+        "reddituploads.com"
       ]
     },
     {
