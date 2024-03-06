@@ -1,12 +1,13 @@
 {
-  "description" : "2024-03-05 1753",
+  "description" : "2024-03-06 1237",
   "name" : "Misc",
   "rules" : [
     {
-      "notes" : "wasteOfTime",
+      "notes" : "waste of time",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "24fa.com",
         "4hub.app",
         "7msport.com",
         "alamy.com",
@@ -27,16 +28,25 @@
         "iglives.tv",
         "livestream.com",
         "minitool.com",
+        "nairaland.com",
+        "nhyt5reds.click",
+        "picuki.com",
         "pond5.com",
+        "qdzhengzheng.com",
+        "rashtradeepika.com",
         "setn.com",
         "slamxhype.com",
+        "softsilo.com",
         "sportbikes.net",
+        "spotlistr.com",
         "steamcommunity.com",
         "thetfp.com",
         "vhx.com",
         "vhx.tv",
+        "videovor.com",
         "vimeo.com",
         "vimeocdn.com",
+        "vizzed.com",
         "wapaz.co",
         "watchvideo.digital",
         "zenvideo.org",
@@ -120,7 +130,6 @@
         "donga.com",
         "downmagaz.net",
         "downzen.com",
-        "elasticemail.com",
         "espritgames.ru",
         "fdsc.ro",
         "flasharch.com",
@@ -197,7 +206,6 @@
         "archive.com",
         "dailydownloaded.com",
         "fetcherx.com",
-        "informer.com",
         "macupdater.net",
         "mediafire.com",
         "mega.co.nz",
@@ -210,6 +218,19 @@
         "rumble.com",
         "save4k.com",
         "top4download.com"
+      ]
+    },
+    {
+      "notes" : "misc",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "arsoniststuffed.com",
+        "justservingfiles.net",
+        "mohugen.com",
+        "naszemiasto.com",
+        "naszemiasto.pl",
+        "qq.com"
       ]
     },
     {
@@ -229,14 +250,6 @@
         "bunkrr.su",
         "dynssl.com",
         "nulled.to"
-      ]
-    },
-    {
-      "notes" : "misc",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "mohugen.com"
       ]
     },
     {
