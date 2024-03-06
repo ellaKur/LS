@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-05 1753",
+  "description" : "2024-03-06 1237",
   "name" : "S",
   "rules" : [
     {
@@ -11,13 +11,7 @@
         "4chan.org",
         "delachat.com",
         "joinclubhouse.com",
-        "mastodon.art",
-        "mastodon.com",
-        "mastodon.social",
-        "mastodon.world",
         "meprofile.site",
-        "myspace.com",
-        "myspacecdn.com",
         "signal.com",
         "signal.net",
         "signal.org",
@@ -39,7 +33,9 @@
       "remote-domains" : [
         "almondraf.itch.io",
         "pontetibetanomatera.it",
-        "sharechat.com"
+        "sharechat.com",
+        "telegra.ph",
+        "telegraphonline.com"
       ]
     },
     {
@@ -78,9 +74,11 @@
         "gab.com",
         "happn.com",
         "hinge.co",
+        "hitwe.com",
         "lobi.co",
         "luckycharmdating.com",
         "mailingonfire.com",
+        "mastermatchmakers.com",
         "match.com",
         "matchme.singles",
         "mbga.jp",
@@ -128,6 +126,19 @@
       ]
     },
     {
+      "notes" : "Twitter",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "com.edgekey.net",
+        "t.co",
+        "twimg.com",
+        "twitter.co.uk",
+        "twitter.com",
+        "x.com"
+      ]
+    },
+    {
       "notes" : "Facebook",
       "action" : "deny",
       "direction" : "outgoing",
@@ -163,19 +174,6 @@
       ]
     },
     {
-      "notes" : "Twitter",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "com.edgekey.net",
-        "t.co",
-        "twimg.com",
-        "twitter.co.uk",
-        "twitter.com",
-        "x.com"
-      ]
-    },
-    {
       "notes" : "Discord",
       "action" : "deny",
       "direction" : "outgoing",
@@ -208,6 +206,36 @@
         "twitchcdn.net",
         "twitchsvc-staging.tech",
         "twitchsvc.net"
+      ]
+    },
+    {
+      "notes" : "Mastadon",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "mastadon.com",
+        "mastadon.net"
+      ]
+    },
+    {
+      "notes" : "Mastodon",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "mastodon.art",
+        "mastodon.com",
+        "mastodon.online",
+        "mastodon.social",
+        "mastodon.world"
+      ]
+    },
+    {
+      "notes" : "MySpace",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "myspace.com",
+        "myspacecdn.com"
       ]
     },
     {
