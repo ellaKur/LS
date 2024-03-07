@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-06 1237",
-  "name" : "Misc",
+  "description" : "2024-03-06 2010",
+  "name" : "misc o",
   "rules" : [
     {
       "notes" : "waste of time",
@@ -60,6 +60,7 @@
       "remote-domains" : [
         "a9.com",
         "ahmia.fi",
+        "algolia.com",
         "alltheweb.com",
         "altavista.com",
         "apksum.com",
@@ -102,10 +103,12 @@
         "swisscows.com",
         "teoma.com",
         "thenet1.com",
+        "topsearchesgo.net",
         "webcrawler.com",
         "yahoo.com",
         "yandex.com",
         "yandex.ru",
+        "yandex.traffic",
         "yippy.com"
       ]
     },
@@ -115,12 +118,16 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "aajkikhabar.com",
+        "academia.edu",
+        "al.ro",
         "alicdn.com",
         "analiax.ru",
+        "archiebot.com",
         "avg.com",
         "ayrildimsonunda.online",
         "biofreear.live",
         "btvnovinite.bg",
+        "cash.app",
         "ccidns.net",
         "cojo.ru",
         "coop-land.ru",
@@ -130,7 +137,10 @@
         "donga.com",
         "downmagaz.net",
         "downzen.com",
+        "dsectspledged.guru",
+        "elfsightcdn.com",
         "espritgames.ru",
+        "everipedia.org",
         "fdsc.ro",
         "flasharch.com",
         "fonwall.ru",
@@ -143,8 +153,10 @@
         "gravityrd-services.com",
         "haberturk.com",
         "hk01.com",
+        "hotcore.info",
         "hurriyet.com",
         "igamesfinder.com",
+        "imginn.com",
         "imgur.com",
         "inertia.com",
         "infobae.com",
@@ -157,10 +169,13 @@
         "medyabaskent.com",
         "medyaradar.com",
         "minuto30.com",
+        "momson.info",
         "myftp.info",
         "mynet.com",
         "normhaber.com",
         "nozdr.ru",
+        "nsfw247.to",
+        "oiipdf.com",
         "otosection.com",
         "parameter.sk",
         "patorjack.com",
@@ -175,14 +190,18 @@
         "supermechs.com",
         "taboola.com",
         "tgstat.ru",
+        "thrtle.com",
         "tienda.ir",
         "ubuy.hu",
         "uptodown.com",
+        "vdmfls.com",
         "vdocuments.mx",
+        "viewyentreat.guru",
         "viralsachxd.com",
         "volantholidays.com",
         "wikimedia.org",
         "wikisource.org",
+        "worldgirlportal.com",
         "xzpmail.com",
         "you.com"
       ]
@@ -195,6 +214,8 @@
         "alohabrowser.com",
         "brave.com",
         "opera.com",
+        "torproject.com",
+        "torproject.org",
         "waterfox.net"
       ]
     },
@@ -203,6 +224,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "amoyshare.com",
         "archive.com",
         "dailydownloaded.com",
         "fetcherx.com",
@@ -239,7 +261,8 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "bit.ly",
-        "ouo.io"
+        "ouo.io",
+        "ouo.press"
       ]
     },
     {
@@ -248,8 +271,12 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "bunkrr.su",
+        "crax.pro",
+        "crypto.com",
         "dynssl.com",
-        "nulled.to"
+        "iq.wiki",
+        "nulled.to",
+        "stgy.ovh"
       ]
     },
     {
