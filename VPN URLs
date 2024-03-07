@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-05 1753",
-  "name" : "V",
+  "description" : "2024-03-06 2010",
+  "name" : "VPN o",
   "rules" : [
     {
       "notes" : "VPN",
@@ -190,8 +190,6 @@
         "thesafety.us",
         "top10vpn.com",
         "torguard.net",
-        "torproject.com",
-        "torproject.org",
         "torrentprivacy.com",
         "totalav.com",
         "touchvpn.net",
