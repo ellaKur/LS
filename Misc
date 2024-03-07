@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-06 2010",
+  "description" : "2024-03-07 1126",
   "name" : "misc o",
   "rules" : [
     {
@@ -280,6 +280,14 @@
       ]
     },
     {
+      "notes" : "DNS",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "mozilla.cloudflare-dns.com"
+      ]
+    },
+    {
       "notes" : "wallpaper",
       "action" : "deny",
       "direction" : "outgoing",
@@ -288,6 +296,14 @@
         "w-dog.org",
         "wallhaven.cc",
         "wallhere.com"
+      ]
+    },
+    {
+      "notes" : "Browser",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "waterfox.net"
       ]
     }
  ]
