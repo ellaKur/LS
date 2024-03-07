@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-05 1753",
-  "name" : "Stores",
+  "description" : "2024-03-06 2010",
+  "name" : "stores o",
   "rules" : [
     {
       "notes" : "stores",
@@ -17,6 +17,8 @@
         "chromewebstore.google.com",
         "chromewebstore.googleapis.com",
         "digitaltrends.com",
+        "dvdvideosoft.net",
+        "ebay.ch",
         "informer.com",
         "itch.io",
         "itunes.apple.com",
