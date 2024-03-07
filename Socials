@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-06 1237",
-  "name" : "S",
+  "description" : "2024-03-06 2010",
+  "name" : "social o",
   "rules" : [
     {
       "notes" : "misc",
@@ -11,6 +11,7 @@
         "4chan.org",
         "delachat.com",
         "joinclubhouse.com",
+        "joyland.ai",
         "meprofile.site",
         "signal.com",
         "signal.net",
@@ -126,19 +127,6 @@
       ]
     },
     {
-      "notes" : "Twitter",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "com.edgekey.net",
-        "t.co",
-        "twimg.com",
-        "twitter.co.uk",
-        "twitter.com",
-        "x.com"
-      ]
-    },
-    {
       "notes" : "Facebook",
       "action" : "deny",
       "direction" : "outgoing",
@@ -171,6 +159,19 @@
         "threads.net",
         "whatsapp.com",
         "whatsapp.net"
+      ]
+    },
+    {
+      "notes" : "Twitter",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "com.edgekey.net",
+        "t.co",
+        "twimg.com",
+        "twitter.co.uk",
+        "twitter.com",
+        "x.com"
       ]
     },
     {
@@ -246,6 +247,22 @@
         "quora-wiki.com",
         "quora.com",
         "quoracdn.net"
+      ]
+    },
+    {
+      "notes" : "telegram",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "telegram.im"
+      ]
+    },
+    {
+      "notes" : "twitch",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "twitchtracker.com"
       ]
     }
  ]
