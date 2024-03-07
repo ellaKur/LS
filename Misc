@@ -54,6 +54,21 @@
       ]
     },
     {
+      "notes" : "DoH",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "a.nel.cloudflare.com",
+        "chrome.cloudflare-dns.com",
+        "chromium.dns.nextdns.com",
+        "chromium.dns.nextdns.io",
+        "dns.google",
+        "doh.cleanbrowsing.org",
+        "doh.opendns.com",
+        "mozilla.cloudflare-dns.com"
+      ]
+    },
+    {
       "notes" : "search",
       "action" : "deny",
       "direction" : "outgoing",
@@ -277,14 +292,6 @@
         "iq.wiki",
         "nulled.to",
         "stgy.ovh"
-      ]
-    },
-    {
-      "notes" : "DNS",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "mozilla.cloudflare-dns.com"
       ]
     },
     {
