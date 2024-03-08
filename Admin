@@ -1,0 +1,28 @@
+{
+  "description" : "2024-03-08 1141",
+  "name" : "admin o",
+  "rules" : [
+    {
+      "notes" : "admin",
+      "action" : "allow",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "canvaslms.com",
+        "cengage.com",
+        "cengage.io",
+        "com.malwarebytes.mbam.rtprotection.daemon",
+        "doc.jmu.edu",
+        "duosecurity.com",
+        "falcon.jmu.edu",
+        "jmu.edu",
+        "jmu.joinhandshake.com",
+        "malwarebytes.com",
+        "nyt.com",
+        "obdev.at",
+        "qustodio.com",
+        "raven.jmu.edu",
+        "zybooks.com"
+      ]
+    }
+ ]
+}
