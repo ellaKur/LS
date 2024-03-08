@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-08 1141",
+  "description" : "2024-03-08 1717",
   "name" : "misc o",
   "rules" : [
     {
@@ -392,6 +392,7 @@
         "dns.google",
         "doh.cleanbrowsing.org",
         "doh.opendns.com",
+        "dooh.cloudflare-dns.com",
         "mozilla.cloudflare-dns.com",
         "quad9.net",
         "xfinity.com"
