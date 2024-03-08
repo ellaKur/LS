@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-06 2010",
+  "description" : "2024-03-08 1717",
   "name" : "TLD o",
   "rules" : [
     {
@@ -27,7 +27,6 @@
         "com.br",
         "com.tr",
         "com.ua",
-        "mobi",
         "net.ar",
         "net.hr",
         "ru",
