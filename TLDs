@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-08 1717",
+  "description" : "2024-03-09 1611",
   "name" : "TLD o",
   "rules" : [
     {
@@ -7,8 +7,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "am",
         "ar.com",
         "bg",
+        "cf",
         "club",
         "co.cr",
         "co.cz",
@@ -29,6 +31,7 @@
         "com.ua",
         "net.ar",
         "net.hr",
+        "rs",
         "ru",
         "ru.com",
         "tr",
