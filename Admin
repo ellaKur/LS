@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-08 1141",
+  "description" : "2024-03-09 1611",
   "name" : "admin o",
   "rules" : [
     {
@@ -7,6 +7,7 @@
       "action" : "allow",
       "direction" : "outgoing",
       "remote-domains" : [
+        "auth.qustodio.com",
         "canvaslms.com",
         "cengage.com",
         "cengage.io",
@@ -14,13 +15,17 @@
         "doc.jmu.edu",
         "duosecurity.com",
         "falcon.jmu.edu",
+        "gradescope.com",
+        "itfederation.jmu.edu",
         "jmu.edu",
         "jmu.joinhandshake.com",
         "malwarebytes.com",
+        "network.access.jmu.edu",
         "nyt.com",
         "obdev.at",
         "qustodio.com",
         "raven.jmu.edu",
+        "w3.cs.jmu.edu",
         "zybooks.com"
       ]
     }
