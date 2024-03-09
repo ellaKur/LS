@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-08 1717",
-  "name" : "S o",
+  "description" : "2024-03-09 1611",
+  "name" : "social o",
   "rules" : [
     {
       "notes" : "misc",
@@ -10,13 +10,19 @@
         "4chan-ads.org",
         "4chan.org",
         "delachat.com",
+        "flickr.com",
+        "izoomyou.com",
         "joinclubhouse.com",
         "joyland.ai",
         "meprofile.site",
+        "openverse.com",
+        "photo.blog",
+        "plurk.com",
         "signal.com",
         "signal.net",
         "signal.org",
         "snapchat.com",
+        "socialpointgames.com",
         "tiktok.com",
         "truthsocial.com",
         "truthsocial.org",
@@ -67,26 +73,32 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "badoo.com",
+        "bdsmir.com",
         "bumble.com",
         "clover.co",
         "coffeemeetsbagel.com",
         "datememe.com",
         "dating-chat.click",
+        "easymeetcute.com",
         "gab.com",
         "happn.com",
+        "heartbeathookups.com",
         "hinge.co",
         "hitwe.com",
         "lobi.co",
+        "lovesrader.com",
         "luckycharmdating.com",
         "mailingonfire.com",
         "mastermatchmakers.com",
         "match.com",
         "matchme.singles",
+        "matchwebsite.online",
         "mbga.jp",
         "mixch.tv",
         "mixi.jp",
         "okcupid.com",
         "pof.com",
+        "simpledatespot.com",
         "snap-date.com",
         "snap.licdn.com",
         "tinder.com",
@@ -181,6 +193,7 @@
       "remote-domains" : [
         "discord.co.uk",
         "discord.com",
+        "discord.gg",
         "discord.me",
         "discord.media",
         "discord.org",
@@ -206,7 +219,8 @@
         "twitchcdn-shadow.net",
         "twitchcdn.net",
         "twitchsvc-staging.tech",
-        "twitchsvc.net"
+        "twitchsvc.net",
+        "twitchtracker.com"
       ]
     },
     {
@@ -240,29 +254,27 @@
       ]
     },
     {
-      "notes" : "quora",
+      "notes" : "Pinterest",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "pinimg.com",
+        "pinterest.ch",
+        "pinterest.co.uk",
+        "pinterest.com",
+        "pinterest.de",
+        "pinterest.fr",
+        "pinterest.ph"
+      ]
+    },
+    {
+      "notes" : "Quora",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
         "quora-wiki.com",
         "quora.com",
         "quoracdn.net"
-      ]
-    },
-    {
-      "notes" : "telegram",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "telegram.im"
-      ]
-    },
-    {
-      "notes" : "twitch",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "twitchtracker.com"
       ]
     }
  ]
