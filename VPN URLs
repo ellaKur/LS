@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-06 2010",
-  "name" : "VPN o",
+  "description" : "2024-03-09 1611",
+  "name" : "V o",
   "rules" : [
     {
       "notes" : "VPN",
@@ -139,6 +139,7 @@
         "privatetunnel.com",
         "privatevpn.com",
         "privatewifi.com",
+        "protonstatus.com",
         "protonvpn.com",
         "protonvpn.mac",
         "provpnaccounts.com",
@@ -200,6 +201,8 @@
         "turbovpn.com",
         "tuvpn.com",
         "tuxlervpn.com",
+        "tweakwarevpn.net",
+        "ufovon.io",
         "ufovpn.io",
         "ukproxyserver.com",
         "unblock-us.com",
