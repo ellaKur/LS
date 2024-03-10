@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-10 1831",
-  "name" : "S o",
+  "description" : "2024-03-10 1837",
+  "name" : "S",
   "rules" : [
     {
       "notes" : "misc",
@@ -92,7 +92,6 @@
         "mastermatchmakers.com",
         "match.com",
         "matchme.singles",
-        "matchwebsite.online",
         "mbga.jp",
         "mixch.tv",
         "mixi.jp",
@@ -139,28 +138,15 @@
       ]
     },
     {
-      "notes" : "Twitter",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "com.edgekey.net",
-        "t.co",
-        "twimg.com",
-        "twitter.co.uk",
-        "twitter.com",
-        "x.com"
-      ]
-    },
-    {
       "notes" : "Facebook",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "com.edgekey.net",
         "com.edgesuite.net",
         "facebook.be",
         "facebook.co.uk",
         "facebook.com",
+        "facebook.com.edgekey.net",
         "facebook.de",
         "facebook.dk",
         "facebook.es",
@@ -286,6 +272,19 @@
         "snaptiko.com",
         "tiktok.com",
         "tiktok.pm"
+      ]
+    },
+    {
+      "notes" : "Twitter",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "t.co",
+        "twimg.com",
+        "twitter.co.uk",
+        "twitter.com",
+        "twitter.com.edgekey.net",
+        "x.com"
       ]
     }
  ]
