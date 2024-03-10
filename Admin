@@ -1,6 +1,7 @@
 {
-  "description" : "2024-03-09 1611",
-  "name" : "admin o",
+  "description" : "2024-03-10 1837",
+  "name" : "admin",
+  "action" : "allow",
   "rules" : [
     {
       "notes" : "admin",
