@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-09 1611",
-  "name" : "fake news o",
+  "description" : "2024-03-10 1837",
+  "name" : "fake news",
   "rules" : [
     {
       "notes" : "fake news",
@@ -304,6 +304,7 @@
         "climatesciencenews.com",
         "clintonreview.com",
         "clivenews.com",
+        "cnn.com.de",
         "co.zw",
         "coachellatoday.com",
         "coalregionnews.com",
@@ -324,7 +325,6 @@
         "columbiamonews.com",
         "columbiastandard.com",
         "columbusstandard.com",
-        "com.de",
         "computing.news",
         "conchovalleynews.com",
         "concordledger.com",
