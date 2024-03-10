@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-09 1611",
+  "description" : "2024-03-10 1831",
   "name" : "S o",
   "rules" : [
     {
@@ -23,7 +23,6 @@
         "signal.org",
         "snapchat.com",
         "socialpointgames.com",
-        "tiktok.com",
         "truthsocial.com",
         "truthsocial.org",
         "tumbex.com",
@@ -74,6 +73,7 @@
       "remote-domains" : [
         "badoo.com",
         "bdsmir.com",
+        "bravodate.com",
         "bumble.com",
         "clover.co",
         "coffeemeetsbagel.com",
@@ -139,6 +139,19 @@
       ]
     },
     {
+      "notes" : "Twitter",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "com.edgekey.net",
+        "t.co",
+        "twimg.com",
+        "twitter.co.uk",
+        "twitter.com",
+        "x.com"
+      ]
+    },
+    {
       "notes" : "Facebook",
       "action" : "deny",
       "direction" : "outgoing",
@@ -171,19 +184,6 @@
         "threads.net",
         "whatsapp.com",
         "whatsapp.net"
-      ]
-    },
-    {
-      "notes" : "Twitter",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "com.edgekey.net",
-        "t.co",
-        "twimg.com",
-        "twitter.co.uk",
-        "twitter.com",
-        "x.com"
       ]
     },
     {
@@ -224,24 +224,25 @@
       ]
     },
     {
+      "notes" : "Mastodon",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "livester.net",
+        "mastodon.art",
+        "mastodon.com",
+        "mastodon.online",
+        "mastodon.social",
+        "mastodon.world"
+      ]
+    },
+    {
       "notes" : "Mastadon",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
         "mastadon.com",
         "mastadon.net"
-      ]
-    },
-    {
-      "notes" : "Mastodon",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "mastodon.art",
-        "mastodon.com",
-        "mastodon.online",
-        "mastodon.social",
-        "mastodon.world"
       ]
     },
     {
@@ -275,6 +276,16 @@
         "quora-wiki.com",
         "quora.com",
         "quoracdn.net"
+      ]
+    },
+    {
+      "notes" : "TikTok",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "snaptiko.com",
+        "tiktok.com",
+        "tiktok.pm"
       ]
     }
  ]
