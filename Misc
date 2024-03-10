@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-10 1831",
-  "name" : "misc o",
+  "description" : "2024-03-10 1837",
+  "name" : "misc",
   "rules" : [
     {
       "notes" : "DoH_aux",
@@ -223,7 +223,6 @@
         "doh.applied-privacy.net",
         "doh.azoris.ovh",
         "doh.bortzmeyer.fr",
-        "doh.cleanbrowsing.org",
         "doh.corpa.me",
         "doh.datahata.by",
         "doh.disconnect.app",
@@ -454,7 +453,6 @@
         "ayrildimsonunda.online",
         "berivanimki.online",
         "bigosext8s.com",
-        "biofreear.live",
         "btvnovinite.bg",
         "cash.app",
         "ccidns.net",
@@ -484,7 +482,6 @@
         "fucsia.com",
         "fyc-vidin.org",
         "gamerdam.com",
-        "gaultpalisfy.top",
         "gazetevatan.com",
         "ggdt.ru",
         "ggpht.com",
@@ -497,7 +494,6 @@
         "hombre100.com",
         "hotcore.info",
         "hurriyet.com",
-        "igamesfinder.com",
         "imginn.com",
         "imgur.com",
         "in.gr",
@@ -565,7 +561,7 @@
       ]
     },
     {
-      "notes" : "malware",
+      "notes" : "suspicious",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
