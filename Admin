@@ -1,7 +1,6 @@
 {
   "description" : "2024-03-10 1837",
   "name" : "admin",
-  "action" : "allow",
   "rules" : [
     {
       "notes" : "admin",
