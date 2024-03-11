@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-10 1837",
+  "description" : "2024-03-11 1300",
   "name" : "admin",
   "rules" : [
     {
@@ -7,6 +7,7 @@
       "action" : "allow",
       "direction" : "outgoing",
       "remote-domains" : [
+        "api.qustodio.com",
         "auth.qustodio.com",
         "canvaslms.com",
         "cengage.com",
@@ -20,11 +21,14 @@
         "jmu.edu",
         "jmu.joinhandshake.com",
         "malwarebytes.com",
+        "mwbsys.com",
         "network.access.jmu.edu",
         "nyt.com",
         "obdev.at",
         "qustodio.com",
         "raven.jmu.edu",
+        "sirius.mwbsys.com",
+        "telemetry.malwarebytes.com",
         "w3.cs.jmu.edu",
         "zybooks.com"
       ]
