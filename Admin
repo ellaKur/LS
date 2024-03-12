@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-11 1858",
+  "description" : "2024-03-12 1837",
   "name" : "admin",
   "rules" : [
     {
@@ -14,7 +14,8 @@
         "github.com",
         "github.githubassets.com",
         "obdev.at",
-        "raw.githubusercontent.com"
+        "raw.githubusercontent.com",
+        "sw-update.obdev.at"
       ]
     },
     {
