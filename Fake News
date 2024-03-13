@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-10 1837",
+  "description" : "2024-03-13 1635",
   "name" : "fake news",
   "rules" : [
     {
@@ -774,10 +774,10 @@
         "immunization.news",
         "imperialcanews.com",
         "imzansi.co.za",
-        "indiaarising.com",
         "indianabusinessdaily.com",
         "indianolaguide.com",
         "indiantownguide.com",
+        "indiaarising.com",
         "industrytxguide.com",
         "indystandard.com",
         "infiniteunknown.net",
@@ -1981,7 +1981,6 @@
         "upstatescnews.com",
         "urbandaletimes.com",
         "urbanreform.org",
-        "usaaroundtheworldnews.com",
         "usadailypolitics.com",
         "usahitman.com",
         "usanewsflash.com",
@@ -2000,6 +1999,7 @@
         "usslibertyveterans.org",
         "usuncut.com",
         "usviral.info",
+        "usaaroundtheworldnews.com",
         "utahvalleytimes.com",
         "utbusinessdaily.com",
         "vabusinessdaily.com",
