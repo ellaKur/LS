@@ -1,6 +1,6 @@
 {
-  "description" : "2024-03-10 1837",
-  "name" : "V",
+  "description" : "2024-03-13 1635",
+  "name" : "VPN",
   "rules" : [
     {
       "notes" : "VPN",
@@ -9,9 +9,6 @@
       "remote-domains" : [
         "12vpn.com",
         "1clickvpn.net",
-        "Fortinet.com",
-        "Kaspersky.com",
-        "Malavida.com",
         "acevpn.com",
         "activpn.com",
         "adguard-vpn.com",
@@ -65,6 +62,7 @@
         "fastvpn.com",
         "finevpn.org",
         "flashvpn.li",
+        "Fortinet.com",
         "fragthelag.com",
         "freedomvpn.info",
         "freevpnplanet.com",
@@ -99,6 +97,7 @@
         "itovpn.com",
         "ivacy.com",
         "ivpn.net",
+        "Kaspersky.com",
         "kebrum.com",
         "kryptotel.net",
         "ladownloads.com",
@@ -107,6 +106,7 @@
         "libertyvpn.net",
         "logmein.com",
         "macrovpn.com",
+        "Malavida.com",
         "maxivpn.com",
         "mazevpn.com",
         "microvpn.com",
