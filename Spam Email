@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-12 1837",
+  "description" : "2024-03-14 1048",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,15 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "electuallynews.com",
+        "sake-ariyama.co.jp",
+        "dasinhotel.com",
+        "mochihiko.co.jp",
+        "theoasisgroup.com.au",
+        "CupidConnect.com",
+        "spriotion.com",
+        "femainic.com",
+        "aribern.com",
         "005ngz1.us.com",
         "27806.us",
         "5jxyfawv3.net",
@@ -46,7 +55,6 @@
         "easyhfc.com",
         "edz.com.lb",
         "elasticemail.com",
-        "electuallynews.com",
         "ewbvqqeyt.us.com",
         "exclusternation.com",
         "experiendl.com",
@@ -119,7 +127,6 @@
         "sjche.com",
         "skorzelius.com",
         "sprint.cl",
-        "spriotion.com",
         "ss400.com",
         "stbwb6i.us.com",
         "stuyvesantation.com",
