@@ -3,7 +3,7 @@
   "name" : "P",
   "rules" : [
     {
-      "notes" : "porn",
+      "notes" : "P",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
