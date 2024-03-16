@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-14 1048",
+  "description" : "2024-03-15 1020",
   "name" : "S",
   "rules" : [
     {
@@ -21,6 +21,7 @@
         "signal.net",
         "signal.org",
         "snapchat.com",
+        "socialblade.com",
         "socialpointgames.com",
         "truthsocial.com",
         "truthsocial.org",
