@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-16 0852",
+  "description" : "2024-03-16 0922",
   "name" : "porn",
   "rules" : [
     {
@@ -7,6 +7,9 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "yt1s.com",
+        "yt1s.name",
+        "yt1ss.pro",
         "8kcosplay.com",
         "turbobita.net",
         "turbobit.net",
