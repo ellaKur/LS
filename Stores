@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-13 1635",
+  "description" : "2024-03-15 1020",
   "name" : "stores",
   "rules" : [
     {
@@ -7,12 +7,13 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "ccm.net",
         "addons.mozilla.org",
+        "addons.opera.com",
         "apk.cafe",
         "apps.apple.com",
         "appsdrop.com",
         "bestfreewaredownload.com",
+        "ccm.net",
         "chrome.google.com",
         "chrome.webstore.com",
         "chromewebstore.google.com",
@@ -27,7 +28,6 @@
         "mob.org",
         "mobile9.com",
         "mrdownload.com",
-        "addons.opera.com",
         "soft32.com",
         "softonic.com",
         "techspot.com",
