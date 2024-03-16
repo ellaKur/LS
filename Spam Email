@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-15 1020",
+  "description" : "2024-03-16 1518",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "exclusternation.com",
         "005ngz1.us.com",
         "27806.us",
         "5jxyfawv3.net",
@@ -53,7 +54,6 @@
         "elasticemail.com",
         "electuallynews.com",
         "ewbvqqeyt.us.com",
-        "exclusternation.com",
         "experiendl.com",
         "faikltaogkuxxx.us",
         "fairparken-ad.com",
