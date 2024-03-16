@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-13 1635",
+  "description" : "2024-03-16 1518",
   "name" : "VPN",
   "rules" : [
     {
@@ -176,7 +176,7 @@
         "snapvpn.net",
         "sparklabs.com",
         "spicevpn.com",
-        "stackexchange.com",
+        "tor.stackexchange.com",
         "starvpn.com",
         "streamvia.com",
         "strongvpn.com",
