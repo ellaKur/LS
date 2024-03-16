@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-13 1635",
+  "description" : "2024-03-15 1020",
   "name" : "TLD",
   "rules" : [
     {
@@ -7,8 +7,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "ar.com",
         "am",
+        "ar.com",
         "bg",
         "cf",
         "club",
