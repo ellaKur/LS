@@ -1,12 +1,18 @@
 {
-  "description" : "2024-03-15 1020",
-  "name" : "P",
+  "description" : "2024-03-16 0852",
+  "name" : "porn",
   "rules" : [
     {
       "notes" : "porn",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "8kcosplay.com",
+        "turbobita.net",
+        "turbobit.net",
+        "vidello.net",
+        "camcaps.to",
+        "mattube.com",
         "0006666.net",
         "007angels.com",
         "007dating.com",
@@ -6106,7 +6112,6 @@
         "camcam.cc",
         "camcaps.io",
         "camcaps.net",
-        "camcaps.to",
         "camcelebs.club",
         "camchat.vip",
         "camchatcontacts.com",
