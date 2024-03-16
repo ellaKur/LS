@@ -1,29 +1,7 @@
 {
-  "description" : "2024-03-13 1635",
+  "description" : "2024-03-15 1020",
   "name" : "admin",
   "rules" : [
-    {
-      "notes" : "JMU",
-      "action" : "allow",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "itfederation.jmu.edu",
-        "canvaslms.com",
-        "cengage.com",
-        "cengage.io",
-        "doc.jmu.edu",
-        "duosecurity.com",
-        "falcon.jmu.edu",
-        "gradescope.com",
-        "jmu.edu",
-        "jmu.joinhandshake.com",
-        "maerizvi.github.io",
-        "network.access.jmu.edu",
-        "raven.jmu.edu",
-        "w3.cs.jmu.edu",
-        "zybooks.com"
-      ]
-    },
     {
       "notes" : "LS",
       "action" : "allow",
@@ -48,6 +26,28 @@
         "auth.qustodio.com",
         "qustodio.com",
         "qustodio.sjv.io"
+      ]
+    },
+    {
+      "notes" : "JMU",
+      "action" : "allow",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "canvaslms.com",
+        "cengage.com",
+        "cengage.io",
+        "doc.jmu.edu",
+        "duosecurity.com",
+        "falcon.jmu.edu",
+        "gradescope.com",
+        "itfederation.jmu.edu",
+        "jmu.edu",
+        "jmu.joinhandshake.com",
+        "maerizvi.github.io",
+        "network.access.jmu.edu",
+        "raven.jmu.edu",
+        "w3.cs.jmu.edu",
+        "zybooks.com"
       ]
     },
     {
