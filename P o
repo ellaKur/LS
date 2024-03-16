@@ -1,21 +1,22 @@
 {
-  "description" : "2024-03-16 0922",
-  "name" : "porn",
+  "description" : "2024-03-16 1306",
+  "name" : "P",
   "rules" : [
     {
       "notes" : "porn",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "yt1s.com",
-        "yt1s.name",
-        "yt1ss.pro",
-        "8kcosplay.com",
-        "turbobita.net",
-        "turbobit.net",
-        "vidello.net",
+        "maroseat.com",
+        "majordatinghub.com",
+        "checkoutgirlsnow.com",
+        "exclusternation.com",
+        "meetfunwomen.com",
+        "xpickup.com",
+        "cheaters.com",
+        "nostringsfun.com",
+        "meetsm.link",
         "camcaps.to",
-        "mattube.com",
         "0006666.net",
         "007angels.com",
         "007dating.com",
@@ -3864,7 +3865,6 @@
         "badadultgirls.com",
         "badashley.com",
         "badassangels.com",
-        "badassdownloader.com",
         "badblackbabes.com",
         "badblacksex.com",
         "badclick.co",
@@ -6760,7 +6760,6 @@
         "checkgaiviet.com",
         "checkgaiviet.pro",
         "checkgaiviet.us",
-        "checkoutgirlsnow.com",
         "checkoutmychick.com",
         "checkporno.com",
         "checkporno.vip",
@@ -20987,7 +20986,6 @@
         "mainxnxx.com",
         "maisaiz.nl",
         "maisexo.com",
-        "majordatinghub.com",
         "makarova23.ru",
         "makeangelskneel.com",
         "makecharitycool.com",
@@ -21161,7 +21159,6 @@
         "mariemccray.com",
         "markt.de",
         "marleecd.ru.com",
-        "maroseat.com",
         "marrion-av.com",
         "marvelousteens.eu",
         "marwadisexvideos.com",
@@ -21702,7 +21699,6 @@
         "meet4night.com",
         "meetandfuckgames.com",
         "meetav.com",
-        "meetfunwomen.com",
         "meetinchat.com",
         "meetingtodayandtomorrow.com",
         "meetlocals.com",
@@ -46545,6 +46541,21 @@
         "aaaporn.net",
         "aaavids.com",
         "aaaxh.life"
+      ]
+    },
+    {
+      "notes" : "host",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "vidello.net",
+        "yt1s.com",
+        "yt1s.name",
+        "yt1ss.pro",
+        "8kcosplay.com",
+        "turbobita.net",
+        "turbobit.net",
+        "badassdownloader.com"
       ]
     }
  ]
