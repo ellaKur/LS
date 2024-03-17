@@ -7,11 +7,11 @@
       "action" : "allow",
       "direction" : "outgoing",
       "remote-domains" : [
-        "alive.github.com",
-        "api.github.com",
-        "collector.github.com",
-        "github.com",
-        "github.githubassets.com",
+        "PAUSEDalive.github.com",
+        "PAUSEDapi.github.com",
+        "PAUSEDcollector.github.com",
+        "PAUSEDgithub.com",
+        "PAUSEDgithub.githubassets.com",
         "obdev.at",
         "raw.githubusercontent.com",
         "sw-update.obdev.at"
