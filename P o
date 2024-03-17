@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-17 0944",
+  "description" : "2024-03-17 1351",
   "name" : "P",
   "rules" : [
     {
@@ -7,6 +7,11 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "mjt.lu",
+        "hotdatingmatches.com",
+        "flingnotices.com",
+        "xhookupfinder.com",
+        "digitalpostretail.com",
         "NsfwSpy.NET",
         "shad-base.com",
         "summertimessaga.wordpress.com",
@@ -11139,7 +11144,6 @@
         "fling.com",
         "flingfuck.com",
         "flingmatches.com",
-        "flingnotices.com",
         "flingster.com",
         "flingtube.com",
         "fliporno.net",
@@ -16127,7 +16131,6 @@
         "hotcutiegirls.com",
         "hotdaddyporn.com",
         "hotdamnsam.com",
-        "hotdatingmatches.com",
         "hotdesifuck.pro",
         "hotdesigirlsfuck.com",
         "hotdesipics.co",
@@ -42331,7 +42334,6 @@
         "xhomealone.com",
         "xhomegrown.com",
         "xhoneys.com",
-        "xhookupfinder.com",
         "xhookups.com",
         "xhopen.com",
         "xhornet.com",
@@ -46564,4 +46566,3 @@
     }
  ]
 }
-
