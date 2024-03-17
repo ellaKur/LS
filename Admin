@@ -1,22 +1,7 @@
 {
-  "description" : "2024-03-15 2353",
+  "description" : "2024-03-17 0815",
   "name" : "admin",
   "rules" : [
-    {
-      "notes" : "LS",
-      "action" : "allow",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "PAUSEDalive.github.com",
-        "PAUSEDapi.github.com",
-        "PAUSEDcollector.github.com",
-        "PAUSEDgithub.com",
-        "PAUSEDgithub.githubassets.com",
-        "obdev.at",
-        "raw.githubusercontent.com",
-        "sw-update.obdev.at"
-      ]
-    },
     {
       "notes" : "Qustodio",
       "action" : "allow",
@@ -68,6 +53,16 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "nyt.com"
+      ]
+    },
+    {
+      "notes" : "LS",
+      "action" : "allow",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "obdev.at",
+        "raw.githubusercontent.com",
+        "sw-update.obdev.at"
       ]
     }
  ]
