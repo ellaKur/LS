@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-16 1518",
+  "description" : "2024-03-17 0815",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "separasite.com",
+        "espacodogourmet.com.br",
         "exclusternation.com",
         "005ngz1.us.com",
         "27806.us",
@@ -125,7 +127,6 @@
         "qpdamqlaq.us.com",
         "rticularly.com",
         "sake-ariyama.co.jp",
-        "separasite.com",
         "shgpu.com.ua",
         "siwoo-int.com",
         "sjche.com",
