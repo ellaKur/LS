@@ -1,12 +1,13 @@
 {
-  "description" : "2024-03-15 1020",
-  "name" : "S",
+  "description" : "2024-03-17 0815",
+  "name" : "social",
   "rules" : [
     {
       "notes" : "misc",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "Socialblade.com",
         "4chan-ads.org",
         "4chan.org",
         "delachat.com",
