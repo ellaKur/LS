@@ -1,12 +1,18 @@
 {
-  "description" : "2024-03-17 0815",
-  "name" : "P",
+  "description" : "2024-03-17 0944",
+  "name" : "porn",
   "rules" : [
     {
       "notes" : "porn",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "NsfwSpy.NET",
+        "shad-base.com",
+        "summertimessaga.wordpress.com",
+        "summertime-saga.mrdownload.com",
+        "summertime-saga.en.uptodown.com",
+        "summertimesaga.com",
         "sirsave.com",
         "instasaverpro.com",
         "getnaughtytonight.com",
@@ -34724,7 +34730,6 @@
         "sh-cdn.com",
         "shabakngy.com",
         "shabbyvirgins.com",
-        "shad-base.com",
         "shadbase.com",
         "shadbase.us",
         "shadbase.xxx",
@@ -35976,9 +35981,7 @@
         "sukkisukki.net",
         "sultanswomen.com",
         "summersinners.com",
-        "summertime-saga.en.uptodown.com",
         "summertime-saga.net",
-        "summertimesaga.com",
         "summertimesagadownload.com",
         "sumoporn.mobi",
         "sumosear.ch",
