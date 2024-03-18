@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-18 1202",
+  "description" : "2024-03-18 1705",
   "name" : "P",
   "rules" : [
     {
@@ -7,10 +7,19 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "chatrandom.com",
+        "temptationtonight.com",
+        "mytemptationtonight.com",
+        "moonlightingbabes.com",
         "rarinsu.space",
         "sirsave.com",
         "clicktocouple.online",
         "coellan.com",
+        "cantmissmeetups.com",
+        "cuteyoungladies.com",
+        "wannahookup.com",
+        "smartdatingsolutions.com",
+        "shoutout.wix.com",
         "localdate24.com",
         "fuckbookmeet.com",
         "arisehope.info",
@@ -18,9 +27,7 @@
         "instadatematches.com",
         "daxmi.com",
         "pickyourplaymate.com",
-        "wannahookup.com",
         "chat-avenue.com",
-        "moonlightingbabes.com",
         "remembergirl.com",
         "neon-share.club",
         "newbluetrue.xyz",
@@ -6416,7 +6423,6 @@
         "cannonclam.com",
         "canshetakeit.com",
         "cantender.com",
-        "cantmissmeetups.com",
         "caoporn.com.es",
         "capsai-escort.de",
         "captainstabbin.com",
@@ -6715,7 +6721,6 @@
         "chatorgasm.com",
         "chatovod-com.ru",
         "chatovod.com",
-        "chatrandom.com",
         "chatrazvrat.com",
         "chatroulette-xxx.online",
         "chatroulette.com",
@@ -7886,7 +7891,6 @@
         "cutexxxmovies.pro",
         "cutexxxteen.ru",
         "cutexxxvideos.com",
-        "cuteyoungladies.com",
         "cutieamateurs.com",
         "cutieland.xyz",
         "cutiesbank.com",
@@ -35022,7 +35026,6 @@
         "shortxv.com",
         "shotas.co",
         "shoujoramune.com",
-        "shoutout.wix.com",
         "shovavon.co.il",
         "showbeauty.com",
         "showbuaz.net",
@@ -46570,6 +46573,15 @@
         "aaaporn.net",
         "aaavids.com",
         "aaaxh.life"
+      ]
+    },
+    {
+      "notes" : "suspicious",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "camgel.com",
+        "camsurf.com"
       ]
     },
     {
