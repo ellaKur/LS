@@ -1,19 +1,23 @@
 {
-  "description" : "2024-03-17 2321",
-  "name" : "S",
+  "description" : "2024-03-18 0650",
+  "name" : "social",
   "rules" : [
     {
       "notes" : "chat",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "groups.io",
+        "io.",
+        "chatkr.com",
+        "kidschat.net",
+        "1v1chat.me",
         "yesichat.com",
         "teenkidschat.com",
         "chatogo.com",
         "teenagers.chat",
         "alloteens.org",
         "meetyou.me",
-        "kidschat.net",
         "tochato.com",
         "koolkidschat.com",
         "momjunction.com",
