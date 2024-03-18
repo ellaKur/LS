@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-18 0707",
+  "description" : "2024-03-18 1202",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "k19.cn",
         "inmoflo.com",
         "emonstrato.com",
         "forcessful.co",
