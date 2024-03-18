@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-18 0650",
+  "description" : "2024-03-18 0707",
   "name" : "P",
   "rules" : [
     {
@@ -7,6 +7,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "localdate24.com",
+        "fuckbookmeet.com",
+        "arisehope.info",
+        "securemeets69.com",
         "instadatematches.com",
         "daxmi.com",
         "pickyourplaymate.com",
