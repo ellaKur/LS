@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-18 0707",
+  "description" : "2024-03-18 1202",
   "name" : "P",
   "rules" : [
     {
@@ -7,6 +7,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "rarinsu.space",
+        "sirsave.com",
+        "clicktocouple.online",
+        "coellan.com",
         "localdate24.com",
         "fuckbookmeet.com",
         "arisehope.info",
@@ -47,7 +51,6 @@
         "summertime-saga.mrdownload.com",
         "summertime-saga.en.uptodown.com",
         "summertimesaga.com",
-        "sirsave.com",
         "instasaverpro.com",
         "getnaughtytonight.com",
         "greatdatexfinder.com",
