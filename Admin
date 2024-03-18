@@ -1,16 +1,13 @@
 {
-  "description" : "2024-03-17 0815",
+  "description" : "2024-03-18 1705",
   "name" : "admin",
   "rules" : [
     {
-      "notes" : "Qustodio",
+      "notes" : "admin",
       "action" : "allow",
       "direction" : "outgoing",
       "remote-domains" : [
-        "api.qustodio.com",
-        "auth.qustodio.com",
-        "qustodio.com",
-        "qustodio.sjv.io"
+        "nyt.com"
       ]
     },
     {
@@ -36,6 +33,16 @@
       ]
     },
     {
+      "notes" : "LS",
+      "action" : "allow",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "obdev.at",
+        "raw.githubusercontent.com",
+        "sw-update.obdev.at"
+      ]
+    },
+    {
       "notes" : "Malwarebytes",
       "action" : "allow",
       "direction" : "outgoing",
@@ -48,21 +55,14 @@
       ]
     },
     {
-      "notes" : "admin",
+      "notes" : "Qustodio",
       "action" : "allow",
       "direction" : "outgoing",
       "remote-domains" : [
-        "nyt.com"
-      ]
-    },
-    {
-      "notes" : "LS",
-      "action" : "allow",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "obdev.at",
-        "raw.githubusercontent.com",
-        "sw-update.obdev.at"
+        "api.qustodio.com",
+        "auth.qustodio.com",
+        "qustodio.com",
+        "qustodio.sjv.io"
       ]
     }
  ]
