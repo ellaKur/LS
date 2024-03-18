@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-17 0815",
+  "description" : "2024-03-17 2235",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,14 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "emonstrato.com",
+        "forcessful.co",
+        "fancy-suit.de",
+        "doksandokum.com.tr",
+        "theinsurancequoter.com",
+        "afasi.com.mx",
+        "or.kr",
+        "insirestence.com",
         "separasite.com",
         "espacodogourmet.com.br",
         "exclusternation.com",
@@ -79,7 +87,6 @@
         "hofokam.co.ug",
         "imporarch.com",
         "imssg.net",
-        "insirestence.com",
         "intiland.com",
         "ix589vf.us.com",
         "japanracing.eu",
@@ -109,7 +116,6 @@
         "obuolys.lt",
         "opliso.com",
         "optiquid.com",
-        "or.kr",
         "org.pt",
         "palominoservices.com",
         "parched-hope.de",
