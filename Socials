@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-18 1202",
+  "description" : "2024-03-18 1705",
   "name" : "S",
   "rules" : [
     {
@@ -8,6 +8,9 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "teen-chat.org",
+        "chartoo.com",
+        "chatra.com",
+        "livechat.com",
         "group.io",
         "groups.io",
         "io.",
@@ -26,71 +29,6 @@
         "ktc-chat.com",
         "teenchathouse.com",
         "kidsteenchat.com"
-      ]
-    },
-    {
-      "notes" : "misc",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "Socialblade.com",
-        "4chan-ads.org",
-        "4chan.org",
-        "delachat.com",
-        "flickr.com",
-        "izoomyou.com",
-        "joinclubhouse.com",
-        "joyland.ai",
-        "openverse.com",
-        "photo.blog",
-        "plurk.com",
-        "signal.com",
-        "signal.net",
-        "signal.org",
-        "snapchat.com",
-        "socialblade.com",
-        "socialpointgames.com",
-        "truthsocial.com",
-        "truthsocial.org",
-        "tumbex.com",
-        "tumblr.com",
-        "vk.com",
-        "wordpress.com",
-        "wp.com"
-      ]
-    },
-    {
-      "notes" : "social",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "almondraf.itch.io",
-        "pontetibetanomatera.it",
-        "sharechat.com",
-        "telegra.ph",
-        "telegraphonline.com"
-      ]
-    },
-    {
-      "notes" : "Reddit",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "amp-reddit-com.cdn.ampproject.org",
-        "map.fastly.net",
-        "redd.it",
-        "reddit-image.s3.amazonaws.com",
-        "reddit-stream.com",
-        "reddit-uploaded-media.s3-accelerate.amazonaws.com",
-        "reddit-uploaded-video.s3-accelerate.amazonaws.com",
-        "reddit.com",
-        "redditblog.com",
-        "redditgifts.com",
-        "redditgifts.s3.amazonaws.com",
-        "redditinc.com",
-        "redditmedia.com",
-        "redditstatic.com",
-        "reddituploads.com"
       ]
     },
     {
@@ -132,34 +70,21 @@
       ]
     },
     {
-      "notes" : "Instagram",
+      "notes" : "Discord",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "cdninstagram.com",
-        "facebook.com",
-        "fbcdn.net",
-        "instagram.co.uk",
-        "instagram.com",
-        "instagramstatic-a.akamaihd.net",
-        "net.edgesuite.net"
-      ]
-    },
-    {
-      "notes" : "Telegram",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "chpic.su",
-        "codekeeper.Telegram",
-        "t.me",
-        "telegram.com",
-        "telegram.dog",
-        "telegram.im",
-        "telegram.me",
-        "telegram.org",
-        "telesco.pe",
-        "tg.dev"
+        "discord.co.uk",
+        "discord.com",
+        "discord.gg",
+        "discord.me",
+        "discord.media",
+        "discord.org",
+        "discordapp.com",
+        "discordapp.gg",
+        "discordapp.net",
+        "discordservers.com",
+        "discordstatus.com"
       ]
     },
     {
@@ -198,40 +123,26 @@
       ]
     },
     {
-      "notes" : "Discord",
+      "notes" : "Instagram",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "discord.co.uk",
-        "discord.com",
-        "discord.gg",
-        "discord.me",
-        "discord.media",
-        "discord.org",
-        "discordapp.com",
-        "discordapp.gg",
-        "discordapp.net",
-        "discordservers.com",
-        "discordstatus.com"
+        "cdninstagram.com",
+        "facebook.com",
+        "fbcdn.net",
+        "instagram.co.uk",
+        "instagram.com",
+        "instagramstatic-a.akamaihd.net",
+        "net.edgesuite.net"
       ]
     },
     {
-      "notes" : "Twitch",
+      "notes" : "Mastadon",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "ext-twitch.tv",
-        "jtvnw.net",
-        "live-video.net",
-        "ttvnw.net",
-        "twitch-shadow.net",
-        "twitch.a2z.com",
-        "twitch.tv",
-        "twitchcdn-shadow.net",
-        "twitchcdn.net",
-        "twitchsvc-staging.tech",
-        "twitchsvc.net",
-        "twitchtracker.com"
+        "mastadon.com",
+        "mastadon.net"
       ]
     },
     {
@@ -248,12 +159,34 @@
       ]
     },
     {
-      "notes" : "Mastadon",
+      "notes" : "misc",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "mastadon.com",
-        "mastadon.net"
+        "Socialblade.com",
+        "4chan-ads.org",
+        "4chan.org",
+        "delachat.com",
+        "flickr.com",
+        "izoomyou.com",
+        "joinclubhouse.com",
+        "joyland.ai",
+        "openverse.com",
+        "photo.blog",
+        "plurk.com",
+        "signal.com",
+        "signal.net",
+        "signal.org",
+        "snapchat.com",
+        "socialblade.com",
+        "socialpointgames.com",
+        "truthsocial.com",
+        "truthsocial.org",
+        "tumbex.com",
+        "tumblr.com",
+        "vk.com",
+        "wordpress.com",
+        "wp.com"
       ]
     },
     {
@@ -290,6 +223,57 @@
       ]
     },
     {
+      "notes" : "Reddit",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "amp-reddit-com.cdn.ampproject.org",
+        "map.fastly.net",
+        "redd.it",
+        "reddit-image.s3.amazonaws.com",
+        "reddit-stream.com",
+        "reddit-uploaded-media.s3-accelerate.amazonaws.com",
+        "reddit-uploaded-video.s3-accelerate.amazonaws.com",
+        "reddit.com",
+        "redditblog.com",
+        "redditgifts.com",
+        "redditgifts.s3.amazonaws.com",
+        "redditinc.com",
+        "redditmedia.com",
+        "redditstatic.com",
+        "reddituploads.com"
+      ]
+    },
+    {
+      "notes" : "social",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "almondraf.itch.io",
+        "pontetibetanomatera.it",
+        "sharechat.com",
+        "telegra.ph",
+        "telegraphonline.com"
+      ]
+    },
+    {
+      "notes" : "Telegram",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "chpic.su",
+        "codekeeper.Telegram",
+        "t.me",
+        "telegram.com",
+        "telegram.dog",
+        "telegram.im",
+        "telegram.me",
+        "telegram.org",
+        "telesco.pe",
+        "tg.dev"
+      ]
+    },
+    {
       "notes" : "TikTok",
       "action" : "deny",
       "direction" : "outgoing",
@@ -297,6 +281,25 @@
         "snaptiko.com",
         "tiktok.com",
         "tiktok.pm"
+      ]
+    },
+    {
+      "notes" : "Twitch",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "ext-twitch.tv",
+        "jtvnw.net",
+        "live-video.net",
+        "ttvnw.net",
+        "twitch-shadow.net",
+        "twitch.a2z.com",
+        "twitch.tv",
+        "twitchcdn-shadow.net",
+        "twitchcdn.net",
+        "twitchsvc-staging.tech",
+        "twitchsvc.net",
+        "twitchtracker.com"
       ]
     },
     {
