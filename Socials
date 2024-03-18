@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-18 0650",
+  "description" : "2024-03-18 1202",
   "name" : "S",
   "rules" : [
     {
@@ -7,6 +7,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "teen-chat.org",
+        "group.io",
         "groups.io",
         "io.",
         "chatkr.com",
