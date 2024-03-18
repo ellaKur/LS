@@ -1,7 +1,15 @@
 {
-  "description" : "2024-03-18 1202",
+  "description" : "2024-03-18 1308",
   "name" : "misc",
   "rules" : [
+    {
+      "notes" : "video editing",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "ytgoconverter.com"
+      ]
+    },
     {
       "notes" : "suspicious",
       "action" : "deny",
