@@ -1,7 +1,16 @@
 {
-  "description" : "2024-03-18 0650",
+  "description" : "2024-03-18 1705",
   "name" : "stores",
   "rules" : [
+    {
+      "notes" : "suspicious",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "update-macos.com",
+        "ungothoritator.com"
+      ]
+    },
     {
       "notes" : "stores",
       "action" : "deny",
