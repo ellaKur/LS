@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-18 1202",
+  "description" : "2024-03-18 1705",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,12 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "minidwar.com",
+        "klakshi.co.in",
+        "forcessful.com",
+        "cn.com",
+        "scientireme.com",
+        "statively.com",
         "k19.cn",
         "inmoflo.com",
         "emonstrato.com",
@@ -76,7 +82,6 @@
         "floting.org",
         "floyment.uk.com",
         "fly-jazzy.de",
-        "forcessful.com",
         "funnyflux.kr",
         "gimpromed.com",
         "gov.br",
