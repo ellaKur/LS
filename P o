@@ -1,20 +1,21 @@
 {
-  "description" : "2024-03-19 1749",
+  "description" : "2024-03-19 1821",
   "name" : "P",
   "rules" : [
-    {
-      "notes" : "manga",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "danmaku.bilianime"
-      ]
-    },
     {
       "notes" : "porn",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "revisionix.com",
+        "solucionhumana.mx",
+        "newtemptationtonight.com",
+        "mjt.lu",
+        "sizar.jpn.com",
+        "funhotsingles.com",
+        "funhotwomen.com",
+        "flawlessmatchmaking.com",
+        "wannahookup.com",
         "singleyoungladies.com",
         "uinexig.com",
         "larilho.com",
@@ -34,8 +35,6 @@
         "latenightmixers.com",
         "thismeandate.info",
         "stressfreehookups.com",
-        "wannahookup.com",
-        "funhotwomen.com",
         "chatrandom.com",
         "temptationtonight.com",
         "mytemptationtonight.com",
@@ -73,7 +72,6 @@
         "moemie.pl",
         "nostringsfun.com",
         "friendsinprivate.com",
-        "mjt.lu",
         "hotdatingmatches.com",
         "xhookupfinder.com",
         "digitalpostretail.com",
@@ -11181,7 +11179,6 @@
         "flatgirlspics.com",
         "flatteensmovies.pro",
         "flavinha.com",
-        "flawlessmatchmaking.com",
         "fleetwoodfilmsltd.com",
         "flesh4me.com",
         "fleshbot.com",
@@ -12615,7 +12612,6 @@
         "funfreeporn.com",
         "funfuckdolls.com",
         "funhot.net",
-        "funhotsingles.com",
         "funkeln.eu",
         "funlist123.com",
         "funmovies.at",
@@ -46591,6 +46587,14 @@
         "aaaporn.net",
         "aaavids.com",
         "aaaxh.life"
+      ]
+    },
+    {
+      "notes" : "manga",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "danmaku.bilianime"
       ]
     },
     {
