@@ -1,26 +1,14 @@
 {
-  "description" : "2024-03-18 1705",
+  "description" : "2024-03-19 1749",
   "name" : "misc",
   "rules" : [
-    {
-      "notes" : "games",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "housepartygame.com",
-        "9apps.com",
-        "fupa.com",
-        "addictinggames.com",
-        "goosecatgames.com",
-        "igamesfinder.com",
-        "repack-games.com"
-      ]
-    },
     {
       "notes" : "suspicious",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "y2mate.tools",
+        "emonl.com",
         "y2mate.lol",
         "whookroo.com",
         "psuftoum.com",
@@ -102,6 +90,51 @@
         "woodejou.net",
         "xn3j2k.com",
         "y2mate.com"
+      ]
+    },
+    {
+      "notes" : "file storage",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "mega.inz",
+        "rapid-cloud.co",
+        "mqdownload.com",
+        "workupload.com",
+        "Filehorse.com",
+        "amoyshare.com",
+        "archive.com",
+        "bitdownloader.io",
+        "dailydownloaded.com",
+        "fetcherx.com",
+        "katfile.com",
+        "macupdater.net",
+        "mediafire.com",
+        "mega.co.nz",
+        "mega.com",
+        "mega.io",
+        "mega.nz",
+        "megapay.nz",
+        "pcloud.com",
+        "photobucket.com",
+        "rapidgator.net",
+        "rumble.com",
+        "save4k.com",
+        "top4download.com"
+      ]
+    },
+    {
+      "notes" : "games",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "housepartygame.com",
+        "9apps.com",
+        "fupa.com",
+        "addictinggames.com",
+        "goosecatgames.com",
+        "igamesfinder.com",
+        "repack-games.com"
       ]
     },
     {
@@ -509,35 +542,6 @@
         "yarp.lefolgoc.net",
         "yunyun.is.my.waifu.cz",
         "zburger.top"
-      ]
-    },
-    {
-      "notes" : "file storage",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "mqdownload.com",
-        "workupload.com",
-        "Filehorse.com",
-        "amoyshare.com",
-        "archive.com",
-        "bitdownloader.io",
-        "dailydownloaded.com",
-        "fetcherx.com",
-        "katfile.com",
-        "macupdater.net",
-        "mediafire.com",
-        "mega.co.nz",
-        "mega.com",
-        "mega.io",
-        "mega.nz",
-        "megapay.nz",
-        "pcloud.com",
-        "photobucket.com",
-        "rapidgator.net",
-        "rumble.com",
-        "save4k.com",
-        "top4download.com"
       ]
     },
     {
