@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-19 1749",
+  "description" : "2024-03-19 1821",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,12 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "org.mx",
+        "pacific-one.net",
+        "arindustrial.com.mx",
+        "floting.org",
+        "spriotion.com",
+        "cataloguelidl.de",
         "velostertech.com",
         "enerlax.com",
         "ceciic.org",
@@ -88,7 +94,6 @@
         "famooshed.com",
         "fayrpg.hu",
         "faznet.co.id",
-        "floting.org",
         "floyment.uk.com",
         "fly-jazzy.de",
         "funnyflux.kr",
@@ -154,7 +159,6 @@
         "sjche.com",
         "skorzelius.com",
         "sprint.cl",
-        "spriotion.com",
         "ss400.com",
         "stbwb6i.us.com",
         "stuyvesantation.com",
