@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-18 1705",
+  "description" : "2024-03-19 1440",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,13 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "navyhotelgroup.com",
+        "deinonlineabenteuer.de",
+        "airrun.net",
+        "vocallenia.com",
+        "schoosier.com",
+        "volcanoeuvre.com",
+        "femainic.com",
         "minidwar.com",
         "klakshi.co.in",
         "forcessful.com",
@@ -78,7 +85,6 @@
         "famooshed.com",
         "fayrpg.hu",
         "faznet.co.id",
-        "femainic.com",
         "floting.org",
         "floyment.uk.com",
         "fly-jazzy.de",
@@ -162,7 +168,6 @@
         "vegetaliabosques.cl",
         "verticesystem.com",
         "vfkvx5v.us.com",
-        "volcanoeuvre.com",
         "well-made-seashore.de",
         "wmgeradores.com",
         "wreakedrhei.com",
