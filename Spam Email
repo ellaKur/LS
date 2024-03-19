@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-19 1440",
+  "description" : "2024-03-19 1749",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,9 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "velostertech.com",
+        "enerlax.com",
+        "ceciic.org",
         "navyhotelgroup.com",
         "deinonlineabenteuer.de",
         "airrun.net",
