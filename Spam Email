@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-19 2010",
+  "description" : "2024-03-19 2259",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,9 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "prttygrIhkps.com",
+        "squarieties.com",
+        "ricalcan.co.in",
         "fem.org.mx",
         "pacific-one.net",
         "arindustrial.com.mx",
