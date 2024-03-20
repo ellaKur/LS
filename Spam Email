@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-20 1353",
+  "description" : "2024-03-20 1604",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,9 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "klakshi.co.in",
+        "placeit.net",
+        "cn.com",
         "onet.eu",
         "designathus.com",
         "dailynaughtymatches.com",
@@ -34,9 +37,7 @@
         "volcanoeuvre.com",
         "femainic.com",
         "minidwar.com",
-        "klakshi.co.in",
         "forcessful.com",
-        "cn.com",
         "scientireme.com",
         "statively.com",
         "k19.cn",
