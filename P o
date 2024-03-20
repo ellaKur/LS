@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-19 2010",
+  "description" : "2024-03-20 1604",
   "name" : "P",
   "rules" : [
     {
@@ -7,6 +7,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "eafaz.com",
+        "lustauferlebnis.de",
+        "brandnewmatchhkps.com",
+        "acrush.de",
         "porn.ai",
         "deepfake.com",
         "deepfakes.com",
@@ -1194,7 +1198,6 @@
         "acompanhantesnaweb.com.br",
         "acompanhantesrs.com.br",
         "acompanhantez.com",
-        "acrush.de",
         "acsexdolls.com",
         "actalsymposium2017.nl",
         "actiongirls.com",
@@ -5744,7 +5747,6 @@
         "brandie.info",
         "brandnewamateurs.com",
         "brandnewfaces.com",
-        "brandnewmatchhkps.com",
         "brandnewxmatchhkps.com",
         "brandporno.com",
         "brandsmaxx.com",
@@ -20860,7 +20862,6 @@
         "lushgo.com",
         "lushstories.com",
         "lushwow.com",
-        "lustauferlebnis.de",
         "lustbb.online",
         "lustcinema.com",
         "lustdays.com",
