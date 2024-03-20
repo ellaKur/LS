@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-19 2259",
+  "description" : "2024-03-20 1353",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,13 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "onet.eu",
+        "designathus.com",
+        "dailynaughtymatches.com",
+        "timuuse.c.com",
+        "insirestence.com",
+        "desfinancing.com.ph",
+        "silaba.com",
         "prttygrIhkps.com",
         "squarieties.com",
         "ricalcan.co.in",
@@ -41,7 +48,6 @@
         "theinsurancequoter.com",
         "afasi.com.mx",
         "or.kr",
-        "insirestence.com",
         "separasite.com",
         "espacodogourmet.com.br",
         "exclusternation.com",
