@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-20 2222",
+  "description" : "2024-03-21 1123",
   "name" : "spam email",
   "rules" : [
     {
@@ -8,6 +8,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "spriotion.com",
+        "crownpipeline.ca",
         "klakshi.co.in",
         "placeit.net",
         "cn.com",
