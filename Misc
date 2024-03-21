@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-19 1749",
+  "description" : "2024-03-21 1123",
   "name" : "misc",
   "rules" : [
     {
@@ -7,6 +7,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "anevoros.site",
+        "rick-plush.biz",
         "y2mate.tools",
         "emonl.com",
         "y2mate.lol",
