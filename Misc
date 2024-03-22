@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-21 1123",
+  "description" : "2024-03-22 1057",
   "name" : "misc",
   "rules" : [
     {
@@ -7,6 +7,11 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "yt-downloaderz.com",
+        "donkstar3.online",
+        "ambiliarcarwin.com",
+        "meblemarkowicz.pl",
+        "gasapp.co",
         "anevoros.site",
         "rick-plush.biz",
         "y2mate.tools",
@@ -34,7 +39,6 @@
         "8chan.co",
         "absstoptale.live",
         "agitationfourthplug.com",
-        "ambiliarcarwin.com",
         "arsen-nei.com",
         "atedtrevor.guru",
         "barometar.net",
