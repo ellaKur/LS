@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-21 1123",
+  "description" : "2024-03-22 1057",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,8 +7,11 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "spriotion.com",
         "crownpipeline.ca",
+        "kabelsat-bergen.de",
+        "a-serving.com",
+        "ac.kr",
+        "spriotion.com",
         "klakshi.co.in",
         "placeit.net",
         "cn.com",
