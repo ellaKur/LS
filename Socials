@@ -1,7 +1,47 @@
 {
-  "description" : "2024-03-18 1705",
+  "description" : "2024-03-22 1057",
   "name" : "S",
   "rules" : [
+    {
+      "notes" : "misc",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "bumble4friends.com",
+        "Socialblade.com",
+        "4chan-ads.org",
+        "4chan.org",
+        "delachat.com",
+        "flickr.com",
+        "izoomyou.com",
+        "joinclubhouse.com",
+        "joyland.ai",
+        "openverse.com",
+        "photo.blog",
+        "plurk.com",
+        "signal.com",
+        "signal.net",
+        "signal.org",
+        "snapchat.com",
+        "socialblade.com",
+        "socialpointgames.com",
+        "truthsocial.com",
+        "truthsocial.org",
+        "tumbex.com",
+        "tumblr.com",
+        "vk.com",
+        "wordpress.com",
+        "wp.com"
+      ]
+    },
+    {
+      "notes" : "Tumblr",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "tumbig.com"
+      ]
+    },
     {
       "notes" : "chat",
       "action" : "deny",
@@ -156,37 +196,6 @@
         "mastodon.online",
         "mastodon.social",
         "mastodon.world"
-      ]
-    },
-    {
-      "notes" : "misc",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "Socialblade.com",
-        "4chan-ads.org",
-        "4chan.org",
-        "delachat.com",
-        "flickr.com",
-        "izoomyou.com",
-        "joinclubhouse.com",
-        "joyland.ai",
-        "openverse.com",
-        "photo.blog",
-        "plurk.com",
-        "signal.com",
-        "signal.net",
-        "signal.org",
-        "snapchat.com",
-        "socialblade.com",
-        "socialpointgames.com",
-        "truthsocial.com",
-        "truthsocial.org",
-        "tumbex.com",
-        "tumblr.com",
-        "vk.com",
-        "wordpress.com",
-        "wp.com"
       ]
     },
     {
