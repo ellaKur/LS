@@ -1,13 +1,27 @@
 {
-  "description" : "2024-03-22 1057",
+  "description" : "2024-03-24 1652",
   "name" : "misc",
   "rules" : [
+    {
+      "notes" : "video editing",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "greenconvert.net",
+        "yt-downloaderz.com",
+        "iyoutubetomp4.com",
+        "ytgoconverter.com"
+      ]
+    },
     {
       "notes" : "suspicious",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "yt-downloaderz.com",
+        "almstda.tv",
+        "softorino.com",
+        "dziur-met.pl",
+        "confirmed.us",
         "donkstar3.online",
         "ambiliarcarwin.com",
         "meblemarkowicz.pl",
@@ -141,14 +155,6 @@
         "goosecatgames.com",
         "igamesfinder.com",
         "repack-games.com"
-      ]
-    },
-    {
-      "notes" : "video editing",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "ytgoconverter.com"
       ]
     },
     {
