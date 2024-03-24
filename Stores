@@ -1,21 +1,13 @@
 {
-  "description" : "2024-03-18 1705",
+  "description" : "2024-03-24 1652",
   "name" : "stores",
   "rules" : [
-    {
-      "notes" : "suspicious",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "update-macos.com",
-        "ungothoritator.com"
-      ]
-    },
     {
       "notes" : "stores",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "sadaalomma.com",
         "ccm.net",
         "addons.mozilla.org",
         "addons.opera.com",
@@ -41,6 +33,15 @@
         "softonic.com",
         "techspot.com",
         "update-mac.com"
+      ]
+    },
+    {
+      "notes" : "suspicious",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "update-macos.com",
+        "ungothoritator.com"
       ]
     }
  ]
