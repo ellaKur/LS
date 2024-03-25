@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-24 1652",
+  "description" : "2024-03-25 1129",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,18 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "sigma.bg",
+        "aviaservice.aero",
+        "com.pk",
+        "pakistancurrency.com",
+        "pinnacletestingservices.com",
+        "a-contact.cz",
+        "temosato.com",
+        "drsegurancaeletronica.com.br",
+        "7layerlabs.com",
+        "troquel.com.mx",
+        "belllux.com",
+        "bittony.eu",
         "patholics.com",
         "s-kyoyu.co.jp",
         "yourdailyprofiles.com",
