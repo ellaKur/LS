@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-25 1129",
+  "description" : "2024-03-26 1351",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "gob.ar",
+        "liberec.cz",
         "sigma.bg",
         "aviaservice.aero",
         "com.pk",
