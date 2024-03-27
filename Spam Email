@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-26 2136",
+  "description" : "2024-03-27 1355",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,16 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "femainic.com",
+        "volcanoeuvre.com",
+        "royalbebidas.com",
+        "sulfurious.com",
+        "enensu.com",
+        "unitedajodinsurance.com",
+        "apmosys.com",
+        "meridiendni.com",
+        "or.kr",
+        "albagroup-eg.com",
         "edoo.id",
         "gob.ar",
         "liberec.cz",
@@ -63,8 +73,6 @@
         "airrun.net",
         "vocallenia.com",
         "schoosier.com",
-        "volcanoeuvre.com",
-        "femainic.com",
         "minidwar.com",
         "scientireme.com",
         "statively.com",
@@ -76,7 +84,6 @@
         "doksandokum.com.tr",
         "theinsurancequoter.com",
         "afasi.com.mx",
-        "or.kr",
         "separasite.com",
         "espacodogourmet.com.br",
         "exclusternation.com",
@@ -200,7 +207,6 @@
         "ss400.com",
         "stbwb6i.us.com",
         "stuyvesantation.com",
-        "sulfurious.com",
         "tesamproyectos.com",
         "testemunhodefe.com.br",
         "theoasisgroup.com.au",
