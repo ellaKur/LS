@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-27 1355",
+  "description" : "2024-03-27 1835",
   "name" : "misc",
   "rules" : [
     {
@@ -7,6 +7,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "theepsie.com",
+        "dintiobs.com",
+        "shooltuca.net",
+        "newentrymagazine.it",
         "kupdf.net",
         "labocaroja.com",
         "yodayo.com",
@@ -103,6 +107,18 @@
         "win-the-prize5.top",
         "woodejou.net",
         "y2mate.com"
+      ]
+    },
+    {
+      "notes" : "video editing",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "yt1s.is",
+        "greenconvert.net",
+        "yt-downloaderz.com",
+        "iyoutubetomp4.com",
+        "ytgoconverter.com"
       ]
     },
     {
@@ -407,17 +423,6 @@
         "rumble.com",
         "save4k.com",
         "top4download.com"
-      ]
-    },
-    {
-      "notes" : "video editing",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "greenconvert.net",
-        "yt-downloaderz.com",
-        "iyoutubetomp4.com",
-        "ytgoconverter.com"
       ]
     },
     {
