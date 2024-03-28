@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-27 1355",
+  "description" : "2024-03-28 1124",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "sticky-key.de",
+        "quickest-blot.de",
         "femainic.com",
         "volcanoeuvre.com",
         "royalbebidas.com",
