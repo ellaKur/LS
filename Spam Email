@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-28 1124",
+  "description" : "2024-03-28 1510",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,10 +7,17 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "forcessful.com",
+        "tl0125k.net",
+        "organiccrap.com",
+        "optiquid.com",
+        "unsuitable-familiar.de",
+        "volcanoeuvre.com",
+        "taperson.com",
+        "acceleratorpassbook.com",
         "sticky-key.de",
         "quickest-blot.de",
         "femainic.com",
-        "volcanoeuvre.com",
         "royalbebidas.com",
         "sulfurious.com",
         "enensu.com",
@@ -38,7 +45,6 @@
         "s-kyoyu.co.jp",
         "yourdailyprofiles.com",
         "com.mm",
-        "forcessful.com",
         "floting.org",
         "seemly-empty.de",
         "mesa.ms",
@@ -183,7 +189,6 @@
         "obalzheimer-europe.org",
         "obuolys.lt",
         "opliso.com",
-        "optiquid.com",
         "org.pt",
         "palominoservices.com",
         "parched-hope.de",
