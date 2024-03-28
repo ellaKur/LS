@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-27 1835",
+  "description" : "2024-03-28 1510",
   "name" : "misc",
   "rules" : [
     {
@@ -7,9 +7,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "goodfon.com",
+        "shooltuca.net",
         "theepsie.com",
         "dintiobs.com",
-        "shooltuca.net",
         "newentrymagazine.it",
         "kupdf.net",
         "labocaroja.com",
