@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-27 1835",
+  "description" : "2024-03-28 1124",
   "name" : "P",
   "rules" : [
     {
@@ -7,6 +7,17 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "checkoutgirlsnow.com",
+        "singlessecrets.com",
+        "fulatch.com",
+        "ankarip.com",
+        "heusnes.com",
+        "datesmap.com",
+        "deineliebelei.de",
+        "pinklocals.com",
+        "latenightmixers.com",
+        "crusemp.com",
+        "smoveno.com",
         "ftrans05.com",
         "randomhookupsite.com",
         "hookupvine.com",
@@ -34,7 +45,6 @@
         "toplocalsingles.com",
         "jerkmatelive.com",
         "deinflirtportal.de",
-        "checkoutgirlsnow.com",
         "choicehookups.com",
         "wefoundamatch.com",
         "newxdatesofferings.com",
@@ -127,7 +137,6 @@
         "intimateidea.com",
         "meetcelestejp.ru.com",
         "prettygirlparadise.com",
-        "latenightmixers.com",
         "thismeandate.info",
         "stressfreehookups.com",
         "chatrandom.com",
@@ -8376,7 +8385,6 @@
         "deflowered.net",
         "dehati.cyou",
         "dein-ficktreff.net",
-        "deineliebelei.de",
         "deinemuschis.com",
         "deineromanze.com",
         "deinesexfilme.com",
