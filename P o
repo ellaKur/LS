@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-28 2231",
+  "description" : "2024-03-29 1026",
   "name" : "P",
   "rules" : [
     {
@@ -7,9 +7,14 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "datesmap.com",
+        "stickyexchange.com",
+        "digiflirts.com",
+        "arylindagzbjohnwp7397.site",
         "hotnewhookups.com",
         "nightlyneverland.com",
         "memberaffairs.com",
+        "sizar.jpn.com",
         "ourflings.com",
         "sexybabeslooking.com",
         "checkoutgirlsnow.com",
@@ -17,7 +22,6 @@
         "fulatch.com",
         "ankarip.com",
         "heusnes.com",
-        "datesmap.com",
         "deineliebelei.de",
         "pinklocals.com",
         "latenightmixers.com",
@@ -122,7 +126,6 @@
         "revisionix.com",
         "solucionhumana.mx",
         "mjt.lu",
-        "sizar.jpn.com",
         "wannahookup.com",
         "uinexig.com",
         "larilho.com",
