@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-28 1510",
+  "description" : "2024-03-28 2231",
   "name" : "P",
   "rules" : [
     {
@@ -7,6 +7,9 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "hotnewhookups.com",
+        "nightlyneverland.com",
+        "memberaffairs.com",
         "ourflings.com",
         "sexybabeslooking.com",
         "checkoutgirlsnow.com",
@@ -59,10 +62,8 @@
         "noodlemagazine.com",
         "sexy.ai",
         "vipmaximo.com",
-        "nightlyneverland.com",
         "wilderkontakt.de",
         "fricatefenous.com",
-        "hotnewhookups.com",
         "yourdailyflirt.com",
         "xnxx-cdn.com",
         "xvideos-cdn.com",
