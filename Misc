@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-29 1157",
+  "description" : "2024-03-29 1836",
   "name" : "misc",
   "rules" : [
     {
@@ -7,10 +7,14 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "Imadps.jp",
+        "grauglak.com",
+        "dintiobs.com",
+        "unarceusan.com",
+        "gamehollywood.com",
         "goodfon.com",
         "shooltuca.net",
         "theepsie.com",
-        "dintiobs.com",
         "newentrymagazine.it",
         "kupdf.net",
         "labocaroja.com",
@@ -72,7 +76,6 @@
         "fondlescany.top",
         "frontalwall.online",
         "fsotjp.xyz",
-        "gamehollywood.com",
         "gaultpalisfy.top",
         "genyoutube.online",
         "grafamania.net",
@@ -110,6 +113,29 @@
       ]
     },
     {
+      "notes" : "video editing",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "y2mate.is",
+        "youtubemp4.to",
+        "yt1s.is",
+        "greenconvert.net",
+        "yt-downloaderz.com",
+        "iyoutubetomp4.com",
+        "ytgoconverter.com"
+      ]
+    },
+    {
+      "notes" : "stores",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "mediafreeware.com",
+        "listia.com"
+      ]
+    },
+    {
       "notes" : "shortening",
       "action" : "deny",
       "direction" : "outgoing",
@@ -119,18 +145,6 @@
         "ouo.io",
         "ouo.press",
         "tinyurl.com"
-      ]
-    },
-    {
-      "notes" : "video editing",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "yt1s.is",
-        "greenconvert.net",
-        "yt-downloaderz.com",
-        "iyoutubetomp4.com",
-        "ytgoconverter.com"
       ]
     },
     {
