@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-29 1157",
+  "description" : "2024-03-29 1836",
   "name" : "P",
   "rules" : [
     {
@@ -7,6 +7,12 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "attractguru.com",
+        "kisscities.com",
+        "bellacuties.com",
+        "onlyfuns.win",
+        "dateyoungsingles.com",
+        "digiflirts.com",
         "wethappy.com",
         "flingschat.com",
         "mjt.lu",
@@ -15,7 +21,6 @@
         "flowsingles.com",
         "datesmap.com",
         "stickyexchange.com",
-        "digiflirts.com",
         "arylindagzbjohnwp7397.site",
         "hotnewhookups.com",
         "nightlyneverland.com",
@@ -45,7 +50,6 @@
         "gaiaontop.com",
         "shuinf.com",
         "funausleben.com",
-        "dateyoungsingles.com",
         "xn3j2k.com",
         "nsimg.net",
         "charmfling.com",
