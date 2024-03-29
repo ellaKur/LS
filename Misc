@@ -1,19 +1,7 @@
 {
-  "description" : "2024-03-29 1029",
+  "description" : "2024-03-29 1157",
   "name" : "misc",
   "rules" : [
-    {
-      "notes" : "shortening",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "short.gy",
-        "bit.ly",
-        "ouo.io",
-        "ouo.press",
-        "tinyurl.com"
-      ]
-    },
     {
       "notes" : "suspicious",
       "action" : "deny",
@@ -119,6 +107,18 @@
         "win-the-prize5.top",
         "woodejou.net",
         "y2mate.com"
+      ]
+    },
+    {
+      "notes" : "shortening",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "short.gy",
+        "bit.ly",
+        "ouo.io",
+        "ouo.press",
+        "tinyurl.com"
       ]
     },
     {
