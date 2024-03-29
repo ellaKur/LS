@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-28 1510",
+  "description" : "2024-03-28 2231",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "ficohsa2.hn",
+        "hetincassohuis.nl",
+        "sizar.jpn.com",
+        "output.com",
         "forcessful.com",
         "tl0125k.net",
         "organiccrap.com",
