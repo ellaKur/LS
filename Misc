@@ -1,18 +1,17 @@
 {
-  "description" : "2024-03-28 2231",
+  "description" : "2024-03-29 1029",
   "name" : "misc",
   "rules" : [
     {
-      "notes" : "video editing",
+      "notes" : "shortening",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "yts1.is",
-        "yt1s.is",
-        "greenconvert.net",
-        "yt-downloaderz.com",
-        "iyoutubetomp4.com",
-        "ytgoconverter.com"
+        "short.gy",
+        "bit.ly",
+        "ouo.io",
+        "ouo.press",
+        "tinyurl.com"
       ]
     },
     {
@@ -120,6 +119,18 @@
         "win-the-prize5.top",
         "woodejou.net",
         "y2mate.com"
+      ]
+    },
+    {
+      "notes" : "video editing",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "yt1s.is",
+        "greenconvert.net",
+        "yt-downloaderz.com",
+        "iyoutubetomp4.com",
+        "ytgoconverter.com"
       ]
     },
     {
@@ -879,17 +890,6 @@
         "galleon.ph",
         "paypal.com",
         "paywithmybank.com"
-      ]
-    },
-    {
-      "notes" : "shortening",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "bit.ly",
-        "ouo.io",
-        "ouo.press",
-        "tinyurl.com"
       ]
     },
     {
