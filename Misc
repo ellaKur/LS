@@ -1,7 +1,20 @@
 {
-  "description" : "2024-03-28 1510",
+  "description" : "2024-03-28 2231",
   "name" : "misc",
   "rules" : [
+    {
+      "notes" : "video editing",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "yts1.is",
+        "yt1s.is",
+        "greenconvert.net",
+        "yt-downloaderz.com",
+        "iyoutubetomp4.com",
+        "ytgoconverter.com"
+      ]
+    },
     {
       "notes" : "suspicious",
       "action" : "deny",
@@ -17,7 +30,6 @@
         "yodayo.com",
         "arsen-nei.com",
         "soulgen.net",
-        "socra.com",
         "almstda.tv",
         "softorino.com",
         "dziur-met.pl",
@@ -108,18 +120,6 @@
         "win-the-prize5.top",
         "woodejou.net",
         "y2mate.com"
-      ]
-    },
-    {
-      "notes" : "video editing",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "yt1s.is",
-        "greenconvert.net",
-        "yt-downloaderz.com",
-        "iyoutubetomp4.com",
-        "ytgoconverter.com"
       ]
     },
     {
