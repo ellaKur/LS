@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-29 1026",
+  "description" : "2024-03-29 1157",
   "name" : "P",
   "rules" : [
     {
@@ -7,6 +7,12 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "wethappy.com",
+        "flingschat.com",
+        "mjt.lu",
+        "meetfunwomen.com",
+        "singlesdaddy.com",
+        "flowsingles.com",
         "datesmap.com",
         "stickyexchange.com",
         "digiflirts.com",
@@ -125,7 +131,6 @@
         "kink.ai",
         "revisionix.com",
         "solucionhumana.mx",
-        "mjt.lu",
         "wannahookup.com",
         "uinexig.com",
         "larilho.com",
@@ -191,7 +196,6 @@
         "xpickup.com",
         "maroseat.com",
         "majordatinghub.com",
-        "meetfunwomen.com",
         "cheaters.com",
         "meetsm.link",
         "camcaps.to",
