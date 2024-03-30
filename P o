@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-29 1836",
+  "description" : "2024-03-30 1321",
   "name" : "P",
   "rules" : [
     {
@@ -7,9 +7,22 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "talkflava.com",
+        "loversaccess.com",
+        "com.eg",
+        "saakilosaato.jpn.com",
+        "i-crush.de",
+        "girlstxtomeetonight.com",
+        "scorelocals.com",
+        "goldflirts.com",
+        "harmonykiss.com",
+        "zenfling.com",
+        "sparkwet.com",
+        "honeysingles.com",
+        "everyflirt.com",
+        "bellacuties.com",
         "attractguru.com",
         "kisscities.com",
-        "bellacuties.com",
         "onlyfuns.win",
         "dateyoungsingles.com",
         "digiflirts.com",
