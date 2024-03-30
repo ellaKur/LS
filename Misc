@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-29 1836",
+  "description" : "2024-03-30 1321",
   "name" : "misc",
   "rules" : [
     {
@@ -7,6 +7,9 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "dumb1.com",
+        "y2meta.mobi",
+        "y2meta.tools",
         "Imadps.jp",
         "grauglak.com",
         "dintiobs.com",
