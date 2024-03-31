@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-31 0902",
+  "description" : "2024-03-31 0925",
   "name" : "misc",
   "rules" : [
     {
@@ -7,6 +7,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "list-manage.com",
         "tullbun.com",
         "dl-api.com",
         "grauglak.com",
