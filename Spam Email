@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-31 0902",
+  "description" : "2024-03-31 0925",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,9 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "libertaine.com",
+        "com.sg",
+        "elasticemail.com",
         "cyphenomen.com",
         "iodicy.com",
         "homeclimates.com",
@@ -146,7 +149,6 @@
         "easyhfc.com",
         "edu.vn",
         "edz.com.lb",
-        "elasticemail.com",
         "electuallynews.com",
         "ewbvqqeyt.us.com",
         "experiendl.com",
