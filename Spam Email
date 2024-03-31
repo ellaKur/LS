@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-29 1026",
+  "description" : "2024-03-31 0902",
   "name" : "spam email",
   "rules" : [
     {
@@ -7,6 +7,11 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "cyphenomen.com",
+        "iodicy.com",
+        "homeclimates.com",
+        "klakshi.co.in",
+        "mavisila.com",
         "if.ua",
         "ficohsa2.hn",
         "hetincassohuis.nl",
@@ -61,7 +66,6 @@
         "a-serving.com",
         "ac.kr",
         "spriotion.com",
-        "klakshi.co.in",
         "placeit.net",
         "cn.com",
         "onet.eu",
