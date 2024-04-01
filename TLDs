@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-18 0650",
+  "description" : "2024-03-31 2240",
   "name" : "TLD",
   "rules" : [
     {
@@ -7,8 +7,6 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "fun",
-        "lol",
         "am",
         "ar.com",
         "bg",
@@ -31,6 +29,8 @@
         "com.br",
         "com.tr",
         "com.ua",
+        "fun",
+        "lol",
         "net.ar",
         "net.hr",
         "rs",
