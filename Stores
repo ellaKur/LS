@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-24 1652",
+  "description" : "2024-03-31 2240",
   "name" : "stores",
   "rules" : [
     {
@@ -7,14 +7,13 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "sadaalomma.com",
-        "ccm.net",
         "addons.mozilla.org",
         "addons.opera.com",
         "apk.cafe",
         "apps.apple.com",
         "appsdrop.com",
         "bestfreewaredownload.com",
+        "ccm.net",
         "chrome.google.com",
         "chrome.webstore.com",
         "chromewebstore.google.com",
@@ -29,6 +28,7 @@
         "mob.org",
         "mobile9.com",
         "mrdownload.com",
+        "sadaalomma.com",
         "soft32.com",
         "softonic.com",
         "techspot.com",
@@ -40,8 +40,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "update-macos.com",
-        "ungothoritator.com"
+        "ungothoritator.com",
+        "update-macos.com"
       ]
     }
  ]
