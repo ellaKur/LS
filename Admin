@@ -1,15 +1,7 @@
 {
-  "description" : "2024-03-18 1705",
+  "description" : "2024-03-31 2240",
   "name" : "admin",
   "rules" : [
-    {
-      "notes" : "admin",
-      "action" : "allow",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "nyt.com"
-      ]
-    },
     {
       "notes" : "JMU",
       "action" : "allow",
@@ -63,6 +55,14 @@
         "auth.qustodio.com",
         "qustodio.com",
         "qustodio.sjv.io"
+      ]
+    },
+    {
+      "notes" : "admin",
+      "action" : "allow",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "nyt.com"
       ]
     }
  ]
