@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-16 1518",
+  "description" : "2024-03-31 2240",
   "name" : "V",
   "rules" : [
     {
@@ -9,6 +9,9 @@
       "remote-domains" : [
         "12vpn.com",
         "1clickvpn.net",
+        "Fortinet.com",
+        "Kaspersky.com",
+        "Malavida.com",
         "acevpn.com",
         "activpn.com",
         "adguard-vpn.com",
@@ -62,7 +65,6 @@
         "fastvpn.com",
         "finevpn.org",
         "flashvpn.li",
-        "Fortinet.com",
         "fragthelag.com",
         "freedomvpn.info",
         "freevpnplanet.com",
@@ -97,7 +99,6 @@
         "itovpn.com",
         "ivacy.com",
         "ivpn.net",
-        "Kaspersky.com",
         "kebrum.com",
         "kryptotel.net",
         "ladownloads.com",
@@ -106,7 +107,6 @@
         "libertyvpn.net",
         "logmein.com",
         "macrovpn.com",
-        "Malavida.com",
         "maxivpn.com",
         "mazevpn.com",
         "microvpn.com",
@@ -176,7 +176,6 @@
         "snapvpn.net",
         "sparklabs.com",
         "spicevpn.com",
-        "tor.stackexchange.com",
         "starvpn.com",
         "streamvia.com",
         "strongvpn.com",
@@ -190,6 +189,7 @@
         "thankvpn.com",
         "thesafety.us",
         "top10vpn.com",
+        "tor.stackexchange.com",
         "torguard.net",
         "torrentprivacy.com",
         "totalav.com",
