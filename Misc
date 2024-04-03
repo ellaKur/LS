@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-01 1248",
+  "description" : "2024-04-03 1143",
   "name" : "misc",
   "rules" : [
     {
@@ -837,10 +837,13 @@
         "instavisor.net",
         "iyoutubetomp4.com",
         "y2mate.is",
+        "y2mate.nu",
         "youtubemp4.to",
         "yt-downloaderz.com",
         "yt1s.is",
-        "ytgoconverter.com"
+        "ytgoconverter.com",
+        "ytmp3.plus",
+        "ytmp3.re"
       ]
     },
     {
@@ -898,6 +901,7 @@
         "magzter.com",
         "makeagif.com",
         "manofmany.com",
+        "medal.tv",
         "mfcads.com",
         "minitool.com",
         "mixedmartialarts.com",
