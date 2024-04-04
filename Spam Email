@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-03 1705",
+  "description" : "2024-04-04 1151",
   "name" : "spam email",
   "rules" : [
     {
@@ -25,6 +25,7 @@
         "airrun.net",
         "albagroup-eg.com",
         "aliyun.com",
+        "alwjlec.net",
         "ampgn.com.ar",
         "antfablogistic.com",
         "anxious-moon.de",
