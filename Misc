@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-03 1143",
+  "description" : "2024-04-04 1151",
   "name" : "misc",
   "rules" : [
     {
@@ -465,6 +465,14 @@
       ]
     },
     {
+      "notes" : "manga",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "waifu.pics"
+      ]
+    },
+    {
       "notes" : "misc",
       "action" : "deny",
       "direction" : "outgoing",
@@ -590,7 +598,6 @@
         "atedtrevor.guru",
         "balluteparolee.top",
         "barometar.net",
-        "bedeoc.com",
         "bestbettingsiteadvisor.com",
         "bigultimatebonus.life",
         "biofreear.live",
@@ -627,6 +634,7 @@
         "gasapp.co",
         "gaultpalisfy.top",
         "genyoutube.online",
+        "gloogruk.com",
         "goodfon.com",
         "grafamania.net",
         "grauglak.com",
@@ -635,8 +643,10 @@
         "interstitial-07.com",
         "invitewingorphan.com",
         "iq.wiki",
+        "itponytaa.com",
         "jb6img.top",
         "jgdya.com",
+        "joins.com",
         "kukicoso.online",
         "kupdf.net",
         "labocaroja.com",
@@ -836,6 +846,7 @@
         "instagrammernews.com",
         "instavisor.net",
         "iyoutubetomp4.com",
+        "vtfreedownloader.com",
         "y2mate.is",
         "y2mate.nu",
         "youtubemp4.to",
@@ -892,6 +903,7 @@
         "gamesdizi.com",
         "gameszur.com",
         "gifyu.com",
+        "hungama.com",
         "iglives.tv",
         "imgflip.com",
         "justwatch.com",
