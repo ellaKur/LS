@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-04 1151",
+  "description" : "2024-04-04 2106",
   "name" : "misc",
   "rules" : [
     {
@@ -469,6 +469,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "pixai.art",
         "waifu.pics"
       ]
     },
