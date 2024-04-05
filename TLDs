@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-31 2240",
+  "description" : "2024-04-05 1225",
   "name" : "TLD",
   "rules" : [
     {
@@ -27,12 +27,16 @@
         "co.za",
         "com.ar",
         "com.br",
+        "com.com",
+        "com.ru",
         "com.tr",
         "com.ua",
         "fun",
         "lol",
+        "mm",
         "net.ar",
         "net.hr",
+        "pk",
         "rs",
         "ru",
         "ru.com",
@@ -40,6 +44,20 @@
         "vn",
         "xxx",
         "xyz"
+      ]
+    },
+    {
+      "notes" : "porn",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "com.do",
+        "com.home",
+        "com.mm",
+        "com.pk",
+        "com.ve",
+        "com.vn",
+        "do"
       ]
     }
  ]
