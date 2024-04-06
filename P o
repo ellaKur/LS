@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-06 1652",
+  "description" : "2024-04-06 1659",
   "name" : "P",
   "rules" : [
     {
@@ -18,11 +18,14 @@
       ]
     },
     {
-      "notes" : "manga",
+      "notes" : "misc",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "danmaku.bilianime"
+        "camgel.com",
+        "camsurf.com",
+        "danmaku.bilianime",
+        "muah.ai"
       ]
     },
     {
@@ -46905,15 +46908,6 @@
         "zzztube.com",
         "zzztube.ru",
         "zzztube.tv"
-      ]
-    },
-    {
-      "notes" : "suspicious",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "camgel.com",
-        "camsurf.com"
       ]
     }
  ]
