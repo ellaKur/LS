@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-06 0806",
+  "description" : "2024-04-06 1652",
   "name" : "misc",
   "rules" : [
     {
@@ -470,6 +470,9 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "pixai.art",
+        "waifu.ai",
+        "waifu.com",
+        "waifu.im",
         "waifu.pics"
       ]
     },
