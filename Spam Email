@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-06 0806",
+  "description" : "2024-04-06 1633",
   "name" : "spam email",
   "rules" : [
     {
@@ -145,6 +145,7 @@
         "kaaram.com",
         "kabelsat-bergen.de",
         "kgx.co.id",
+        "kigals.com",
         "klakshi.co.in",
         "klinikzahran.my",
         "kypqlqjtf.us.com",
@@ -229,6 +230,7 @@
         "statively.com",
         "stbwb6i.us.com",
         "sticky-key.de",
+        "studiodigravio.com",
         "stuyvesantation.com",
         "succumula.com",
         "sulfurious.com",
