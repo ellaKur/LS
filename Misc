@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-10 2243",
+  "description" : "2024-04-13 1929",
   "name" : "misc",
   "rules" : [
     {
@@ -388,13 +388,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "aicupid.org",
-        "aigirlfriend.wtf",
         "charfriend.com",
         "girlfriendly.ai",
         "juicy-ai.com",
-        "sendibt3.com",
-        "venuschat.ai"
+        "sendibt3.com"
       ]
     },
     {
@@ -406,6 +403,7 @@
         "alohabrowser.com",
         "brave.com",
         "chromium.googlesource.com",
+        "ghostbrowser.gb1",
         "librewolf.net",
         "onionbrowser.com",
         "opera.com",
@@ -413,14 +411,6 @@
         "torproject.com",
         "torproject.org",
         "waterfox.net"
-      ]
-    },
-    {
-      "notes" : "chat",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "shagle.com"
       ]
     },
     {
@@ -494,8 +484,7 @@
         "pixai.art",
         "waifu.ai",
         "waifu.com",
-        "waifu.im",
-        "waifu.pics"
+        "waifu.im"
       ]
     },
     {
@@ -660,6 +649,7 @@
         "externalfavlink.com",
         "famedstars.com",
         "fantia.jp",
+        "farmskins.com",
         "filestorage.fun",
         "firebaseapp.com",
         "fistiitp.com",
@@ -685,6 +675,7 @@
         "jb6img.top",
         "jgdya.com",
         "joins.com",
+        "kik.com",
         "kukicoso.online",
         "kupdf.net",
         "labocaroja.com",
@@ -728,6 +719,7 @@
         "storyzink.com",
         "teiidsfortune.com",
         "theepsie.com",
+        "tinderki.com",
         "tingo.pro",
         "top2-corporate-credit-card-and-business-credit-card.info",
         "topwear.shop",
@@ -750,7 +742,8 @@
         "y2meta.mobi",
         "y2meta.tools",
         "yodayo.com",
-        "yt5s.io"
+        "yt5s.io",
+        "yubo.live"
       ]
     },
     {
