@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-13 1929",
+  "description" : "2024-04-14 1427",
   "name" : "misc",
   "rules" : [
     {
@@ -403,6 +403,8 @@
         "alohabrowser.com",
         "brave.com",
         "chromium.googlesource.com",
+        "dripemail2.com",
+        "ghostbrowser.com",
         "ghostbrowser.gb1",
         "librewolf.net",
         "onionbrowser.com",
@@ -651,7 +653,6 @@
         "fantia.jp",
         "farmskins.com",
         "filestorage.fun",
-        "firebaseapp.com",
         "fistiitp.com",
         "fondlescany.top",
         "frontalwall.online",
@@ -730,7 +731,6 @@
         "tullbun.com",
         "u-buy.com.ua",
         "unarceusan.com",
-        "undress.app",
         "visiongroup.healtheweb.co.uk.cdn.cloudflare.net ",
         "whookroo.com",
         "wilhaven.cc",
