@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-15 1101",
+  "description" : "2024-04-16 1704",
   "name" : "TLD",
   "rules" : [
     {
@@ -32,24 +32,32 @@
         "com.ru",
         "com.tr",
         "com.ua",
-        "exit",
         "fun",
         "ged.com.do",
         "lol",
         "mm",
         "net.ar",
         "net.hr",
-        "onion",
+        "party",
         "pk",
         "rs",
         "ru",
         "ru.com",
-        "tor",
         "tr",
         "vn",
         "wtf",
-        "xxx",
-        "xyz"
+        "xyz",
+        "yandex"
+      ]
+    },
+    {
+      "notes" : "Tor",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "exit",
+        "onion",
+        "tor"
       ]
     },
     {
@@ -63,7 +71,12 @@
         "com.pk",
         "com.ve",
         "com.vn",
-        "do"
+        "do",
+        "porn",
+        "sex",
+        "sexy",
+        "sucks",
+        "xxx"
       ]
     }
  ]
