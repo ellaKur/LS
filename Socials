@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-16 2151",
+  "description" : "2024-04-17 1801",
   "name" : "S",
   "rules" : [
     {
@@ -11,6 +11,8 @@
         "4chan.com",
         "4chan.org",
         "4chanarchives.com",
+        "Archived.Moe",
+        "newchan.org",
         "randomarchive.com"
       ]
     },
