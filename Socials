@@ -1,7 +1,18 @@
 {
-  "description" : "2024-04-13 1929",
+  "description" : "2024-04-16 2142",
   "name" : "S",
   "rules" : [
+    {
+      "notes" : "4chan",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "4chan-ads.org",
+        "4chan.org",
+        "4chanarchives.com",
+        "randomarchive.com"
+      ]
+    },
     {
       "notes" : "Discord",
       "action" : "deny",
@@ -289,8 +300,6 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "4chan-ads.org",
-        "4chan.org",
         "Socialblade.com",
         "bumble4friends.com",
         "delachat.com",
