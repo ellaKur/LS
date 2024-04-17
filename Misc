@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-16 2142",
+  "description" : "2024-04-17 1801",
   "name" : "misc",
   "rules" : [
     {
@@ -374,6 +374,14 @@
       ]
     },
     {
+      "notes" : "Tor",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "torbox.org"
+      ]
+    },
+    {
       "notes" : "adware",
       "action" : "deny",
       "direction" : "outgoing",
@@ -620,6 +628,9 @@
         "ambiliarcarwin.com",
         "anevoros.site",
         "anoneko.com",
+        "anonme.tv",
+        "anonpremium.com",
+        "anonsharer.org",
         "arsen-nei.com",
         "atedtrevor.guru",
         "auth0.com",
@@ -629,6 +640,7 @@
         "bigultimatebonus.life",
         "biofreear.live",
         "birchflarechurch.com",
+        "bombbomb.com",
         "bulbapp.com",
         "bunkrr.su",
         "buyglobelifetrustedcoverage.com",
@@ -684,6 +696,7 @@
         "jb6img.top",
         "jgdya.com",
         "joins.com",
+        "journeyremarks.top",
         "kik.com",
         "kukicoso.online",
         "kupdf.net",
@@ -698,6 +711,7 @@
         "meeca.ai",
         "meenetiy.com",
         "monkey.app",
+        "nestedjuster.top",
         "newentrymagazine.it",
         "nitroflare.com",
         "nulled.to",
@@ -706,6 +720,9 @@
         "patreon.com",
         "perchance.org",
         "perverteer.itch.io",
+        "picrew.me",
+        "picsart.com",
+        "picwish.cn",
         "privee.ai",
         "prompthero.com",
         "prreqcroab.icu",
@@ -727,6 +744,7 @@
         "spargerrotters.top",
         "stgy.ovh",
         "storyzink.com",
+        "strichneebor.top",
         "teiidsfortune.com",
         "theepsie.com",
         "tinderki.com",
@@ -742,7 +760,9 @@
         "u-buy.com.ua",
         "unarceusan.com",
         "visiongroup.healtheweb.co.uk.cdn.cloudflare.net ",
+        "votted.net",
         "w3snoop.com",
+        "westernchanfellowship.org",
         "whookroo.com",
         "wilhaven.cc",
         "win-the-prize5.top",
