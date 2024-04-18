@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-17 1801",
+  "description" : "2024-04-18 1322",
   "name" : "S",
   "rules" : [
     {
@@ -67,6 +67,16 @@
         "threads.net",
         "whatsapp.com",
         "whatsapp.net"
+      ]
+    },
+    {
+      "notes" : "Gab",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "dissenter.com",
+        "gab.ai",
+        "gab.com"
       ]
     },
     {
@@ -275,7 +285,6 @@
         "datememe.com",
         "dating-chat.click",
         "easymeetcute.com",
-        "gab.com",
         "happn.com",
         "heartbeathookups.com",
         "hinge.co",
