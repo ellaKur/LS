@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-22 1235",
+  "description" : "2024-04-22 1251",
   "name" : "misc",
   "rules" : [
     {
@@ -416,6 +416,7 @@
         "ghostbrowser.com",
         "ghostbrowser.gb1",
         "librewolf.net",
+        "maxthon.com",
         "onionbrowser.com",
         "opera.com",
         "psiphon.ca",
