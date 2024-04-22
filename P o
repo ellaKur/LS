@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-22 1235",
+  "description" : "2024-04-22 1816",
   "name" : "P",
   "rules" : [
     {
@@ -56,15 +56,15 @@
       ]
     },
     {
-      "notes" : "ai chat",
+      "notes" : "anime",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "SpicyChat.AI",
-        "aroused.ai",
-        "janitoraichat.com",
-        "kinde.com",
-        "spicychat.ai"
+        "9anime.se",
+        "aihentaigenerator.net",
+        "anime-planet.com",
+        "animesuge.to",
+        "chapmanganato.to"
       ]
     },
     {
@@ -73,10 +73,15 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "247chatter.com",
+        "SpicyChat.AI",
+        "aroused.ai",
         "chatliv.com",
         "chatspin.com",
         "cutechat.ai",
         "instachatrooms.com",
+        "janitoraichat.com",
+        "kinde.com",
+        "spicychat.ai",
         "tinychat.tinychatfb",
         "topchatsites.com"
       ]
@@ -95,15 +100,6 @@
         "yt1s.com.co",
         "yt1s.name",
         "yt1ss.pro"
-      ]
-    },
-    {
-      "notes" : "manga",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "aihentaigenerator.net",
-        "chapmanganato.to"
       ]
     },
     {
@@ -11455,6 +11451,7 @@
         "flirtfair.dk",
         "flirtfeverspot.life",
         "flirtgood.com",
+        "flirtingemails.com",
         "flirtingmails.com",
         "flirtingmessages.com",
         "flirtingneighbors.com",
