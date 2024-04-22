@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-22 1235",
+  "description" : "2024-04-22 1816",
   "name" : "spam email",
   "rules" : [
     {
@@ -56,6 +56,7 @@
         "cleased.com",
         "closed-uptight.de",
         "cnc-metal.hr",
+        "com.ni",
         "continentiv.com",
         "cooing-smoggy.de",
         "cosal.ro",
