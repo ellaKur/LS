@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-31 2240",
+  "description" : "2024-04-22 2120",
   "name" : "stores",
   "rules" : [
     {
@@ -18,13 +18,16 @@
         "chrome.webstore.com",
         "chromewebstore.google.com",
         "chromewebstore.googleapis.com",
+        "cnet.com",
         "digitaltrends.com",
         "dvdvideosoft.net",
+        "filecr.com",
         "informer.com",
         "itch.io",
         "itunes.apple.com",
         "macosx-update.com",
         "macupdate.com",
+        "maxthon-browser.soft32.com",
         "mob.org",
         "mobile9.com",
         "mrdownload.com",
