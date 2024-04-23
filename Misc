@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-22 1816",
+  "description" : "2024-04-22 2120",
   "name" : "misc",
   "rules" : [
     {
@@ -409,6 +409,7 @@
       "remote-domains" : [
         "Chromium.org",
         "alohabrowser.com",
+        "alphaomega-software.com",
         "brave.com",
         "chromium.googlesource.com",
         "dripemail2.com",
@@ -492,6 +493,15 @@
       ]
     },
     {
+      "notes" : "malware",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "getrunkhomuto.info",
+        "installlcheck.com"
+      ]
+    },
+    {
       "notes" : "manga",
       "action" : "deny",
       "direction" : "outgoing",
@@ -568,6 +578,7 @@
         "startpage.com",
         "swisscows.com",
         "teoma.com",
+        "theirbellstudio.co",
         "thenet1.com",
         "topsearchesgo.net",
         "webcrawler.com",
@@ -648,6 +659,7 @@
         "Yesmovies9.com",
         "azmovies.net",
         "bestmoviesflix.xyz",
+        "bmovies.co",
         "cherrytv.net",
         "chilimovie.com",
         "crackle.com",
@@ -668,24 +680,31 @@
         "keepvid.to",
         "limetorrents.so",
         "losmovies.id",
+        "losmovies.xyz",
         "megacloud.tv",
         "movies.how",
         "moviesflix4k.top",
         "moviesjoy.is",
+        "moviesjoy.watch",
+        "moviezflix.fun",
         "online-video-cutter.com",
         "popcornflix.com",
+        "popcorntimeonline.xyz",
+        "putlocker.bot",
         "sidequestvr.com",
         "solarmovie.one",
         "stremio.com",
         "thepiratebay.org",
         "torrends.to",
+        "torrentfreak.com",
         "trakt.tv",
         "tubitv.com",
         "tv.movie",
         "vid41c.site",
         "videocandy.com",
         "watchfree.at",
-        "yidio.com"
+        "yidio.com",
+        "yts.mx"
       ]
     },
     {
@@ -788,6 +807,7 @@
         "hashemian.com",
         "hejiba.cc",
         "hitsdailydouble.com",
+        "imago-images.com",
         "imig.es",
         "imprnt.com",
         "interstitial-07.com",
@@ -1095,6 +1115,7 @@
         "brioux.tv",
         "bruinou.com",
         "calendargirlproductions.com",
+        "caughtoffside.com",
         "cdm.me",
         "clarin.com",
         "colormusic.cl",
