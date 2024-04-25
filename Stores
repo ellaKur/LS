@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-22 2120",
+  "description" : "2024-04-24 2155",
   "name" : "stores",
   "rules" : [
     {
@@ -35,6 +35,7 @@
         "soft32.com",
         "softonic.com",
         "techspot.com",
+        "top-app-store.com",
         "update-mac.com"
       ]
     },
