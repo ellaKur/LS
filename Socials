@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-22 1235",
+  "description" : "2024-04-24 2155",
   "name" : "S",
   "rules" : [
     {
@@ -243,6 +243,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "1v1chat.me",
+        "FaceFlow.com",
         "alloteens.org",
         "chartoo.com",
         "chatkr.com",
