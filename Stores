@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-24 2155",
+  "description" : "2024-04-25 2132",
   "name" : "stores",
   "rules" : [
     {
@@ -10,8 +10,10 @@
         "addons.mozilla.org",
         "addons.opera.com",
         "apk.cafe",
+        "apkpure.com",
         "apps.apple.com",
         "appsdrop.com",
+        "apptopia.com",
         "bestfreewaredownload.com",
         "ccm.net",
         "chrome.google.com",
@@ -22,6 +24,7 @@
         "digitaltrends.com",
         "dvdvideosoft.net",
         "filecr.com",
+        "freedownloadmanager.org",
         "informer.com",
         "itch.io",
         "itunes.apple.com",
