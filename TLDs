@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-22 1816",
+  "description" : "2024-04-25 2259",
   "name" : "TLD",
   "rules" : [
     {
@@ -34,8 +34,10 @@
         "com.ua",
         "fun",
         "ged.com.do",
+        "how",
         "lol",
         "mm",
+        "moe",
         "net.ar",
         "net.hr",
         "party",
