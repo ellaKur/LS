@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-25 2132",
+  "description" : "2024-04-25 2259",
   "name" : "misc",
   "rules" : [
     {
@@ -378,6 +378,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "onionengine.com",
         "torbox.org"
       ]
     },
@@ -689,6 +690,7 @@
         "gomovies.sx",
         "gostream.co",
         "hhdmovies.baby",
+        "iptorrents.com",
         "itorrents.org",
         "keepvid.to",
         "limetorrents.so",
@@ -794,6 +796,7 @@
         "crypto.com",
         "desired.ai",
         "dexpredict.com",
+        "dhgate.com",
         "dintiobs.com",
         "dl-api.com",
         "doidacers.com",
@@ -853,6 +856,7 @@
         "kukicoso.online",
         "kupdf.net",
         "labocaroja.com",
+        "lemon.ccdownloader",
         "lernodydenknow.info",
         "list-manage.com",
         "localbajan.com",
@@ -931,6 +935,7 @@
         "u-buy.com.ua",
         "unarceusan.com",
         "unfortunatelydestroyedfuse.com",
+        "unsee.cc",
         "vidon.site",
         "viimksyi.com",
         "viled.cfd",
@@ -940,6 +945,7 @@
         "vpnonly.site",
         "w3snoop.com",
         "waisheph.com",
+        "warosu.org",
         "webcamera.io",
         "westernchanfellowship.org",
         "whookroo.com",
@@ -1111,6 +1117,7 @@
         "iyoutubetomp4.com",
         "notube.net",
         "savethevideo.com",
+        "screencapture.com",
         "tubeoffline.com",
         "video2edit.com",
         "vtfreedownloader.com",
@@ -1193,7 +1200,6 @@
         "picuki.com",
         "pond5.com",
         "qdzhengzheng.com",
-        "rashtradeepika.com",
         "setn.com",
         "slamxhype.com",
         "softsilo.com",
