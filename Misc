@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-24 2155",
+  "description" : "2024-04-25 2132",
   "name" : "misc",
   "rules" : [
     {
@@ -426,7 +426,6 @@
         "psiphon.ca",
         "torproject.com",
         "torproject.org",
-        "ur-browser.com",
         "waterfox.net"
       ]
     },
@@ -461,6 +460,7 @@
         "rapidgator.net",
         "rumble.com",
         "save4k.com",
+        "soft112.com",
         "top4download.com",
         "workupload.com"
       ]
@@ -501,9 +501,9 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "ajrkm1.com",
         "getrunkhomuto.info",
-        "installlcheck.com"
+        "installlcheck.com",
+        "platesnervous.com"
       ]
     },
     {
@@ -669,10 +669,12 @@
         "castledownload.com",
         "cherrytv.net",
         "chilimovie.com",
+        "cloudvideosa.com",
         "crackle.com",
         "dlive.tv",
         "eztvstatus.org",
         "eztvx.to",
+        "filmzie.com",
         "flicksmore.com",
         "flixrave.to",
         "flixwave.cc",
@@ -705,6 +707,7 @@
         "popcornflix.com",
         "popcorntimeonline.xyz",
         "putlocker.bot",
+        "rarbg.tw",
         "showbox.media",
         "sidequestvr.com",
         "solarmovie.one",
@@ -712,15 +715,19 @@
         "thepiratebay.org",
         "torrends.to",
         "torrentfreak.com",
+        "torrentgalaxy.to",
         "trakt.tv",
         "tubitv.com",
         "tv.movie",
+        "upstream.to",
         "vid30c.site",
         "vid41c.site",
         "videocandy.com",
         "watchfree.at",
         "watchseries.pe",
+        "webtorrent.io",
         "yidio.com",
+        "ymovies.cc",
         "yts.mx"
       ]
     },
@@ -809,13 +816,13 @@
         "fistiitp.com",
         "fondlescany.top",
         "frontalwall.online",
+        "froommixoria.com",
         "fsotjp.xyz",
         "futaroku.gg",
         "gamehollywood.com",
         "gasapp.co",
         "gaultpalisfy.top",
         "genyoutube.online",
-        "getrunkhomuto.info",
         "gettr.com",
         "glersooy.net",
         "gloogruk.com",
@@ -889,10 +896,12 @@
         "rssing.com",
         "sadiomarioon.us.com",
         "sasisa.org",
+        "semfogic.com",
         "sendeyo.com",
         "sendgrid.net",
         "sendibt2.com",
         "shooltuca.net",
+        "slammedinstructiondisc.com",
         "softorino.com",
         "sopwlh.top",
         "soulgen.net",
@@ -900,6 +909,7 @@
         "stgy.ovh",
         "storyzink.com",
         "strichneebor.top",
+        "stvwell.online",
         "tauria.com",
         "teiidsfortune.com",
         "theconservativetreehouse.com",
@@ -1097,6 +1107,7 @@
         "imginn.io",
         "instagrammernews.com",
         "instavisor.net",
+        "invideo.io",
         "iyoutubetomp4.com",
         "notube.net",
         "savethevideo.com",
