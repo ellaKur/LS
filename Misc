@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-25 2259",
+  "description" : "2024-04-27 1302",
   "name" : "misc",
   "rules" : [
     {
@@ -471,7 +471,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "bovada.lv"
+        "bovada.lv",
+        "progamerage.com"
       ]
     },
     {
@@ -684,6 +685,7 @@
         "fmovies.co",
         "fmovies.to",
         "fmovies3.com",
+        "fmovies4free.com",
         "fmovieshd.cc",
         "fmoviesz.to",
         "fmovieszfree.org",
@@ -728,6 +730,9 @@
         "watchfree.at",
         "watchseries.pe",
         "webtorrent.io",
+        "yesmovies.app",
+        "yesmovies.media",
+        "yesmovies9.com",
         "yidio.com",
         "ymovies.cc",
         "yts.mx"
@@ -766,6 +771,7 @@
         "anonme.tv",
         "anonpremium.com",
         "anonsharer.org",
+        "anusib.net",
         "arsen-nei.com",
         "atedtrevor.guru",
         "auth0.com",
@@ -861,6 +867,7 @@
         "list-manage.com",
         "localbajan.com",
         "loyaltystars.com",
+        "magicphoto.app",
         "maipo.net",
         "makingsilverrip.info",
         "mandrillapp.com",
@@ -935,7 +942,6 @@
         "u-buy.com.ua",
         "unarceusan.com",
         "unfortunatelydestroyedfuse.com",
-        "unsee.cc",
         "vidon.site",
         "viimksyi.com",
         "viled.cfd",
@@ -959,7 +965,8 @@
         "y2meta.tools",
         "yodayo.com",
         "yt5s.io",
-        "yubo.live"
+        "yubo.live",
+        "zmo.al"
       ]
     },
     {
