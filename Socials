@@ -1,19 +1,23 @@
 {
-  "description" : "2024-04-24 2155",
-  "name" : "S",
+  "description" : "2024-04-27 1302",
+  "name" : "social",
   "rules" : [
     {
       "notes" : "4chan",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "4archive.org",
         "4chan-ads.org",
         "4chan.com",
         "4chan.org",
         "4chanarchives.com",
+        "4chansearch.com",
         "Archived.Moe",
         "newchan.org",
-        "randomarchive.com"
+        "randomarchive.com",
+        "thebarchive.com",
+        "wakarimasen.moe"
       ]
     },
     {
@@ -156,6 +160,7 @@
         "amp-reddit-com.cdn.ampproject.org",
         "map.fastly.net",
         "redd.it",
+        "redd.tube",
         "reddit-image.s3.amazonaws.com",
         "reddit-stream.com",
         "reddit-uploaded-media.s3-accelerate.amazonaws.com",
@@ -166,8 +171,12 @@
         "redditgifts.s3.amazonaws.com",
         "redditinc.com",
         "redditmedia.com",
+        "redditporn.org",
         "redditstatic.com",
-        "reddituploads.com"
+        "reddituploads.com",
+        "redditvids.com",
+        "reddpics.com",
+        "reddxxx.com"
       ]
     },
     {
@@ -251,6 +260,7 @@
         "chatra.com",
         "e-chats.com",
         "faceflow.com",
+        "fantasygen.ai",
         "group.io",
         "groups.io",
         "imeetzu.com",
