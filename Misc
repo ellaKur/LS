@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-27 1302",
+  "description" : "2024-04-29 1320",
   "name" : "misc",
   "rules" : [
     {
@@ -435,16 +435,19 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "9xupload.asia",
         "Filehorse.com",
         "amoyshare.com",
         "archive.com",
         "bitdownloader.io",
         "bittorrent.com",
         "dailydownloaded.com",
+        "desiupload.co",
         "febbox.com",
         "fetcherx.com",
         "katfile.com",
         "macupdater.net",
+        "mcloud.bz",
         "mediafire.com",
         "mega.co.nz",
         "mega.com",
@@ -463,6 +466,8 @@
         "save4k.com",
         "soft112.com",
         "top4download.com",
+        "uploadbaz.me",
+        "uploadingsite.com",
         "workupload.com"
       ]
     },
@@ -471,6 +476,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "batery.in",
+        "baterybet.in",
         "bovada.lv",
         "progamerage.com"
       ]
@@ -503,9 +510,12 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "dood.sh",
+        "froommixoria.com",
         "getrunkhomuto.info",
         "installlcheck.com",
-        "platesnervous.com"
+        "platesnervous.com",
+        "sorrowfultrouble.com"
       ]
     },
     {
@@ -666,6 +676,7 @@
         "Yesmovies9.com",
         "avantbrowser.com",
         "azmovies.net",
+        "badassmoviesondvd.com",
         "bestmoviesflix.xyz",
         "bmovies.co",
         "castledownload.com",
@@ -674,6 +685,7 @@
         "cloudvideosa.com",
         "crackle.com",
         "dlive.tv",
+        "dreadpiratedvd.com",
         "eztvstatus.org",
         "eztvx.to",
         "filmzie.com",
@@ -716,6 +728,7 @@
         "sidequestvr.com",
         "solarmovie.one",
         "stremio.com",
+        "thenextplanet1.bond",
         "thepiratebay.org",
         "torrends.to",
         "torrentfreak.com",
@@ -789,12 +802,14 @@
         "buyglobelifetrustedcoverage.com",
         "buzzday.info",
         "catlecition.com",
+        "ceegriwuwoa.net",
         "chaffewerbureaks.com",
         "chisol.org",
         "choppedtrimboulevard.com",
         "citizenfreepress.com",
         "clctrnfafzc.com",
         "coinbase.com",
+        "commenttrendle.top",
         "confirmed.us",
         "copaibakubera.top",
         "crax.pro",
@@ -825,7 +840,6 @@
         "fistiitp.com",
         "fondlescany.top",
         "frontalwall.online",
-        "froommixoria.com",
         "fsotjp.xyz",
         "futaroku.gg",
         "gamehollywood.com",
@@ -858,6 +872,7 @@
         "joins.com",
         "journeyremarks.top",
         "justthenews.com",
+        "kardiologi-ui.com",
         "kik.com",
         "kukicoso.online",
         "kupdf.net",
@@ -886,6 +901,7 @@
         "nulled.to",
         "onclickalgo.com",
         "onelink.me",
+        "opensea.io",
         "overallsupremo.top",
         "patreon.com",
         "perchance.org",
