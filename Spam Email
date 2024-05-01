@@ -1,5 +1,5 @@
 {
-  "description" : "2024-04-29 1320",
+  "description" : "2024-05-01 1608",
   "name" : "spam email",
   "rules" : [
     {
@@ -56,6 +56,7 @@
         "cleased.com",
         "closed-uptight.de",
         "cnc-metal.hr",
+        "coldcarenigerialtd.com",
         "com.ni",
         "continentiv.com",
         "cooing-smoggy.de",
@@ -75,6 +76,7 @@
         "deinonlineabenteuer.de",
         "deranged-keystone.de",
         "dermoskin.com.tr",
+        "descript.com",
         "desfinancing.com.ph",
         "designathus.com",
         "dhlexpress-hanoi.com",
