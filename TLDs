@@ -1,5 +1,5 @@
 {
-  "description" : "2024-05-02 2104",
+  "description" : "2024-05-03 1221",
   "name" : "TLD",
   "rules" : [
     {
@@ -47,6 +47,7 @@
         "ru",
         "ru.com",
         "sx",
+        "tattoo",
         "top",
         "tr",
         "tv",
