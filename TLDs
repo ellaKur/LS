@@ -1,5 +1,5 @@
 {
-  "description" : "2024-05-01 1608",
+  "description" : "2024-05-02 2104",
   "name" : "TLD",
   "rules" : [
     {
@@ -49,6 +49,7 @@
         "sx",
         "top",
         "tr",
+        "tv",
         "vn",
         "wtf",
         "xyz",
