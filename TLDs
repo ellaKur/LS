@@ -1,5 +1,5 @@
 {
-  "description" : "2024-05-03 1221",
+  "description" : "2024-05-04 1256",
   "name" : "TLD",
   "rules" : [
     {
@@ -10,6 +10,7 @@
         "am",
         "ar.com",
         "bg",
+        "cab",
         "cf",
         "club",
         "co.cr",
@@ -32,15 +33,18 @@
         "com.ru",
         "com.tr",
         "com.ua",
+        "cu",
         "fun",
         "ged.com.do",
         "gg",
+        "gives",
         "how",
         "lol",
         "mm",
         "moe",
         "net.ar",
         "net.hr",
+        "onl",
         "party",
         "pk",
         "rs",
