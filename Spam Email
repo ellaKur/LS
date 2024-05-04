@@ -1,5 +1,5 @@
 {
-  "description" : "2024-05-01 1608",
+  "description" : "2024-05-04 1256",
   "name" : "spam email",
   "rules" : [
     {
@@ -223,6 +223,7 @@
         "rticularly.com",
         "s-kyoyu.co.jp",
         "sake-ariyama.co.jp",
+        "same-bang.de",
         "schoosier.com",
         "scientireme.com",
         "seemly-empty.de",
