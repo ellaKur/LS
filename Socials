@@ -1,5 +1,5 @@
 {
-  "description" : "2024-05-01 1608",
+  "description" : "2024-05-06 1811",
   "name" : "S",
   "rules" : [
     {
@@ -187,6 +187,7 @@
         "chpic.su",
         "codekeeper.Telegram",
         "t.me",
+        "telegra.ph",
         "telegram.com",
         "telegram.dog",
         "telegram.im",
@@ -359,7 +360,6 @@
         "elakiri.com",
         "pontetibetanomatera.it",
         "sharechat.com",
-        "telegra.ph",
         "telegraphonline.com"
       ]
     }
