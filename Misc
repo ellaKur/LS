@@ -1,5 +1,5 @@
 {
-  "description" : "2024-05-06 2258",
+  "description" : "2024-05-07 1519",
   "name" : "misc",
   "rules" : [
     {
@@ -515,6 +515,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "annulmentequitycereals.com",
         "aucoudsa.net",
         "cleanmypc.org",
         "dood.sh",
@@ -763,6 +764,7 @@
         "putlocker.bot",
         "putlocker.digital",
         "putlocker.kz",
+        "putlocker9.cam",
         "putlockerhd.cc",
         "putlockers.io",
         "putlockers.li",
@@ -831,7 +833,6 @@
         "ambiliarcarwin.com",
         "ancileporing.top",
         "anevoros.site",
-        "annulmentequitycereals.com",
         "anoneko.com",
         "anonfiles.com",
         "anonme.tv",
@@ -840,6 +841,7 @@
         "anusib.net",
         "appiersig.com",
         "arsen-nei.com",
+        "arsonictithing.top",
         "atedtrevor.guru",
         "auth0.com",
         "balluteparolee.top",
@@ -859,6 +861,7 @@
         "buzzday.info",
         "calameo.com",
         "catlecition.com",
+        "caviarechomp.top",
         "ceegriwuwoa.net",
         "chaffewerbureaks.com",
         "chisol.org",
