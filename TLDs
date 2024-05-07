@@ -1,5 +1,5 @@
 {
-  "description" : "2024-05-06 2221",
+  "description" : "2024-05-07 1519",
   "name" : "TLD",
   "rules" : [
     {
@@ -47,6 +47,7 @@
         "moe",
         "net.ar",
         "net.hr",
+        "ninja",
         "nu",
         "onl",
         "party",
