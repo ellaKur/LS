@@ -1,5 +1,5 @@
 {
-  "description" : "2024-05-04 1256",
+  "description" : "2024-05-12 1818",
   "name" : "stores",
   "rules" : [
     {
@@ -21,8 +21,8 @@
         "chrome.webstore.com",
         "chromewebstore.google.com",
         "chromewebstore.googleapis.com",
-        "cnet.com",
         "digitaltrends.com",
+        "download.cnet.com",
         "dvdvideosoft.net",
         "ebay.ph",
         "filecr.com",
