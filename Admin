@@ -1,5 +1,5 @@
 {
-  "description" : "2024-03-31 2240",
+  "description" : "2024-05-22 1659",
   "name" : "admin",
   "rules" : [
     {
@@ -63,6 +63,14 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "nyt.com"
+      ]
+    },
+    {
+      "notes" : "employment",
+      "action" : "allow",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "tazworks.com"
       ]
     }
  ]
