@@ -1,6 +1,6 @@
 {
-  "description" : "2024-05-22 1844",
-  "name" : "P",
+  "description" : "2024-05-23 1838",
+  "name" : "porn",
   "rules" : [
     {
       "notes" : "ai",
@@ -119,6 +119,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "1847.ae",
+        "ac.id",
         "ac.th",
         "aeriview.com",
         "anydaynowdc.com",
@@ -145,6 +146,7 @@
         "enensu.com",
         "fsusd.org",
         "go.th",
+        "highendminglex.com",
         "intiland.com",
         "mailteknology.com",
         "mailtknnews.com",
