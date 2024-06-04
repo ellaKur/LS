@@ -393,6 +393,14 @@
       ]
     },
     {
+      "notes" : "ai",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "beehiiv.com"
+      ]
+    },
+    {
       "notes" : "ai chat",
       "action" : "deny",
       "direction" : "outgoing",
