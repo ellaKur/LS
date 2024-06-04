@@ -1,5 +1,5 @@
 {
-  "description" : "2024-06-04 1230",
+  "description" : "2024-06-04 1759",
   "name" : "S",
   "rules" : [
     {
@@ -158,7 +158,6 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "amp-reddit-com.cdn.ampproject.org",
-        "map.fastly.net",
         "redd.it",
         "redd.tube",
         "reddit-image.s3.amazonaws.com",
@@ -166,6 +165,7 @@
         "reddit-uploaded-media.s3-accelerate.amazonaws.com",
         "reddit-uploaded-video.s3-accelerate.amazonaws.com",
         "reddit.com",
+        "reddit.map.fastly.net",
         "redditblog.com",
         "redditgifts.com",
         "redditgifts.s3.amazonaws.com",
