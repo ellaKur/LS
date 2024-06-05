@@ -1,5 +1,5 @@
 {
-  "description" : "2024-05-29 1910",
+  "description" : "2024-06-05 1446",
   "name" : "stores",
   "rules" : [
     {
@@ -30,7 +30,6 @@
         "freedownloadmanager.org",
         "informer.com",
         "itch.io",
-        "itunes.apple.com",
         "macosx-update.com",
         "macupdate.com",
         "maxthon-browser.soft32.com",
@@ -38,6 +37,7 @@
         "mobile9.com",
         "mrdownload.com",
         "mrsdownloader.com",
+        "osxapps.itunes.apple.com",
         "panzoid.com",
         "sadaalomma.com",
         "soft32.com",
