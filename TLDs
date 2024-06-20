@@ -1,5 +1,5 @@
 {
-  "description" : "2024-06-04 1230",
+  "description" : "2024-06-20 1901",
   "name" : "TLD",
   "rules" : [
     {
@@ -9,6 +9,7 @@
       "remote-domains" : [
         "am",
         "ar.com",
+        "bet",
         "bg",
         "cab",
         "cf",
@@ -44,6 +45,7 @@
         "how",
         "lat",
         "li",
+        "live",
         "lol",
         "mm",
         "moe",
@@ -64,6 +66,7 @@
         "tattoo",
         "top",
         "tr",
+        "tube",
         "tv",
         "vn",
         "wtf",
