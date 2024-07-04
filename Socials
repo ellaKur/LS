@@ -1,5 +1,5 @@
 {
-  "description" : "2024-06-12 1639",
+  "description" : "2024-07-04 1335",
   "name" : "S",
   "rules" : [
     {
@@ -360,6 +360,7 @@
       "remote-domains" : [
         "almondraf.itch.io",
         "elakiri.com",
+        "mingle.com",
         "pontetibetanomatera.it",
         "sharechat.com",
         "telegraphonline.com"
