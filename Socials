@@ -1,5 +1,5 @@
 {
-  "description" : "2024-07-04 1335",
+  "description" : "2024-07-12 1822",
   "name" : "S",
   "rules" : [
     {
@@ -194,7 +194,8 @@
         "telegram.me",
         "telegram.org",
         "telesco.pe",
-        "tg.dev"
+        "tg.dev",
+        "tgram.ru"
       ]
     },
     {
