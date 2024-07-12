@@ -1,5 +1,5 @@
 {
-  "description" : "2024-07-04 1335",
+  "description" : "2024-07-12 1843",
   "name" : "TLD",
   "rules" : [
     {
@@ -63,6 +63,7 @@
         "sh",
         "shop",
         "show",
+        "su",
         "sx",
         "tattoo",
         "top",
@@ -90,6 +91,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "adult",
+        "cam",
         "com.do",
         "com.home",
         "com.mm",
@@ -101,6 +104,8 @@
         "sex",
         "sexy",
         "sucks",
+        "tube",
+        "webcam",
         "xxx"
       ]
     }
