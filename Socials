@@ -1,5 +1,5 @@
 {
-  "description" : "2024-07-12 1822",
+  "description" : "2024-08-10 1233",
   "name" : "S",
   "rules" : [
     {
@@ -177,6 +177,14 @@
         "redditvids.com",
         "reddpics.com",
         "reddxxx.com"
+      ]
+    },
+    {
+      "notes" : "Rumble",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "rumble.com"
       ]
     },
     {
