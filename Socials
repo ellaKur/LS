@@ -1,5 +1,5 @@
 {
-  "description" : "2024-08-10 1233",
+  "description" : "2024-08-10 1336",
   "name" : "S",
   "rules" : [
     {
@@ -81,6 +81,14 @@
         "dissenter.com",
         "gab.ai",
         "gab.com"
+      ]
+    },
+    {
+      "notes" : "GroupMe",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "groupme.com"
       ]
     },
     {
@@ -201,6 +209,7 @@
         "telegram.im",
         "telegram.me",
         "telegram.org",
+        "telegramhub.net",
         "telesco.pe",
         "tg.dev",
         "tgram.ru"
@@ -213,7 +222,8 @@
       "remote-domains" : [
         "snaptiko.com",
         "tiktok.com",
-        "tiktok.pm"
+        "tiktok.pm",
+        "tiktokcdn.com"
       ]
     },
     {
