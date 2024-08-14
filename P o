@@ -1,6 +1,6 @@
 {
-  "description" : "2024-08-14 0948",
-  "name" : "porn",
+  "description" : "2024-08-14 1209",
+  "name" : "P",
   "rules" : [
     {
       "notes" : "ai",
@@ -361,6 +361,17 @@
         "yt1s.com.co",
         "yt1s.name",
         "yt1ss.pro"
+      ]
+    },
+    {
+      "notes" : "manga",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "manganato.com",
+        "waifu.ai",
+        "waifu.com",
+        "waifu.im"
       ]
     },
     {
@@ -8839,6 +8850,7 @@
         "deepintheassporn.com",
         "deepmode.ai",
         "deepmuff.com",
+        "deepnude.cc",
         "deepporn.net",
         "deeppornmovies.com",
         "deeps.net",
@@ -20361,6 +20373,7 @@
         "komandaputina.pro",
         "komendant.net",
         "komikindo.info",
+        "kompasproductions.com",
         "kompostube.com",
         "komposxxx.mobi",
         "kompoz.me",
@@ -22086,7 +22099,9 @@
         "manga18fx.com",
         "manga18h.com",
         "manga18h.xyz",
+        "mangabuddy.com",
         "mangafap.com",
+        "mangafire.to",
         "mangaforest.me",
         "mangaforfree.net",
         "mangago.me",
@@ -22095,15 +22110,19 @@
         "mangahome.com",
         "mangamiso.net",
         "manganiste.fr",
+        "mangapark.net",
+        "mangapill.com",
         "mangaplexe.com",
         "mangaporno.net",
         "mangaporno.pro",
         "mangapuma.com",
         "mangar18.com",
+        "mangareader.to",
         "mangashentais.com",
         "mangasincensura.com",
         "mangaswim.com",
         "mangatoon.mobi",
+        "mangatown.com",
         "mangazuki.co",
         "mangelsdesigns.com",
         "manggaigoi.info",
@@ -25187,6 +25206,7 @@
         "ninakayy.com",
         "ninavirgin.com",
         "ninelivesdating.com",
+        "ninemanga.com",
         "nineteenporn.com",
         "nineteentube.com",
         "ninjacondoms.com",
@@ -25724,6 +25744,7 @@
         "nudie.dk",
         "nudiesporn.com",
         "nudify-her.com",
+        "nudify.me",
         "nudism-pics.com",
         "nudismgallery.eu",
         "nudismic.com",
@@ -39348,6 +39369,7 @@
         "toonfuck.net",
         "toonfurryporn.com",
         "toonily.com",
+        "toonily.me",
         "toonpass.com",
         "toonpornpics.com",
         "toons-for-adult.com",
