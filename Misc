@@ -1,5 +1,5 @@
 {
-  "description" : "2024-08-14 1209",
+  "description" : "2024-08-16 1108",
   "name" : "misc",
   "rules" : [
     {
@@ -908,7 +908,6 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "018.click",
         "2023sale.com",
         "2b9957041a.com",
         "2ch.sc",
