@@ -1,5 +1,5 @@
 {
-  "description" : "2024-08-21 1639",
+  "description" : "2024-08-25 1401",
   "name" : "S",
   "rules" : [
     {
@@ -258,6 +258,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "sotwe.com",
         "t.co",
         "twimg.com",
         "twitter.co.uk",
