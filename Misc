@@ -1,5 +1,5 @@
 {
-  "description" : "2024-08-25 1401",
+  "description" : "2024-09-01 1557",
   "name" : "misc",
   "rules" : [
     {
@@ -549,6 +549,7 @@
         "getrunkhomuto.info",
         "ghabovethec.info",
         "gloomilysuffocate.com",
+        "glukropi.com",
         "heedetiquettedope.com",
         "installlcheck.com",
         "jeronpe.com",
@@ -564,6 +565,7 @@
         "ofleafeona.com",
         "okednfyhgd.com",
         "omgothitar.com",
+        "onmanectrictor.com",
         "platesnervous.com",
         "pogothere.xyz",
         "psaurdard.net",
@@ -720,6 +722,14 @@
         "galleon.ph",
         "paypal.com",
         "paywithmybank.com"
+      ]
+    },
+    {
+      "notes" : "shopping",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "com.om"
       ]
     },
     {
