@@ -1,5 +1,5 @@
 {
-  "description" : "2024-09-03 1046",
+  "description" : "2024-09-04 2225",
   "name" : "misc",
   "rules" : [
     {
@@ -612,6 +612,15 @@
       ]
     },
     {
+      "notes" : "payment",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "cash.app",
+        "paypal.com"
+      ]
+    },
+    {
       "notes" : "putlocker",
       "action" : "deny",
       "direction" : "outgoing",
@@ -721,7 +730,6 @@
         "ebay.ch",
         "ebay.com",
         "galleon.ph",
-        "paypal.com",
         "paywithmybank.com"
       ]
     },
@@ -930,6 +938,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "2023sale.com",
+        "2445march2024.com",
         "2b9957041a.com",
         "2ch.sc",
         "2dfan.com",
@@ -954,6 +963,7 @@
         "active-gambling.com",
         "agkn.com",
         "aka.ms",
+        "akspic.ru",
         "almstda.tv",
         "amaniabelayer.top",
         "ambiliarcarwin.com",
@@ -974,6 +984,7 @@
         "arsonictithing.top",
         "atedtrevor.guru",
         "auth0.com",
+        "bahisu2.com",
         "balluteparolee.top",
         "banetabbeetroot.com",
         "barometar.net",
@@ -1015,6 +1026,7 @@
         "crax.pro",
         "crunchyroll.com",
         "crypto.com",
+        "cvastico.com",
         "cwktehkjxt.com",
         "d44501d9f7.com",
         "daidlietreble.com",
@@ -1161,6 +1173,7 @@
         "onelink.me",
         "onionflux.com",
         "opensea.io",
+        "optnx.com",
         "ortincomyctiess.com",
         "oujeghaursee.com",
         "overallsupremo.top",
@@ -1182,6 +1195,7 @@
         "precedelaxative.com",
         "privee.ai",
         "prompthero.com",
+        "protothema.gr",
         "prreqcroab.icu",
         "psimpuphoako.com",
         "pubtrky.com",
@@ -1336,7 +1350,6 @@
         "berivanimki.online",
         "bigosext8s.com",
         "btvnovinite.bg",
-        "cash.app",
         "ccidns.net",
         "chalaips.com",
         "coedmagazine.com",
