@@ -1,5 +1,5 @@
 {
-  "description" : "2024-09-10 1715",
+  "description" : "2024-09-14 2156",
   "name" : "misc",
   "rules" : [
     {
@@ -526,6 +526,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "CasinoBonusFinder.com",
+        "CostControl.shop",
         "Inkpth.com",
         "agitationfourthplug.com",
         "ajrkm3.com",
