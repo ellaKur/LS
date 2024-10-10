@@ -1,5 +1,5 @@
 {
-  "description" : "2024-09-04 2225",
+  "description" : "2024-10-10 1556",
   "name" : "TLD",
   "rules" : [
     {
@@ -60,7 +60,6 @@
         "pk",
         "rs",
         "ru",
-        "ru.com",
         "sh",
         "shop",
         "show",
@@ -101,12 +100,17 @@
         "com.vn",
         "do",
         "porn",
+        "ru.com",
+        "sdd",
         "sex",
         "sexy",
         "sucks",
         "tube",
+        "uun",
         "webcam",
-        "xxx"
+        "xxx",
+        "zb",
+        "zt"
       ]
     }
  ]
