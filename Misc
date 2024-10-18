@@ -1,5 +1,5 @@
 {
-  "description" : "2024-10-10 1556",
+  "description" : "2024-10-18 1612",
   "name" : "misc",
   "rules" : [
     {
@@ -435,7 +435,16 @@
         "psiphon.ca",
         "torproject.com",
         "torproject.org",
+        "vivaldi.com",
         "waterfox.net"
+      ]
+    },
+    {
+      "notes" : "drugs",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "getalphaforce.com"
       ]
     },
     {
@@ -489,6 +498,7 @@
         "batery.in",
         "baterybet.in",
         "bovada.lv",
+        "crushroulette.com",
         "mykonamislots.com",
         "progamerage.com",
         "promo-sports-betting.com",
@@ -542,6 +552,7 @@
         "ajrkm3.com",
         "ambiliarcarwin.com",
         "annulmentequitycereals.com",
+        "ap4r.com",
         "appealtime.com",
         "aucoudsa.net",
         "awfulresolvedraised.com",
@@ -559,6 +570,7 @@
         "contrarymeeting.com",
         "dood.sh",
         "eatcells.com",
+        "equinus.de",
         "examplesclasp.com",
         "fauglapaiphu.net",
         "footprintsfurnish.com",
@@ -1065,9 +1077,11 @@
         "d44501d9f7.com",
         "daidlietreble.com",
         "decisive-red.com",
+        "delcampe.net",
         "deniceinm.info",
         "desired.ai",
         "dexpredict.com",
+        "dfaker.com",
         "dhgate.com",
         "dintiobs.com",
         "dl-api.com",
@@ -1329,6 +1343,7 @@
         "vipr.im",
         "visiongroup.healtheweb.co.uk.cdn.cloudflare.net ",
         "vitaefunli.top",
+        "viva-la-vita.org",
         "voicedstart.com",
         "vorostok.ru",
         "votted.net",
@@ -1503,16 +1518,27 @@
       ]
     },
     {
+      "notes" : "video",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "junodownload.com",
+        "qdownloader.cc"
+      ]
+    },
+    {
       "notes" : "video editing",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
         "2downloader.com",
+        "Aimersoft.com",
         "Grabz.it",
         "Movies4u.co",
         "Www-ytmp4.com",
         "Ytcopycat.com",
         "Yts.mx",
+        "aimersoft.com",
         "cam-recorder.com",
         "catchvideo.net",
         "clipgrab.org",
