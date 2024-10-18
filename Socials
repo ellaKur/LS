@@ -1,5 +1,5 @@
 {
-  "description" : "2024-09-26 1738",
+  "description" : "2024-10-18 1612",
   "name" : "S",
   "rules" : [
     {
@@ -168,6 +168,7 @@
         "amp-reddit-com.cdn.ampproject.org",
         "redd.it",
         "redd.tube",
+        "reddhubwin8.com",
         "reddit-image.s3.amazonaws.com",
         "reddit-stream.com",
         "reddit-uploaded-media.s3-accelerate.amazonaws.com",
@@ -175,6 +176,7 @@
         "reddit.com",
         "reddit.map.fastly.net",
         "redditblog.com",
+        "reddited.com",
         "redditgifts.com",
         "redditgifts.s3.amazonaws.com",
         "redditinc.com",
@@ -381,10 +383,13 @@
       "remote-domains" : [
         "almondraf.itch.io",
         "elakiri.com",
+        "hive.blog",
+        "kwai.net",
         "mingle.com",
         "pontetibetanomatera.it",
         "sharechat.com",
         "telegraphonline.com",
+        "texthub.me",
         "viralyft.com",
         "weibo.com"
       ]
