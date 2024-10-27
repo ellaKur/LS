@@ -1,5 +1,5 @@
 {
-  "description" : "2024-10-18 1612",
+  "description" : "2024-10-27 1830",
   "name" : "TLD",
   "rules" : [
     {
@@ -7,6 +7,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "Gov.ru",
         "akp",
         "am",
         "amn",
