@@ -1,5 +1,5 @@
 {
-  "description" : "2024-10-18 1612",
+  "description" : "2024-10-28 1844",
   "name" : "S",
   "rules" : [
     {
@@ -7,6 +7,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "4-ch.net",
         "4archive.org",
         "4chan-ads.org",
         "4chan.com",
@@ -181,6 +182,7 @@
         "redditgifts.s3.amazonaws.com",
         "redditinc.com",
         "redditmedia.com",
+        "redditp.com",
         "redditporn.org",
         "redditstatic.com",
         "reddituploads.com",
@@ -377,13 +379,20 @@
       ]
     },
     {
+      "notes" : "porn",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "chatzone.com"
+      ]
+    },
+    {
       "notes" : "social",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
         "almondraf.itch.io",
         "elakiri.com",
-        "hive.blog",
         "kwai.net",
         "mingle.com",
         "pontetibetanomatera.it",
