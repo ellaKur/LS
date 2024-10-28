@@ -1,5 +1,5 @@
 {
-  "description" : "2024-10-27 1830",
+  "description" : "2024-10-28 1844",
   "name" : "TLD",
   "rules" : [
     {
@@ -8,12 +8,15 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "Gov.ru",
+        "ak",
         "akp",
         "am",
         "amn",
         "ar.com",
         "bcm",
+        "best",
         "bet",
+        "bf",
         "bg",
         "cab",
         "cf",
@@ -41,15 +44,18 @@
         "com.ua",
         "cu",
         "cyou",
+        "dz",
         "ee",
         "fun",
         "gay",
         "ged.com.do",
         "gg",
         "gives",
+        "gj",
         "gy",
         "gyv",
         "how",
+        "im",
         "kmu",
         "kz",
         "lat",
@@ -72,6 +78,7 @@
         "party",
         "pk",
         "pr",
+        "qjp",
         "qxn",
         "rs",
         "ru",
@@ -81,6 +88,7 @@
         "show",
         "su",
         "sx",
+        "sz",
         "tattoo",
         "top",
         "tr",
@@ -89,10 +97,13 @@
         "vde",
         "vet",
         "vn",
+        "vy",
         "weh",
+        "wq",
         "wtf",
         "xyz",
-        "yandex"
+        "yandex",
+        "you"
       ]
     },
     {
