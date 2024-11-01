@@ -1,5 +1,5 @@
 {
-  "description" : "2024-10-28 1844",
+  "description" : "2024-11-01 1157",
   "name" : "S",
   "rules" : [
     {
@@ -188,7 +188,8 @@
         "reddituploads.com",
         "redditvids.com",
         "reddpics.com",
-        "reddxxx.com"
+        "reddxxx.com",
+        "scrolldit.com"
       ]
     },
     {
@@ -401,6 +402,15 @@
         "texthub.me",
         "viralyft.com",
         "weibo.com"
+      ]
+    },
+    {
+      "notes" : "suspicious",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "panjury.com",
+        "saidit.net"
       ]
     }
  ]
