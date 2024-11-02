@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-02 1829",
+  "description" : "2024-11-02 1840",
   "name" : "misc",
   "rules" : [
     {
@@ -529,6 +529,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "gist.github.com",
         "sr.ht"
       ]
     },
@@ -1150,8 +1151,6 @@
         "gearfuse.com",
         "genyoutube.online",
         "gettr.com",
-        "gist.github.com",
-        "githubusercontent.com",
         "glersooy.net",
         "gloogruk.com",
         "gloomilybench.com",
