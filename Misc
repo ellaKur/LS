@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-02 1840",
+  "description" : "2024-11-02 2305",
   "name" : "misc",
   "rules" : [
     {
@@ -530,6 +530,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "gist.github.com",
+        "objects.githubusercontent.com",
         "sr.ht"
       ]
     },
