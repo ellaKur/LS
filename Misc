@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-03 1145",
+  "description" : "2024-11-04 1633",
   "name" : "misc",
   "rules" : [
     {
@@ -541,6 +541,15 @@
       "remote-domains" : [
         "badasserver3.com",
         "malavida.com"
+      ]
+    },
+    {
+      "notes" : "imageboard",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "fujochan.org",
+        "zya.me"
       ]
     },
     {
@@ -1222,7 +1231,6 @@
         "mandrillapp.com",
         "mask.icloud.com",
         "meblemarkowicz.pl",
-        "mechachan.net",
         "mediahuman.com",
         "meeca.ai",
         "meenetiy.com",
