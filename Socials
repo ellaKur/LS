@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-03 1145",
+  "description" : "2024-11-08 1544",
   "name" : "S",
   "rules" : [
     {
@@ -274,6 +274,14 @@
       ]
     },
     {
+      "notes" : "WordPress",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "wp.com"
+      ]
+    },
+    {
       "notes" : "chat",
       "action" : "deny",
       "direction" : "outgoing",
@@ -375,8 +383,7 @@
         "tumbex.com",
         "tumblr.com",
         "vk.com",
-        "wordpress.com",
-        "wp.com"
+        "wordpress.com"
       ]
     },
     {
