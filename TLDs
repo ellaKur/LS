@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-04 1633",
+  "description" : "2024-11-08 1544",
   "name" : "TLD",
   "rules" : [
     {
@@ -56,7 +56,6 @@
         "nat",
         "net.ar",
         "net.hr",
-        "ninja",
         "nu",
         "ol",
         "onl",
@@ -116,18 +115,24 @@
         "com.vn",
         "cu",
         "cyou",
+        "dd",
         "do",
+        "dtu",
         "ee",
         "gay",
         "gg",
         "gives",
+        "gnk",
         "gy",
         "gyv",
+        "gz",
         "how",
         "iee",
         "ir",
         "irq",
         "iyg",
+        "jh",
+        "jj",
         "kef",
         "khn",
         "kmu",
@@ -141,6 +146,8 @@
         "muf",
         "mzz",
         "na",
+        "nhx",
+        "ninja",
         "oce",
         "pob",
         "porn",
@@ -172,6 +179,7 @@
         "xxx",
         "zae",
         "zb",
+        "zhn",
         "zt"
       ]
     }
