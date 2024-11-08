@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-04 1633",
+  "description" : "2024-11-08 1544",
   "name" : "misc",
   "rules" : [
     {
@@ -617,6 +617,7 @@
         "mbvlm1.com",
         "mc84.com",
         "mediago.io",
+        "megafansland.com",
         "movies4u3.one",
         "mycryptotraffic.com",
         "myposun.com",
@@ -1009,7 +1010,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "0f9e6fxhl.com",
-        "100gazou.com",
+        "10ch.tv",
         "2023sale.com",
         "2445march2024.com",
         "2b9957041a.com",
@@ -1108,7 +1109,6 @@
         "d44501d9f7.com",
         "daidlietreble.com",
         "decisive-red.com",
-        "delcampe.net",
         "deniceinm.info",
         "desired.ai",
         "dexpredict.com",
