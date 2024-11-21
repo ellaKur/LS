@@ -1,5 +1,5 @@
 {
-  "description" : "2024-06-20 1901",
+  "description" : "2024-11-20 2300",
   "name" : "V",
   "rules" : [
     {
@@ -12,6 +12,7 @@
         "Fortinet.com",
         "Kaspersky.com",
         "Malavida.com",
+        "Recovpnlab.com",
         "acevpn.com",
         "activpn.com",
         "adguard-vpn.com",
@@ -206,6 +207,7 @@
         "tuvpn.com",
         "tuxlervpn.com",
         "tweakwarevpn.net",
+        "uafeanvpnapps.com",
         "ufovon.io",
         "ufovpn.io",
         "ukproxyserver.com",
