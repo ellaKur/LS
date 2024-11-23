@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-20 2300",
+  "description" : "2024-11-23 1741",
   "name" : "misc",
   "rules" : [
     {
@@ -690,6 +690,14 @@
       "remote-domains" : [
         "cash.app",
         "paypal.com"
+      ]
+    },
+    {
+      "notes" : "porn",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "maxshy.com"
       ]
     },
     {
