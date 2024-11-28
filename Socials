@@ -1,6 +1,6 @@
 {
-  "description" : "2024-11-08 1544",
-  "name" : "S",
+  "description" : "2024-11-28 1203",
+  "name" : "social",
   "rules" : [
     {
       "notes" : "4chan",
@@ -103,7 +103,8 @@
         "instagram.co.uk",
         "instagram.com",
         "instagramstatic-a.akamaihd.net",
-        "net.edgesuite.net"
+        "net.edgesuite.net",
+        "saveinsta.cc"
       ]
     },
     {
@@ -400,6 +401,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "almondraf.itch.io",
+        "cato.social",
         "elakiri.com",
         "kwai.net",
         "mingle.com",
@@ -408,6 +410,7 @@
         "socialmediaalternatives.org",
         "telegraphonline.com",
         "texthub.me",
+        "utdforum.com",
         "viralyft.com",
         "weibo.com"
       ]
