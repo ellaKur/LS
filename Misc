@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-23 1741",
+  "description" : "2024-11-28 1203",
   "name" : "misc",
   "rules" : [
     {
@@ -378,8 +378,41 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "onionbrowser.com",
         "onionengine.com",
-        "torbox.org"
+        "torbox.org",
+        "torproject.com",
+        "torproject.org"
+      ]
+    },
+    {
+      "notes" : "YouTube",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "Www-ytmp4.com",
+        "iyoutubetomp4.com",
+        "ssyoutube.com",
+        "ssyoutube.com.co",
+        "youtubemp4.app",
+        "youtubemp4.kim",
+        "yt-downloaderz.com",
+        "yt1s.com",
+        "yt1s.com.co",
+        "yt1s.is",
+        "yt1s.name",
+        "yt1ss.pro",
+        "yt5s.bz",
+        "yt5s.io",
+        "yt5s.is",
+        "ytconverters.org",
+        "ytls.com",
+        "ytmp4.biz",
+        "ytmp4.com",
+        "ytmp4.is",
+        "ytmp4.page",
+        "ytmp4.video",
+        "yttomp4.pro"
       ]
     },
     {
@@ -431,11 +464,8 @@
         "librewolf.net",
         "maxthon.com",
         "metager.com",
-        "onionbrowser.com",
         "opera.com",
         "psiphon.ca",
-        "torproject.com",
-        "torproject.org",
         "vivaldi.com",
         "waterfox.net"
       ]
@@ -540,7 +570,8 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "badasserver3.com",
-        "malavida.com"
+        "malavida.com",
+        "picturelol.com"
       ]
     },
     {
@@ -697,7 +728,18 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "maxshy.com"
+        "casualhookup.com",
+        "dronpr.com",
+        "enessep.com",
+        "gessete.com",
+        "hyrecto.com",
+        "lada-unikor.ru",
+        "maxshy.com",
+        "mezolyp.com",
+        "mylasso.com",
+        "myosotisplus.com",
+        "nowim.autos",
+        "rowlenym.com"
       ]
     },
     {
@@ -877,6 +919,7 @@
         "123series.art",
         "1337x.to",
         "9convert.com",
+        "9convert.xyz",
         "9xplayer.com",
         "Fmoviesz.to",
         "Gomovies.sx",
@@ -944,7 +987,9 @@
         "itorrents.org",
         "justwatch.com",
         "kanopy.com",
+        "keepvid.online",
         "keepvid.to",
+        "keepvid.works",
         "limetorrents.so",
         "lookmovie.la",
         "losmovies.id",
@@ -1037,7 +1082,6 @@
         "8chan.co",
         "976.ai",
         "Archivedyou.com",
-        "Downloaderto.com",
         "Froommixoria.com",
         "Goojara.to",
         "H33t.moe",
@@ -1074,6 +1118,7 @@
         "balluteparolee.top",
         "banetabbeetroot.com",
         "barometar.net",
+        "benneteunomy.shop",
         "bestbettingsiteadvisor.com",
         "bigultimatebonus.life",
         "binaryrecentrecentcut.com",
@@ -1101,6 +1146,7 @@
         "caviarechomp.top",
         "centrofiles.com",
         "chaffewerbureaks.com",
+        "chaouen.eu",
         "chisol.org",
         "choppedtrimboulevard.com",
         "chzbgr.com",
@@ -1193,6 +1239,7 @@
         "hamsudusd.info",
         "hashemian.com",
         "hejiba.cc",
+        "heye.kr",
         "hitsdailydouble.com",
         "honorsociety.org",
         "hotshang.com",
@@ -1213,8 +1260,8 @@
         "joins.com",
         "journeyremarks.top",
         "justthenews.com",
+        "kakaocdn.net",
         "kardiologi-ui.com",
-        "keepvid.works",
         "kerapoxy.cc",
         "khzae.net",
         "kik.com",
@@ -1299,6 +1346,7 @@
         "protothema.gr",
         "prreqcroab.icu",
         "psimpuphoako.com",
+        "psolsumoo.net",
         "pubtrky.com",
         "purestorm.com",
         "qaklbrqevbmzv.top",
@@ -1368,6 +1416,7 @@
         "torcklmi.com",
         "torrage.info",
         "trafficdecisions.com",
+        "transformco.com",
         "traymute.com",
         "trk-adulvion.com",
         "trk-amropode.com",
@@ -1419,17 +1468,14 @@
         "x-maru.org",
         "x2tsa.com",
         "xsnvshen.com",
-        "y2mate.com",
-        "y2mate.lol",
-        "y2mate.tools",
         "y2meta.mobi",
         "y2meta.tools",
         "yadro.ru",
         "yodayo.com",
         "yt.be",
         "yt2api.com",
-        "yt5s.io",
         "yubo.live",
+        "yumpu.com",
         "zengshi.net",
         "zktOflig7.com",
         "zmo.al"
@@ -1575,9 +1621,12 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "Downloaderto.com",
         "junodownload.com",
         "pastedownload.com",
         "qdownloader.cc",
+        "qdownloader.org",
+        "savefrom.bz",
         "yewtu.be"
       ]
     },
@@ -1590,7 +1639,6 @@
         "Aimersoft.com",
         "Grabz.it",
         "Movies4u.co",
-        "Www-ytmp4.com",
         "Ytcopycat.com",
         "Yts.mx",
         "aimersoft.com",
@@ -1608,12 +1656,10 @@
         "instasaverpro.com",
         "instavisor.net",
         "invideo.io",
-        "iyoutubetomp4.com",
         "locoloader.com",
         "notube.lol",
         "notube.net",
         "onlinevideoconverter.pro",
-        "qdownloader.org",
         "recmaster.net",
         "save2be.cc",
         "savethevideo.com",
@@ -1626,18 +1672,12 @@
         "vidiget.com",
         "vtfreedownloader.com",
         "wave.video",
-        "y2mate.is",
-        "y2mate.nu",
         "y2save.net",
         "youtubemp4.to",
-        "yt-downloaderz.com",
-        "yt1s.is",
-        "yt5s.bz",
         "ytfreedownloader.com",
         "ytgoconverter.com",
         "ytmp3.plus",
-        "ytmp3.re",
-        "ytmp4.video"
+        "ytmp3.re"
       ]
     },
     {
@@ -1730,6 +1770,21 @@
         "watchvideo.digital",
         "zenvideo.org",
         "zerochan.net"
+      ]
+    },
+    {
+      "notes" : "y2mate",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "y2mate-us.com",
+        "y2mate.com",
+        "y2mate.fan",
+        "y2mate.is",
+        "y2mate.lol",
+        "y2mate.nu",
+        "y2mate.onl",
+        "y2mate.tools"
       ]
     }
  ]
