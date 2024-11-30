@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-28 1626",
+  "description" : "2024-11-30 1553",
   "name" : "S",
   "rules" : [
     {
@@ -36,7 +36,8 @@
         "discordapp.gg",
         "discordapp.net",
         "discordservers.com",
-        "discordstatus.com"
+        "discordstatus.com",
+        "renai.us"
       ]
     },
     {
@@ -168,6 +169,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "amp-reddit-com.cdn.ampproject.org",
+        "imagoid.com",
         "redd.it",
         "redd.tube",
         "reddhubwin8.com",
@@ -227,9 +229,11 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "snaptiko.com",
+        "tiktok-thots.com",
         "tiktok.com",
         "tiktok.pm",
-        "tiktokcdn.com"
+        "tiktokcdn.com",
+        "ttthots.com"
       ]
     },
     {
@@ -264,6 +268,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "muskviewer.com",
         "sotwe.com",
         "t.co",
         "twimg.com",
@@ -405,6 +410,7 @@
         "cato.social",
         "elakiri.com",
         "kwai.net",
+        "minds.com",
         "mingle.com",
         "pontetibetanomatera.it",
         "sharechat.com",
