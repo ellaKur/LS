@@ -1,7 +1,40 @@
 {
-  "description" : "2024-06-12 1639",
+  "description" : "2024-11-30 1553",
   "name" : "stores",
   "rules" : [
+    {
+      "notes" : "porn",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "armamar.pt",
+        "braze-images.com",
+        "campollos.com",
+        "celebrityphotos.club",
+        "dibrop.com",
+        "fapsite.com",
+        "feetforum.com",
+        "flirtapp.today",
+        "freethekink.com",
+        "freexmovs.com",
+        "hookupmatches.com",
+        "hyperdreams.com",
+        "isortaso.com",
+        "lackinprivacy.com",
+        "localtemptation.com",
+        "nantill.com",
+        "nsfw-cosplay.com",
+        "nsfw.host",
+        "spycoolvids.com",
+        "ticklingforum.com",
+        "ticklingisfun.com",
+        "tnudes.to",
+        "tokthots.com",
+        "tvch.moe",
+        "visabowl.com",
+        "yourdailydate.com"
+      ]
+    },
     {
       "notes" : "stores",
       "action" : "deny",
