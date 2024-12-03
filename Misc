@@ -1,5 +1,5 @@
 {
-  "description" : "2024-11-30 1553",
+  "description" : "2024-12-02 1859",
   "name" : "misc",
   "rules" : [
     {
@@ -416,6 +416,7 @@
         "yt5s.is",
         "ytconverters.org",
         "ytddownloader.com",
+        "ytimg.com",
         "ytls.com",
         "ytmp3.com",
         "ytmp3s.nu",
@@ -643,6 +644,7 @@
         "emarteventures.com",
         "equinus.de",
         "examplesclasp.com",
+        "ezodn.com",
         "fauglapaiphu.net",
         "fivan-amsterdam.nl",
         "fnideq.eu",
@@ -1276,6 +1278,7 @@
         "honorsociety.org",
         "hotshang.com",
         "html-load.com",
+        "hugedomains.com",
         "imago-images.com",
         "imig.es",
         "imprnt.com",
@@ -1301,6 +1304,7 @@
         "kupdf.net",
         "kyivstar.ua",
         "labocaroja.com",
+        "laxativestuckunclog.com",
         "legit.ng",
         "lemon.ccdownloader",
         "lemon8-app.com",
@@ -1314,6 +1318,7 @@
         "lookebonyhill.com",
         "lovecharmio.com",
         "loyaltystars.com",
+        "luckaltute.net",
         "lxyulong.com",
         "magicphoto.app",
         "main.community",
@@ -1659,6 +1664,14 @@
         "qdownloader.org",
         "savefrom.bz",
         "yewtu.be"
+      ]
+    },
+    {
+      "notes" : "video conf",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "jitsi.net"
       ]
     },
     {
