@@ -1,5 +1,5 @@
 {
-  "description" : "2024-12-02 1859",
+  "description" : "2024-12-08 2151",
   "name" : "misc",
   "rules" : [
     {
@@ -375,6 +375,14 @@
       ]
     },
     {
+      "notes" : "SecretMessage",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "viralsachxd.com"
+      ]
+    },
+    {
       "notes" : "Tor",
       "action" : "deny",
       "direction" : "outgoing",
@@ -393,9 +401,16 @@
       "remote-domains" : [
         "Www-ytmp4.com",
         "easywma.com",
+        "ezmp3.cc",
         "iyoutubetomp4.com",
+        "karibu-portstjohns.co.za",
+        "laure-eleganze.co.za",
+        "mediahuman.com",
+        "palaceskateboards.co.za",
+        "savetube.me",
         "ssyoutube.com",
         "ssyoutube.com.co",
+        "ssyoutube.tube",
         "ummy.net",
         "x2mate.com",
         "y2mate.bz",
@@ -418,7 +433,10 @@
         "ytddownloader.com",
         "ytimg.com",
         "ytls.com",
+        "ytlss.org",
         "ytmp3.com",
+        "ytmp3.ec",
+        "ytmp3free.cc",
         "ytmp3s.nu",
         "ytmp4.biz",
         "ytmp4.com",
@@ -586,7 +604,8 @@
         "badasserver3.com",
         "malavida.com",
         "picturelol.com",
-        "turboimagehost.com"
+        "turboimagehost.com",
+        "wasabisys.com"
       ]
     },
     {
@@ -620,15 +639,20 @@
         "annulmentequitycereals.com",
         "ap4r.com",
         "appealtime.com",
+        "arealibera.eu",
         "aucoudsa.net",
         "awfulresolvedraised.com",
         "balticorp.de",
         "bathingdelicatedemise.com",
         "blehcourt.com",
+        "bosaking.net",
         "bouhoagy.net",
+        "bowgevyingly.com",
+        "bubbiesxylaria.top",
         "calemas.com",
         "capaciousdrewreligion.com",
         "ceegriwuwoa.net",
+        "cejoapsoo.net",
         "celtra.com",
         "cheessoocme.net",
         "chudpol.ru",
@@ -637,6 +661,7 @@
         "cleanmypc.org",
         "clonBrowser.com",
         "contrarymeeting.com",
+        "datebrand.com",
         "dillje.de",
         "dood.li",
         "dood.sh",
@@ -665,6 +690,7 @@
         "jeronpe.com",
         "jouteetu.net",
         "jultix.com",
+        "kalkvisrecit.shop",
         "katchoph.com",
         "keewoach.net",
         "kulvetaroth.com",
@@ -714,6 +740,7 @@
         "trktochecksaf.com",
         "trongpok69.com",
         "tsyndicate.com",
+        "wingcutchuroya.top",
         "wokseephishopty.net",
         "zap.buzz"
       ]
@@ -753,7 +780,6 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "casualhookup.com",
         "dronpr.com",
         "enessep.com",
         "gessete.com",
@@ -1145,6 +1171,7 @@
         "balluteparolee.top",
         "banetabbeetroot.com",
         "barometar.net",
+        "bedpanearle.shop",
         "benneteunomy.shop",
         "bestbettingsiteadvisor.com",
         "bfldr.com",
@@ -1216,7 +1243,6 @@
         "duogumplan.com",
         "dynssl.com",
         "dziur-met.pl",
-        "earringsatisfiedsplice.com",
         "easyerp.ai",
         "ecodudu.com",
         "egono.com",
@@ -1327,7 +1353,6 @@
         "mandrillapp.com",
         "mask.icloud.com",
         "meblemarkowicz.pl",
-        "mediahuman.com",
         "meeca.ai",
         "meenetiy.com",
         "memovies.co",
@@ -1408,7 +1433,6 @@
         "saidit.com",
         "sanook.com",
         "sasisa.org",
-        "savetube.me",
         "scribd.com",
         "script.google.com",
         "semfogic.com",
@@ -1451,6 +1475,7 @@
         "toranoana.jp",
         "torcklmi.com",
         "torrage.info",
+        "toruftuiov.com",
         "trafficdecisions.com",
         "transformco.com",
         "traymute.com",
@@ -1470,6 +1495,7 @@
         "userapi.com",
         "vaipsowhair.com",
         "varamus.com",
+        "veed.io",
         "viber.com",
         "videostripe.com",
         "vidon.site",
@@ -1637,7 +1663,6 @@
         "vdocuments.mx",
         "vecteezy.com",
         "viewyentreat.guru",
-        "viralsachxd.com",
         "visalettersapplication.com",
         "volantholidays.com",
         "webs.nf",
@@ -1656,6 +1681,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "123moviefree.quest",
+        "123moviego.me",
         "Downloaderto.com",
         "junodownload.com",
         "onlinevideoconverter.vip",
