@@ -1,5 +1,5 @@
 {
-  "description" : "2024-12-18 2229",
+  "description" : "2024-12-20 1558",
   "name" : "misc",
   "rules" : [
     {
@@ -593,6 +593,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "gist.github.com",
+        "gitlab.com",
         "objects.githubusercontent.com",
         "sr.ht"
       ]
@@ -628,6 +629,7 @@
       "remote-domains" : [
         "27chan.org",
         "2channel.moe",
+        "66img.cc",
         "94chan.org",
         "CasinoBonusFinder.com",
         "Character.ai",
@@ -873,6 +875,7 @@
         "go.com",
         "helpscoutdocs.com",
         "jumpcity.com",
+        "junglekey.co.uk",
         "kagi.com",
         "kellysearch.com",
         "looksmart.com",
@@ -1152,6 +1155,7 @@
         "Youtube-Aishiteru-Ch.com",
         "aajtak.in",
         "absstoptale.live",
+        "acek-cdn.com",
         "active-gambling.com",
         "afcdn.net",
         "agkn.com",
@@ -1274,6 +1278,7 @@
         "farmskins.com",
         "fastfile.cc",
         "fckzn.com",
+        "fhide2024.store",
         "filestorage.fun",
         "fistiitp.com",
         "flerap.com",
@@ -1549,7 +1554,6 @@
         "warosu.org",
         "warthunder.com",
         "webcamera.io",
-        "webcamtoy.com",
         "webcatalog.io",
         "westernchanfellowship.org",
         "whookroo.com",
