@@ -1,5 +1,5 @@
 {
-  "description" : "2024-12-20 1558",
+  "description" : "2024-12-22 1528",
   "name" : "misc",
   "rules" : [
     {
@@ -731,6 +731,7 @@
         "ptaupsom.com",
         "ptmega.ru",
         "rdreamsansw.info",
+        "rejowhourox.com",
         "rodante.de",
         "rtmark.net",
         "scratchconsonant.com",
@@ -755,7 +756,9 @@
         "venmo.com",
         "wingcutchuroya.top",
         "wokseephishopty.net",
-        "zap.buzz"
+        "zap.buzz",
+        "zfrmz.com",
+        "zohomail.com"
       ]
     },
     {
@@ -950,6 +953,14 @@
       "remote-domains" : [
         "filehippo.com",
         "softpedia.com"
+      ]
+    },
+    {
+      "notes" : "spam email",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "mediatika.eu"
       ]
     },
     {
@@ -1721,12 +1732,16 @@
         "123moviefree.quest",
         "123moviego.me",
         "Downloaderto.com",
+        "iflydown.com",
         "junodownload.com",
+        "keyfram.es",
+        "namiml.com",
         "onlinevideoconverter.vip",
         "pastedownload.com",
         "qdownloader.cc",
         "qdownloader.org",
         "savefrom.bz",
+        "y2tmates.com",
         "yewtu.be"
       ]
     },
