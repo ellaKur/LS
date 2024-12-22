@@ -1,5 +1,5 @@
 {
-  "description" : "2024-12-20 1558",
+  "description" : "2024-12-22 1528",
   "name" : "S",
   "rules" : [
     {
@@ -407,12 +407,14 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "almondraf.itch.io",
+        "bastyon.com",
         "cato.social",
         "elakiri.com",
         "evolix.org",
         "gravatar.com",
         "kwai.net",
         "loforo.com",
+        "mainchan.com",
         "minds.com",
         "mingle.com",
         "pontetibetanomatera.it",
@@ -420,6 +422,7 @@
         "socialmediaalternatives.org",
         "telegraphonline.com",
         "texthub.me",
+        "threema.ch",
         "trollishly.com",
         "utdforum.com",
         "venera.social",
