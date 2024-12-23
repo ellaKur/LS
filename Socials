@@ -1,5 +1,5 @@
 {
-  "description" : "2024-12-22 1528",
+  "description" : "2024-12-22 2155",
   "name" : "S",
   "rules" : [
     {
@@ -241,6 +241,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "tumbex.com",
         "tumbig.com"
       ]
     },
