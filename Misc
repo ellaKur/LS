@@ -1,5 +1,5 @@
 {
-  "description" : "2024-12-22 1528",
+  "description" : "2024-12-22 2155",
   "name" : "misc",
   "rules" : [
     {
@@ -691,6 +691,7 @@
         "heedetiquettedope.com",
         "hologydenoughta.info",
         "hubbyobjectedhugo.com",
+        "humoraf.ru",
         "installlcheck.com",
         "itogowf.shop",
         "jeronpe.com",
@@ -747,6 +748,7 @@
         "synochaleuma.com",
         "thampolsi.com",
         "thaudray.com",
+        "thegamesmachine.it",
         "topdisplaynetwork.com",
         "topoperwing.com",
         "trktochecksaf.com",
@@ -960,7 +962,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "mediatika.eu"
+        "mediatika.eu",
+        "shoptld.net"
       ]
     },
     {
@@ -1196,6 +1199,7 @@
         "bahisu2.com",
         "balluteparolee.top",
         "banetabbeetroot.com",
+        "banjaluka.net",
         "barometar.net",
         "bedpanearle.shop",
         "benneteunomy.shop",
@@ -1233,6 +1237,7 @@
         "choppedtrimboulevard.com",
         "chzbgr.com",
         "citizenfreepress.com",
+        "ckm.pl",
         "clctrnfafzc.com",
         "cleverrabbits.com",
         "coinbase.com",
@@ -1337,6 +1342,7 @@
         "hotshang.com",
         "html-load.com",
         "hugedomains.com",
+        "huivpizde.com",
         "imago-images.com",
         "imig.es",
         "imprnt.com",
@@ -1396,7 +1402,9 @@
         "meenetiy.com",
         "memovies.co",
         "mescatex.com",
+        "metlica.club",
         "mewe.com",
+        "milocdn.com",
         "mindraighthens.com",
         "mlpq.co",
         "mobbingcorcass.top",
@@ -1474,6 +1482,7 @@
         "sadiomarioon.us.com",
         "saidit.com",
         "sanook.com",
+        "sasafan.net",
         "sasisa.org",
         "scribd.com",
         "script.google.com",
@@ -1483,7 +1492,9 @@
         "sharethis.com",
         "shinypond.com",
         "shooltuca.net",
+        "shpilivili.org",
         "slammedinstructiondisc.com",
+        "slivsos.org",
         "softorino.com",
         "solarmovie.pe",
         "sopwlh.top",
@@ -1504,6 +1515,7 @@
         "tauria.com",
         "teiidsfortune.com",
         "telegrafi.com",
+        "telochki.org",
         "tharbadir.com",
         "thauhoux.com",
         "theconservativetreehouse.com",
@@ -1517,6 +1529,7 @@
         "tingo.pro",
         "tinthethao.com.vn",
         "top2-corporate-credit-card-and-business-credit-card.info",
+        "topdevka.com",
         "topwear.shop",
         "toranoana.jp",
         "torcklmi.com",
@@ -1577,6 +1590,7 @@
         "wuujae.com",
         "x-maru.org",
         "x2tsa.com",
+        "xphoto.name",
         "xsnvshen.com",
         "y2meta.mobi",
         "y2meta.tools",
@@ -1589,7 +1603,8 @@
         "yumpu.com",
         "zengshi.net",
         "zktOflig7.com",
-        "zmo.al"
+        "zmo.al",
+        "zvezdax.com"
       ]
     },
     {
