@@ -1,5 +1,5 @@
 {
-  "description" : "2024-12-22 2155",
+  "description" : "2025-01-02 1425",
   "name" : "S",
   "rules" : [
     {
@@ -237,11 +237,18 @@
       ]
     },
     {
+      "notes" : "Tumbex",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "tumbex.com"
+      ]
+    },
+    {
       "notes" : "Tumblr",
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "tumbex.com",
         "tumbig.com"
       ]
     },
@@ -387,7 +394,6 @@
         "socialpointgames.com",
         "truthsocial.com",
         "truthsocial.org",
-        "tumbex.com",
         "tumblr.com",
         "vk.com",
         "wordpress.com"
