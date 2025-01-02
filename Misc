@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-02 1425",
+  "description" : "2025-01-02 1537",
   "name" : "misc",
   "rules" : [
     {
@@ -456,7 +456,8 @@
       "remote-domains" : [
         "account.anonymised.io",
         "fstsrv8.com",
-        "magsrv.com"
+        "magsrv.com",
+        "vidoomy.com"
       ]
     },
     {
@@ -562,6 +563,7 @@
       "remote-domains" : [
         "batery.in",
         "baterybet.in",
+        "bookmakersreview.com",
         "bovada.lv",
         "crushroulette.com",
         "mykonamislots.com",
@@ -719,6 +721,7 @@
         "movies4u3.one",
         "mycryptotraffic.com",
         "myposun.com",
+        "nexusbloom.xyz",
         "o-n-l-y-u.ru",
         "obtaintrout.com",
         "ofleafeona.com",
@@ -736,6 +739,7 @@
         "ptmega.ru",
         "rdreamsansw.info",
         "rejowhourox.com",
+        "rmhfrtnd.com",
         "rodante.de",
         "rtmark.net",
         "scratchconsonant.com",
@@ -1250,6 +1254,7 @@
         "confirmed.us",
         "continentalfinishdislike.com",
         "copaibakubera.top",
+        "cplhpdxbdeyvy.com",
         "crax.pro",
         "crunchyroll.com",
         "crypto.com",
@@ -1393,7 +1398,6 @@
         "lxyulong.com",
         "magicphoto.app",
         "main.community",
-        "mainchan.com",
         "maipo.net",
         "makingsilverrip.info",
         "mandrillapp.com",
@@ -1478,6 +1482,7 @@
         "restedfeatures.com",
         "revolver.news",
         "rg.to",
+        "rgcams.com",
         "rick-plush.biz",
         "ropersdavyum.com",
         "rssing.com",
@@ -1514,6 +1519,7 @@
         "subjectedburglar.com",
         "svttk.xyz",
         "sweettaboo.com.au",
+        "tapatalk-cdn.com",
         "tauria.com",
         "teiidsfortune.com",
         "telegrafi.com",
@@ -1592,7 +1598,6 @@
         "wuujae.com",
         "x-maru.org",
         "x2tsa.com",
-        "xphoto.name",
         "xsnvshen.com",
         "y2meta.mobi",
         "y2meta.tools",
@@ -1604,8 +1609,7 @@
         "yumpu.com",
         "zengshi.net",
         "zktOflig7.com",
-        "zmo.al",
-        "zvezdax.com"
+        "zmo.al"
       ]
     },
     {
@@ -1751,6 +1755,8 @@
         "iflydown.com",
         "junodownload.com",
         "keyfram.es",
+        "loader.to",
+        "macxdvd.com",
         "namiml.com",
         "onlinevideoconverter.vip",
         "pastedownload.com",
