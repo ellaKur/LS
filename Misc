@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-02 1537",
+  "description" : "2025-01-08 1555",
   "name" : "misc",
   "rules" : [
     {
@@ -457,6 +457,7 @@
         "account.anonymised.io",
         "fstsrv8.com",
         "magsrv.com",
+        "nr-data.net",
         "vidoomy.com"
       ]
     },
@@ -477,6 +478,16 @@
         "girlfriendly.ai",
         "juicy-ai.com",
         "sendibt3.com"
+      ]
+    },
+    {
+      "notes" : "archive",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "archive.com",
+        "archive.org",
+        "lecatalog.com"
       ]
     },
     {
@@ -521,7 +532,6 @@
         "9xupload.asia",
         "Filehorse.com",
         "amoyshare.com",
-        "archive.com",
         "asurahosting.com",
         "backblazeb2.com",
         "bitdownloader.io",
@@ -581,6 +591,7 @@
       "remote-domains" : [
         "9apps.com",
         "addictinggames.com",
+        "amung.us",
         "dignate.top",
         "fupa.com",
         "goosecatgames.com",
@@ -595,10 +606,18 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "alive.github.com",
+        "anychans.github.io",
+        "camo.githubusercontent.com",
+        "collector.github.com",
         "gist.github.com",
         "gitlab.com",
+        "gitlab.net",
         "objects.githubusercontent.com",
-        "sr.ht"
+        "private-user-images.githubusercontent.com",
+        "repository-images.githubusercontent.com",
+        "sr.ht",
+        "viewscreen.githubusercontent.com"
       ]
     },
     {
@@ -633,6 +652,7 @@
         "27chan.org",
         "2channel.moe",
         "66img.cc",
+        "70yx.com",
         "94chan.org",
         "CasinoBonusFinder.com",
         "Character.ai",
@@ -672,6 +692,7 @@
         "com-tracking-cip.cc",
         "contrarymeeting.com",
         "datebrand.com",
+        "deliverylri.top",
         "dillje.de",
         "dood.li",
         "dood.sh",
@@ -685,6 +706,7 @@
         "fivan-amsterdam.nl",
         "fnideq.eu",
         "footprintsfurnish.com",
+        "foreverquote.xyz",
         "froommixoria.com",
         "fulpolusly.com",
         "getrunkhomuto.info",
@@ -695,8 +717,10 @@
         "harmonie-praxis.de",
         "heedetiquettedope.com",
         "hologydenoughta.info",
+        "homebakedcentral.net",
         "hubbyobjectedhugo.com",
         "humoraf.ru",
+        "i-made.eu",
         "installlcheck.com",
         "itogowf.shop",
         "jeronpe.com",
@@ -709,6 +733,8 @@
         "komeraku.net",
         "kulvetaroth.com",
         "lassampy.com",
+        "lecatalog.com",
+        "lueftungsreinigung-dinc.de",
         "macpack.dk",
         "makineo.eu",
         "makounze.com",
@@ -721,6 +747,7 @@
         "movies4u3.one",
         "mycryptotraffic.com",
         "myposun.com",
+        "newsongain.com",
         "nexusbloom.xyz",
         "o-n-l-y-u.ru",
         "obtaintrout.com",
@@ -745,6 +772,7 @@
         "scratchconsonant.com",
         "scuusepta.ws",
         "shasogna.com",
+        "shopcentreretail.com",
         "sloffer1.com",
         "sorrowfultrouble.com",
         "sovokol.com",
@@ -1218,6 +1246,7 @@
         "birchflarechurch.com",
         "bitbucket.org",
         "bitchute.com",
+        "black-book-editions.fr",
         "bobmovies.cc",
         "bombbomb.com",
         "brother-chan.ru",
@@ -1252,6 +1281,7 @@
         "comiccantus.top",
         "commenttrendle.top",
         "confirmed.us",
+        "connextra.com",
         "continentalfinishdislike.com",
         "copaibakubera.top",
         "cplhpdxbdeyvy.com",
@@ -1371,6 +1401,7 @@
         "jutarnji.hr",
         "kakaocdn.net",
         "kardiologi-ui.com",
+        "keptelenseg.hu",
         "kerapoxy.cc",
         "khzae.net",
         "kik.com",
@@ -1850,7 +1881,6 @@
         "acrpoker.eu",
         "alamy.com",
         "alibaba.com",
-        "archive.org",
         "bollywoodhungama.com",
         "brioux.tv",
         "bruinou.com",
