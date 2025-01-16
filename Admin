@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-16 1422",
+  "description" : "2025-01-16 1511",
   "name" : "admin",
   "rules" : [
     {
@@ -53,7 +53,6 @@
       "remote-domains" : [
         "api.qustodio.com",
         "auth.qustodio.com",
-        "ipv4.am.i.mullvad.net",
         "qustodio.com",
         "qustodio.sjv.io"
       ]
