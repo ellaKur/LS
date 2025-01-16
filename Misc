@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-16 1209",
+  "description" : "2025-01-16 1234",
   "name" : "misc",
   "rules" : [
     {
@@ -638,8 +638,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "4chon.me",
         "fujochan.org",
         "h33t.moe",
+        "hugedomains.com",
         "magyarchan.net",
         "zya.me"
       ]
@@ -781,6 +783,7 @@
         "rmhfrtnd.com",
         "rodante.de",
         "rtmark.net",
+        "rucomedy.com",
         "scratchconsonant.com",
         "scuusepta.ws",
         "shasogna.com",
@@ -1194,6 +1197,7 @@
       "remote-domains" : [
         "0f9e6fxhl.com",
         "10ch.tv",
+        "2.be",
         "2023sale.com",
         "2445march2024.com",
         "2b9957041a.com",
@@ -1279,6 +1283,7 @@
         "catlecition.com",
         "caustopa.net",
         "caviarechomp.top",
+        "cdn.re",
         "centrofiles.com",
         "chaffewerbureaks.com",
         "chaouen.eu",
@@ -1544,6 +1549,7 @@
         "sendeyo.com",
         "sendibt2.com",
         "sharethis.com",
+        "shermix.com",
         "shinypond.com",
         "shooltuca.net",
         "slammedinstructiondisc.com",
@@ -1608,6 +1614,7 @@
         "unarceusan.com",
         "unfortunatelydestroyedfuse.com",
         "userapi.com",
+        "v.ht",
         "vaipsowhair.com",
         "varamus.com",
         "veed.io",
@@ -1629,6 +1636,7 @@
         "w3snoop.com",
         "wahlix.nu",
         "waisheph.com",
+        "wallmix.net",
         "warosu.org",
         "warthunder.com",
         "webcamera.io",
@@ -1839,6 +1847,7 @@
         "download.tube",
         "easeus.com",
         "fetchfile.me",
+        "genyoutube.online",
         "greenconvert.net",
         "icompressmedia.com",
         "imginn.io",
