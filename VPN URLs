@@ -1,6 +1,6 @@
 {
-  "description" : "2024-12-08 2151",
-  "name" : "V",
+  "description" : "2025-01-16 1511",
+  "name" : "VPN",
   "rules" : [
     {
       "notes" : "VPN",
@@ -113,7 +113,6 @@
         "mazevpn.com",
         "microvpn.com",
         "moca.io",
-        "mullvad.net",
         "musclevpn.com",
         "my-private-network.co.uk",
         "mysteriumvpn.com",
