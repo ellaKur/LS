@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-16 1209",
+  "description" : "2025-01-16 1234",
   "name" : "TLD",
   "rules" : [
     {
@@ -117,6 +117,7 @@
         "com.home",
         "com.mm",
         "com.pk",
+        "com.rd",
         "com.ve",
         "com.vn",
         "cq",
