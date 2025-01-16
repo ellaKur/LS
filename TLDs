@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-16 1234",
+  "description" : "2025-01-16 1422",
   "name" : "TLD",
   "rules" : [
     {
@@ -16,6 +16,7 @@
         "bf",
         "bg",
         "cab",
+        "cc",
         "cf",
         "club",
         "co",
