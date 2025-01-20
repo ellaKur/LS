@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-16 1234",
+  "description" : "2025-01-20 1123",
   "name" : "misc",
   "rules" : [
     {
@@ -677,6 +677,7 @@
         "awfulresolvedraised.com",
         "balticorp.de",
         "bathingdelicatedemise.com",
+        "bigdana.de",
         "blehcourt.com",
         "bosaking.net",
         "bouhoagy.net",
@@ -724,6 +725,7 @@
         "gloomilysuffocate.com",
         "glukropi.com",
         "go.tz",
+        "goingse.info",
         "gov.zm",
         "halocaty.ru",
         "harmonie-praxis.de",
@@ -849,17 +851,30 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "atinnun.com",
         "dronpr.com",
         "enessep.com",
+        "fapsly.net",
+        "flirtandscore.com",
         "gessete.com",
+        "gob.ec",
+        "gserviceaccount.com",
         "hyrecto.com",
         "lada-unikor.ru",
         "maxshy.com",
         "mezolyp.com",
         "mylasso.com",
         "myosotisplus.com",
+        "nimarg.com",
         "nowim.autos",
-        "rowlenym.com"
+        "or.kr",
+        "podetio.com",
+        "pp060.s3-website-us-east-1.amazonaws.com",
+        "rowlenym.com",
+        "thplex.com",
+        "trynat.click",
+        "wekanif.com",
+        "wlicdn.com"
       ]
     },
     {
@@ -1470,6 +1485,7 @@
         "molvibaptism.top",
         "momclumsycamouflage.com",
         "monkey.app",
+        "myvip.co",
         "nahehvezdy.cz",
         "ndtheyeiedm.info",
         "nestedjuster.top",
