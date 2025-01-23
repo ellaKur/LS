@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-20 1123",
+  "description" : "2025-01-22 2153",
   "name" : "misc",
   "rules" : [
     {
@@ -772,6 +772,7 @@
         "onerprevailed.com",
         "onet.eu",
         "onmanectrictor.com",
+        "phantom.app",
         "phplist.com",
         "platesnervous.com",
         "pogothere.xyz",
@@ -802,6 +803,7 @@
         "thampolsi.com",
         "thaudray.com",
         "thegamesmachine.it",
+        "theswissbay.ch",
         "topdisplaynetwork.com",
         "topoperwing.com",
         "trktochecksaf.com",
@@ -852,6 +854,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "atinnun.com",
+        "dgtrading.co.kr",
         "dronpr.com",
         "enessep.com",
         "fapsly.net",
@@ -925,6 +928,7 @@
         "ahmia.fi",
         "algolia.com",
         "alltheweb.com",
+        "alohafind.com",
         "altavista.com",
         "aol.com",
         "apksum.com",
@@ -1594,6 +1598,7 @@
         "telochki.org",
         "tharbadir.com",
         "thauhoux.com",
+        "theajack.github.io",
         "theconservativetreehouse.com",
         "theepsie.com",
         "theeverydaygame.com",
