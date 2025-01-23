@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-16 1422",
+  "description" : "2025-01-22 2153",
   "name" : "TLD",
   "rules" : [
     {
@@ -114,6 +114,7 @@
         "cam",
         "cb",
         "ck",
+        "click",
         "com.do",
         "com.home",
         "com.mm",
@@ -214,6 +215,7 @@
         "pcw",
         "ph",
         "phi",
+        "pics",
         "pl",
         "pob",
         "porn",
