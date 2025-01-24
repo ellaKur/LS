@@ -1,6 +1,6 @@
 {
-  "description" : "2025-01-16 1603",
-  "name" : "V",
+  "description" : "2025-01-24 1657",
+  "name" : "VPN",
   "rules" : [
     {
       "notes" : "VPN",
@@ -272,7 +272,8 @@
         "zendate.com",
         "zenmate.com",
         "zenvpn.net",
-        "zoogvpn.com"
+        "zoogvpn.com",
+        "zproxy.org"
       ]
     }
  ]
