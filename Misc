@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-24 1657",
+  "description" : "2025-01-31 1957",
   "name" : "misc",
   "rules" : [
     {
@@ -571,6 +571,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "acrpoker.eu",
         "batery.in",
         "baterybet.in",
         "bookmakersreview.com",
@@ -707,6 +708,7 @@
         "eatcells.com",
         "edu.ar",
         "edu.it",
+        "edu.tw",
         "emarteventures.com",
         "employarise.com",
         "equinus.de",
@@ -721,6 +723,7 @@
         "fulpolusly.com",
         "gethealthcode-world.com",
         "getrunkhomuto.info",
+        "gfhwrtg.pro",
         "ghabovethec.info",
         "gloomilysuffocate.com",
         "glukropi.com",
@@ -787,6 +790,7 @@
         "rodante.de",
         "rtmark.net",
         "rucomedy.com",
+        "rvhmnsa.shop",
         "scratchconsonant.com",
         "scuusepta.ws",
         "shasogna.com",
@@ -811,8 +815,11 @@
         "tsyndicate.com",
         "utzer.de",
         "venmo.com",
+        "virtualentertainmenthub.net",
+        "webeducationalist.com",
         "wingcutchuroya.top",
         "wokseephishopty.net",
+        "yourdataaccess.com",
         "zap.buzz",
         "zfrmz.com",
         "zohomail.com"
@@ -846,38 +853,6 @@
       "remote-domains" : [
         "cash.app",
         "paypal.com"
-      ]
-    },
-    {
-      "notes" : "porn",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "atinnun.com",
-        "dgtrading.co.kr",
-        "dronpr.com",
-        "enessep.com",
-        "fapsly.net",
-        "flirtandscore.com",
-        "gessete.com",
-        "gob.ec",
-        "gserviceaccount.com",
-        "hyrecto.com",
-        "lada-unikor.ru",
-        "maxshy.com",
-        "mezolyp.com",
-        "mylasso.com",
-        "myosotisplus.com",
-        "nimarg.com",
-        "nowim.autos",
-        "or.kr",
-        "podetio.com",
-        "pp060.s3-website-us-east-1.amazonaws.com",
-        "rowlenym.com",
-        "thplex.com",
-        "trynat.click",
-        "wekanif.com",
-        "wlicdn.com"
       ]
     },
     {
