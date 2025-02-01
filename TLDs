@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-24 1657",
+  "description" : "2025-01-31 1957",
   "name" : "TLD",
   "rules" : [
     {
@@ -47,6 +47,7 @@
         "li",
         "lol",
         "mm",
+        "name",
         "nat",
         "net.ar",
         "net.hr",
