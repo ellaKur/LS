@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-31 1957",
+  "description" : "2025-02-10 1814",
   "name" : "TLD",
   "rules" : [
     {
@@ -51,6 +51,7 @@
         "nat",
         "net.ar",
         "net.hr",
+        "nu",
         "onl",
         "party",
         "pk",
@@ -94,6 +95,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         " cdh",
+        "PL",
         "aan",
         "abj",
         "adult",
@@ -112,11 +114,13 @@
         "bu",
         "bv",
         "bvi",
+        "bwa",
         "byc",
         "cam",
         "cb",
         "ck",
         "click",
+        "clwiv",
         "com.do",
         "com.home",
         "com.mm",
@@ -231,6 +235,7 @@
         "quf",
         "qur",
         "qxn",
+        "rd",
         "rga",
         "rgl",
         "rj",
@@ -276,6 +281,7 @@
         "webcam",
         "weh",
         "wiq",
+        "wiv",
         "wka",
         "wpz",
         "xf",
