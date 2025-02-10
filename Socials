@@ -1,5 +1,5 @@
 {
-  "description" : "2025-02-02 1523",
+  "description" : "2025-02-10 1814",
   "name" : "S",
   "rules" : [
     {
@@ -202,7 +202,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "rumble.com"
+        "rumble.com",
+        "rumblesolutions.com"
       ]
     },
     {
@@ -371,6 +372,15 @@
         "weareher.com",
         "wellhello.com",
         "zoosk.com"
+      ]
+    },
+    {
+      "notes" : "lemon8",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "lemon8-app.com",
+        "lemon8.com"
       ]
     },
     {
