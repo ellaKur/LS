@@ -1,5 +1,5 @@
 {
-  "description" : "2025-02-10 1814",
+  "description" : "2025-02-20 2145",
   "name" : "TLD",
   "rules" : [
     {
@@ -143,11 +143,13 @@
         "dze",
         "ee",
         "ef",
+        "eg",
         "ei",
         "eo",
         "eov",
         "esf",
         "euy",
+        "fap-guru.fun",
         "fb",
         "fd",
         "fjw",
@@ -159,6 +161,7 @@
         "gkz",
         "gl",
         "gnk",
+        "guru",
         "gv",
         "gwl",
         "gy",
@@ -226,6 +229,7 @@
         "pob",
         "porn",
         "pr",
+        "pt",
         "pwt",
         "qa",
         "qfn",
@@ -310,6 +314,14 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "social"
+      ]
+    },
+    {
+      "notes" : "suspicious",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "animesuge.skin"
       ]
     },
     {
