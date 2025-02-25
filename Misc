@@ -1,5 +1,5 @@
 {
-  "description" : "2025-02-20 2145",
+  "description" : "2025-02-25 1808",
   "name" : "misc",
   "rules" : [
     {
@@ -773,6 +773,7 @@
         "mediago.io",
         "megafansland.com",
         "moisakin.info",
+        "moksoxos.com",
         "movies4u3.one",
         "muroworks.com",
         "mycryptotraffic.com",
@@ -787,7 +788,9 @@
         "onerprevailed.com",
         "onet.eu",
         "onmanectrictor.com",
+        "oulsaultaulert.com",
         "phantom.app",
+        "phirussacmush.net",
         "phplist.com",
         "platesnervous.com",
         "pogothere.xyz",
@@ -1025,6 +1028,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "cloudron.io",
         "filehippo.com",
         "passixer.com",
         "softpedia.com"
@@ -1337,6 +1341,7 @@
         "d44501d9f7.com",
         "daidlietreble.com",
         "decisive-red.com",
+        "dedridseewab.net",
         "deniceinm.info",
         "desired.ai",
         "dexpredict.com",
@@ -1428,6 +1433,7 @@
         "hitsoilso.com",
         "honorsociety.org",
         "hotshang.com",
+        "hoveltran.xyz",
         "html-load.com",
         "hugedomains.com",
         "huivpizde.com",
@@ -1714,6 +1720,7 @@
         "yt2api.com",
         "yubo.live",
         "yumpu.com",
+        "zaunooptaips.com",
         "zengshi.net",
         "zktOflig7.com",
         "zmo.al"
