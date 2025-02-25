@@ -1,6 +1,6 @@
 {
-  "description" : "2025-02-10 1814",
-  "name" : "S",
+  "description" : "2025-02-25 1808",
+  "name" : "social",
   "rules" : [
     {
       "notes" : "4chan",
@@ -286,6 +286,7 @@
         "twitter.co.uk",
         "twitter.com",
         "twitter.com.edgekey.net",
+        "twstalker.com",
         "x.com",
         "xszpuvwr7.com"
       ]
@@ -434,6 +435,7 @@
         "forhub.io",
         "gravatar.com",
         "kwai.net",
+        "list-manage.com",
         "locanto.com.mx",
         "loforo.com",
         "minds.com",
