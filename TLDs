@@ -1,5 +1,5 @@
 {
-  "description" : "2025-02-20 2145",
+  "description" : "2025-02-25 1808",
   "name" : "TLD",
   "rules" : [
     {
@@ -260,6 +260,7 @@
         "sy",
         "tc",
         "td",
+        "tg",
         "thu",
         "tja",
         "tk",
@@ -292,6 +293,7 @@
         "xl",
         "xsp",
         "xt",
+        "xxu",
         "xxx",
         "yc",
         "yem",
