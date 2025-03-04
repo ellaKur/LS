@@ -1,5 +1,5 @@
 {
-  "description" : "2025-02-25 1808",
+  "description" : "2025-03-03 2110",
   "name" : "spam email",
   "rules" : [
     {
@@ -92,6 +92,7 @@
         "easyhfc.com",
         "ecobridge.gr",
         "edoo.id",
+        "edu.pk",
         "edu.vn",
         "edz.com.lb",
         "elasticemail.com",
