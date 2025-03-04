@@ -1,5 +1,5 @@
 {
-  "description" : "2025-02-25 1808",
+  "description" : "2025-03-03 2110",
   "name" : "S",
   "rules" : [
     {
@@ -224,6 +224,14 @@
         "telesco.pe",
         "tg.dev",
         "tgram.ru"
+      ]
+    },
+    {
+      "notes" : "Threads",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "threads.net"
       ]
     },
     {
