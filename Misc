@@ -1,5 +1,5 @@
 {
-  "description" : "2025-03-03 2110",
+  "description" : "2025-03-08 1841",
   "name" : "misc",
   "rules" : [
     {
@@ -930,6 +930,7 @@
         "bing.com",
         "btdig.com",
         "ciao.co.uk",
+        "disconnect.me",
         "dogpile.com",
         "duckduckgo.com",
         "ecosia.org",
@@ -948,6 +949,7 @@
         "kagi.com",
         "kellysearch.com",
         "looksmart.com",
+        "lukol.com",
         "lycos.com",
         "metacrawler.com",
         "metager.org",
@@ -988,7 +990,8 @@
         "yandex.traffic",
         "yandex.uz",
         "yippy.com",
-        "you.com"
+        "you.com",
+        "zapmeta.com"
       ]
     },
     {
