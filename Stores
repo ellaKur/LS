@@ -1,5 +1,5 @@
 {
-  "description" : "2025-03-08 1841",
+  "description" : "2025-03-09 1901",
   "name" : "stores",
   "rules" : [
     {
@@ -1344,6 +1344,17 @@
         "zonafranelera.com",
         "zosese.com",
         "zurichmag.com"
+      ]
+    },
+    {
+      "notes" : "software",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "apponic.com",
+        "astian.org",
+        "nordlayer.com",
+        "sourceforge.net"
       ]
     },
     {
