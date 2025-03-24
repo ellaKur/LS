@@ -1,6 +1,6 @@
 {
-  "description" : "2025-03-19 1403",
-  "name" : "S",
+  "description" : "2025-03-24 1922",
+  "name" : "social",
   "rules" : [
     {
       "notes" : "4chan",
@@ -240,6 +240,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "lemon8-app.com",
         "snaptiko.com",
         "tiktok-thots.com",
         "tiktok.com",
@@ -462,6 +463,7 @@
         "trollishly.com",
         "utdforum.com",
         "venera.social",
+        "viralsachxd.com",
         "viralyft.com",
         "weibo.com"
       ]
