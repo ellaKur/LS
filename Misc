@@ -1,5 +1,5 @@
 {
-  "description" : "2025-03-19 1403",
+  "description" : "2025-03-24 1922",
   "name" : "misc",
   "rules" : [
     {
@@ -408,6 +408,7 @@
         "mediahuman.com",
         "palaceskateboards.co.za",
         "savetube.me",
+        "sejdownloader.com",
         "ssyoutube.com",
         "ssyoutube.com.co",
         "ssyoutube.tube",
@@ -785,6 +786,7 @@
         "myposun.com",
         "newsongain.com",
         "nexusbloom.xyz",
+        "ntv.io",
         "o-n-l-y-u.ru",
         "obtaintrout.com",
         "ofleafeona.com",
@@ -1026,6 +1028,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "bit.ly",
+        "cutt.ly",
         "ouo.io",
         "ouo.press",
         "short.gy",
@@ -1039,6 +1042,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "allavsoft.com",
         "cloudron.io",
         "filehippo.com",
         "passixer.com",
@@ -1414,6 +1418,7 @@
         "fullname.com",
         "furher.in",
         "futaroku.gg",
+        "fywiei.com",
         "gamyfabian.top",
         "gasapp.co",
         "gaultpalisfy.top",
@@ -1545,6 +1550,7 @@
         "onionflux.com",
         "online-convert.com",
         "opensea.io",
+        "opidoh.com",
         "optnx.com",
         "ortincomyctiess.com",
         "oujeghaursee.com",
@@ -1892,6 +1898,7 @@
         "keyfram.es",
         "kick.com",
         "loader.to",
+        "loom.com",
         "macxdvd.com",
         "namiml.com",
         "onlinevideoconverter.vip",
@@ -1923,6 +1930,7 @@
         "Yts.mx",
         "aimersoft.com",
         "cam-recorder.com",
+        "camstudio.org",
         "catchvideo.net",
         "clipgrab.org",
         "connectioncafe.com",
@@ -1948,6 +1956,7 @@
         "save2be.cc",
         "savethevideo.com",
         "screencapture.com",
+        "screenpal.com",
         "screenrec.com",
         "streamlabs.com",
         "tovid.io",
