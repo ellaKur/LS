@@ -1,5 +1,5 @@
 {
-  "description" : "2025-04-02 1348",
+  "description" : "2025-04-08 2149",
   "name" : "misc",
   "rules" : [
     {
@@ -484,6 +484,14 @@
       ]
     },
     {
+      "notes" : "anime",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "chia-anime.su"
+      ]
+    },
+    {
       "notes" : "archive",
       "action" : "deny",
       "direction" : "outgoing",
@@ -518,6 +526,14 @@
         "psiphon.ca",
         "vivaldi.com",
         "waterfox.net"
+      ]
+    },
+    {
+      "notes" : "crypto",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "gemini.com"
       ]
     },
     {
@@ -749,6 +765,7 @@
         "gov.zm",
         "halocaty.ru",
         "harmonie-praxis.de",
+        "healthyparticipant.com",
         "heartyquit.com",
         "heedetiquettedope.com",
         "helpjuice.com",
@@ -1406,6 +1423,7 @@
         "farmskins.com",
         "fastfile.cc",
         "fckzn.com",
+        "ffm.to",
         "fhide2024.store",
         "filestorage.fun",
         "fistiitp.com",
