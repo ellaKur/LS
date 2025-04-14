@@ -1,5 +1,5 @@
 {
-  "description" : "2025-04-02 1352",
+  "description" : "2025-04-14 1823",
   "name" : "TLD",
   "rules" : [
     {
@@ -44,6 +44,7 @@
         "fun",
         "ged.com.do",
         "im",
+        "ir",
         "li",
         "lol",
         "mm",
