@@ -1,5 +1,5 @@
 {
-  "description" : "2025-04-14 1823",
+  "description" : "2025-04-27 1400",
   "name" : "misc",
   "rules" : [
     {
@@ -533,7 +533,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "gemini.com"
+        "gemini.com",
+        "kraken.com",
+        "stayontopofhealth.com",
+        "thegainfactory.net"
       ]
     },
     {
@@ -724,6 +727,7 @@
         "ckgomee.pl",
         "classy-privacy.org",
         "cleanmypc.org",
+        "clientzone521-onine.pro",
         "clonBrowser.com",
         "co.tz",
         "com-trackewn.top",
@@ -740,6 +744,7 @@
         "eatcells.com",
         "edu.ar",
         "edu.it",
+        "edu.mx",
         "edu.tw",
         "emarteventures.com",
         "employarise.com",
@@ -770,6 +775,7 @@
         "heartyquit.com",
         "heedetiquettedope.com",
         "helpjuice.com",
+        "hianimez.to",
         "hologydenoughta.info",
         "homebakedcentral.net",
         "hoveltran.xyz",
@@ -789,6 +795,7 @@
         "komeraku.net",
         "kulvetaroth.com",
         "lassampy.com",
+        "leakedof.org",
         "lecatalog.com",
         "liceojuanpablo.com",
         "lifegoalfitness.com",
@@ -832,6 +839,7 @@
         "ptmega.ru",
         "rdreamsansw.info",
         "rejowhourox.com",
+        "rm3t.top",
         "rmhfrtnd.com",
         "roagrofoogrobo.com",
         "rodante.de",
@@ -1141,6 +1149,7 @@
         "azmovies.net",
         "badassmoviesondvd.com",
         "bestmoviesflix.xyz",
+        "bilibili.tv",
         "bmovies.co",
         "castledownload.com",
         "cherrytv.net",
@@ -1249,6 +1258,7 @@
         "watchseries.pe",
         "webtorrent.io",
         "xfmovies.com",
+        "xxiku.com",
         "yesmovies.ag",
         "yesmovies.app",
         "yesmovies.media",
