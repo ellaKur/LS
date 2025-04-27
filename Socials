@@ -1,6 +1,6 @@
 {
-  "description" : "2025-03-24 1922",
-  "name" : "S",
+  "description" : "2025-04-27 1400",
+  "name" : "social",
   "rules" : [
     {
       "notes" : "4chan",
@@ -459,6 +459,7 @@
         "socialmediaalternatives.org",
         "telegraphonline.com",
         "texthub.me",
+        "textm.ee",
         "threema.ch",
         "trollishly.com",
         "utdforum.com",
