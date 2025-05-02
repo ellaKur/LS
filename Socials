@@ -1,6 +1,6 @@
 {
-  "description" : "2025-04-27 1400",
-  "name" : "social",
+  "description" : "2025-05-02 1241",
+  "name" : "S",
   "rules" : [
     {
       "notes" : "4chan",
@@ -195,7 +195,8 @@
         "redditvids.com",
         "reddpics.com",
         "reddxxx.com",
-        "scrolldit.com"
+        "scrolldit.com",
+        "scrollx.org"
       ]
     },
     {
