@@ -1,6 +1,6 @@
 {
-  "description" : "2025-05-02 1241",
-  "name" : "S",
+  "description" : "2025-05-31 1410",
+  "name" : "social",
   "rules" : [
     {
       "notes" : "4chan",
@@ -107,6 +107,7 @@
         "instagram.co.uk",
         "instagram.com",
         "instagramstatic-a.akamaihd.net",
+        "megastory.org",
         "net.edgesuite.net",
         "saveinsta.cc"
       ]
@@ -242,12 +243,19 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "lemon8-app.com",
+        "picuki.com",
         "snaptiko.com",
         "tiktok-thots.com",
         "tiktok.com",
         "tiktok.pm",
+        "tiktokcdn-eu.com",
         "tiktokcdn.com",
-        "ttthots.com"
+        "tikviewer.app",
+        "trollishly.com",
+        "ttthots.com",
+        "vercel.app",
+        "watchwithout.com",
+        "xaller.com"
       ]
     },
     {
@@ -447,6 +455,7 @@
         "evolix.org",
         "forhub.io",
         "gravatar.com",
+        "highsocial.com",
         "kwai.net",
         "list-manage.com",
         "locanto.com.mx",
@@ -457,7 +466,9 @@
         "riemurasia.fi",
         "secretmessage.link",
         "sharechat.com",
+        "socialbu.com",
         "socialmediaalternatives.org",
+        "socialstream.ninja",
         "telegraphonline.com",
         "texthub.me",
         "textm.ee",
