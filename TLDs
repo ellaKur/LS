@@ -1,5 +1,5 @@
 {
-  "description" : "2025-05-02 1241",
+  "description" : "2025-05-31 1425",
   "name" : "TLD",
   "rules" : [
     {
@@ -7,7 +7,6 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "Gov.ru",
         "ak",
         "am",
         "ar.com",
@@ -40,9 +39,9 @@
         "com.ru",
         "com.tr",
         "com.ua",
+        "do",
         "dz",
         "fun",
-        "ged.com.do",
         "im",
         "ir",
         "li",
@@ -95,7 +94,6 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        " cdh",
         "PL",
         "aan",
         "abj",
@@ -105,7 +103,6 @@
         "akp",
         "amn",
         "aqb",
-        "awh8vwkpov.po",
         "ax",
         "bcm",
         "bec",
@@ -119,6 +116,7 @@
         "byc",
         "cam",
         "cb",
+        "cdh",
         "ck",
         "click",
         "clwiv",
@@ -150,11 +148,11 @@
         "eov",
         "esf",
         "euy",
-        "fap-guru.fun",
         "fb",
         "fd",
         "fjw",
         "fs",
+        "fun",
         "fze",
         "gay",
         "gg",
@@ -223,7 +221,6 @@
         "nvn",
         "nyt",
         "oce",
-        "od6nz2txj.wcw",
         "ol",
         "ozg",
         "pcw",
@@ -231,6 +228,7 @@
         "phi",
         "pics",
         "pl",
+        "po",
         "pob",
         "porn",
         "pr",
@@ -288,6 +286,7 @@
         "vhr",
         "vja",
         "vod",
+        "wcw",
         "wd",
         "wdu",
         "webcam",
@@ -331,7 +330,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "animesuge.skin"
+        "skin"
       ]
     },
     {
