@@ -1,5 +1,5 @@
 {
-  "description" : "2025-05-31 1410",
+  "description" : "2025-06-15 1550",
   "name" : "misc",
   "rules" : [
     {
@@ -694,6 +694,7 @@
       "remote-domains" : [
         "27chan.org",
         "2channel.moe",
+        "4chan.org",
         "4kpv.com",
         "66img.cc",
         "70yx.com",
@@ -810,6 +811,7 @@
         "kinderhospizdienst-kuckucksnest.de",
         "komeraku.net",
         "kulvetaroth.com",
+        "kupdf.net",
         "lassampy.com",
         "leakedof.org",
         "lecatalog.com",
@@ -834,6 +836,7 @@
         "nexusbloom.xyz",
         "ntv.io",
         "o-n-l-y-u.ru",
+        "obqj2.com",
         "obtaintrout.com",
         "ofleafeona.com",
         "okednfyhgd.com",
@@ -855,6 +858,7 @@
         "ptmega.ru",
         "rdreamsansw.info",
         "rejowhourox.com",
+        "rexresearch1.com",
         "rm3t.top",
         "rmhfrtnd.com",
         "roagrofoogrobo.com",
@@ -862,6 +866,7 @@
         "rtmark.net",
         "rucomedy.com",
         "rvhmnsa.shop",
+        "rylmych.com",
         "scratchconsonant.com",
         "scuusepta.ws",
         "seatslaurelblemish.com",
@@ -1182,6 +1187,7 @@
         "dosmovies.com",
         "downloadhub.name",
         "dreadpiratedvd.com",
+        "dvdvideosoft.com",
         "eztvstatus.org",
         "eztvx.to",
         "f2movies.to",
@@ -1284,6 +1290,9 @@
         "yesmovies9.com",
         "yidio.com",
         "ymovies.cc",
+        "yt1s.click",
+        "yt1s.is",
+        "ytapi.org",
         "ytnoob.com",
         "yts.mx"
       ]
@@ -1754,6 +1763,7 @@
         "truthfulanomaly.com",
         "trvdp.com",
         "tsyndicate.com",
+        "tubemp4.is",
         "tullbun.com",
         "turboscribe.ai",
         "tvnoviny.sk",
@@ -1964,6 +1974,7 @@
         "123moviego.me",
         "Downloaderto.com",
         "anix.es",
+        "flvto.bid",
         "iflydown.com",
         "junodownload.com",
         "keyfram.es",
@@ -1973,14 +1984,20 @@
         "loom.com",
         "macxdvd.com",
         "namiml.com",
+        "notube.re",
         "onlinevideoconverter.vip",
         "pastedownload.com",
         "qdownloader.cc",
         "qdownloader.org",
         "savefrom.bz",
+        "tiktoktomp4.com",
         "tomp3.cc",
+        "tubemp4.is",
+        "y2down.cc",
         "yewtu.be",
-        "ytlz.net"
+        "ytlz.net",
+        "ytmp4.wtf",
+        "yumpu.com"
       ]
     },
     {
