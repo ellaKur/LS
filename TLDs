@@ -1,5 +1,5 @@
 {
-  "description" : "2025-05-31 1425",
+  "description" : "2025-07-03 1354",
   "name" : "TLD",
   "rules" : [
     {
@@ -87,6 +87,19 @@
         "exit",
         "onion",
         "tor"
+      ]
+    },
+    {
+      "notes" : "malicious",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "buzz",
+        "cf",
+        "ga",
+        "icu",
+        "ml",
+        "wang"
       ]
     },
     {
