@@ -1,19 +1,4 @@
 {
-  "description" : "2025-07-03 1354",
-  "name" : "porn2",
-  "rules" : [
-    {
-      "notes" : "porn",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "fapzly.com"
-      ]
-    }
- ]
-}
-
-{
   "description" : "2025-07-19 1536",
   "name" : "porn2",
   "rules" : [
