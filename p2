@@ -13,3 +13,57 @@
  ]
 }
 
+{
+  "description" : "2025-07-19 1536",
+  "name" : "porn2",
+  "rules" : [
+    {
+      "notes" : "porn",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "Fansly.com",
+        "adjurve.com",
+        "adultmovs.com",
+        "ai-onepiece.com",
+        "arpoxmc.com",
+        "betsysbnb.com",
+        "bosunadeniyi.com",
+        "camgirlz.media",
+        "centreforresearch.com",
+        "cornellroofing.net",
+        "cravingmilfs.com",
+        "erinmevans.net",
+        "fapzly.com",
+        "fastnoticetransfer.com",
+        "foxybunch.com",
+        "ghouldson.com",
+        "gidimotors.net",
+        "grandmasniche.net",
+        "hianime.nz",
+        "hianime.org",
+        "hianime.to",
+        "ilros.no",
+        "info-mdates.com",
+        "instantactionservice.com",
+        "ipodcorrectors.com",
+        "livetogethernow.biz",
+        "lovebugapp.media",
+        "mailingclouds.com",
+        "mecran.click",
+        "mediabuy.nl",
+        "mymilfs.com",
+        "org.br",
+        "rollingodds.net",
+        "seacoastcreative.tech",
+        "sendibm3.com",
+        "sigmaenertech.com",
+        "squaremeterinc.com",
+        "target-guard.com",
+        "tryenduringpassion.com",
+        "verytaboo.com",
+        "xxxfridendsxxx.co"
+      ]
+    }
+ ]
+}
