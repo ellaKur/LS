@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-03 1354",
+  "description" : "2025-07-19 1536",
   "name" : "misc",
   "rules" : [
     {
@@ -406,6 +406,7 @@
         "karibu-portstjohns.co.za",
         "laure-eleganze.co.za",
         "mediahuman.com",
+        "odysee.com",
         "palaceskateboards.co.za",
         "savetube.me",
         "sejdownloader.com",
@@ -685,6 +686,19 @@
         "hugedomains.com",
         "magyarchan.net",
         "zya.me"
+      ]
+    },
+    {
+      "notes" : "malicious",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "cuyuzu.com",
+        "easeflicks.com",
+        "fu-nu-ra.com",
+        "obqj2.com",
+        "ookroush.com",
+        "vemtoutcheeg.com"
       ]
     },
     {
@@ -1409,6 +1423,7 @@
         "ckm.pl",
         "clctrnfafzc.com",
         "cleverrabbits.com",
+        "cnvmp3.online",
         "coinbase.com",
         "com.hr",
         "com.in",
@@ -1463,6 +1478,7 @@
         "eplayvid.net",
         "erawuo.info",
         "etiquettegrapesdoleful.com",
+        "evano.com",
         "excessstumbledvisited.com",
         "expressturn.com",
         "externalfavlink.com",
@@ -1601,6 +1617,7 @@
         "milittlevouchers.com",
         "milocdn.com",
         "mindraighthens.com",
+        "mjgame.pro",
         "mlpq.co",
         "mmhmm.app",
         "mobbingcorcass.top",
@@ -1650,6 +1667,7 @@
         "pgor65.com",
         "phirussacmush.net",
         "phoenix.de",
+        "photo-forum.net",
         "picrew.me",
         "picsart.com",
         "picwish.cn",
@@ -1658,6 +1676,7 @@
         "potassaseafolk.shop",
         "precedelaxative.com",
         "privee.ai",
+        "probableregret.com",
         "prolikewoah.com",
         "prompthero.com",
         "protothema.gr",
@@ -1710,6 +1729,7 @@
         "slammedinstructiondisc.com",
         "slivsos.org",
         "snaptik.app",
+        "soakersforum.com",
         "softorino.com",
         "solarmovie.pe",
         "sopwlh.top",
