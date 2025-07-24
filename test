@@ -6,7 +6,7 @@
       "notes" : "Telegram",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote-domains" : 
+      "remote-addresses" : 
         "149.154.167.51,
         149.154.167.91,
         149.154.175.100,
