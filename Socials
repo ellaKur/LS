@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1911",
+  "description" : "2025-07-25 1919",
   "name" : "social2",
   "rules" : [
     {
@@ -403,6 +403,7 @@
         "datememe.com",
         "dating-chat.click",
         "easymeetcute.com",
+        "geniusdate.com",
         "happn.com",
         "heartbeathookups.com",
         "hinge.co",
@@ -470,8 +471,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "Archived.Moe",
-        "geniusdate.com"
+        "Archived.Moe"
       ]
     },
     {
