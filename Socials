@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1602",
+  "description" : "2025-07-25 1612",
   "name" : "social2",
   "rules" : [
     {
@@ -75,6 +75,82 @@
         "threads.net",
         "whatsapp.com",
         "whatsapp.net"
+      ]
+    },
+    {
+      "notes" : "Mastadon",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "mastadon.com",
+        "mastadon.net"
+      ]
+    },
+    {
+      "notes" : "Mastodon",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "livester.net",
+        "mastodon.art",
+        "mastodon.com",
+        "mastodon.online",
+        "mastodon.social",
+        "mastodon.world"
+      ]
+    },
+    {
+      "notes" : "Reddit",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "amp-reddit-com.cdn.ampproject.org",
+        "imagoid.com",
+        "redd.it",
+        "redd.tube",
+        "reddhubwin8.com",
+        "reddit-image.s3.amazonaws.com",
+        "reddit-stream.com",
+        "reddit-uploaded-media.s3-accelerate.amazonaws.com",
+        "reddit-uploaded-video.s3-accelerate.amazonaws.com",
+        "reddit.com",
+        "reddit.map.fastly.net",
+        "redditblog.com",
+        "reddited.com",
+        "redditgifts.com",
+        "redditgifts.s3.amazonaws.com",
+        "redditinc.com",
+        "redditmedia.com",
+        "redditp.com",
+        "redditporn.org",
+        "redditstatic.com",
+        "reddituploads.com",
+        "redditvids.com",
+        "reddpics.com",
+        "reddxxx.com",
+        "scrolldit.com",
+        "scrollx.org"
+      ]
+    },
+    {
+      "notes" : "Telegram",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "chpic.su",
+        "codekeeper.Telegram",
+        "t.me",
+        "telegra.ph",
+        "telegram.com",
+        "telegram.dog",
+        "telegram.im",
+        "telegram.me",
+        "telegram.org",
+        "telegram.org.ru",
+        "telegramhub.net",
+        "telesco.pe",
+        "tg.dev",
+        "tgram.ru"
       ]
     }
  ]
