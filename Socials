@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1857",
+  "description" : "2025-07-25 1905",
   "name" : "social2",
   "rules" : [
     {
@@ -345,6 +345,7 @@
         "chatkr.com",
         "chatogo.com",
         "chatra.com",
+        "chatzone.com",
         "e-chats.com",
         "faceflow.com",
         "facil.services",
@@ -411,6 +412,23 @@
       ]
     },
     {
+      "notes" : "lemon8",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "lemon8-app.com",
+        "lemon8.com"
+      ]
+    },
+    {
+      "notes" : "mainchan",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "mainchan.com"
+      ]
+    },
+    {
       "notes" : "misc",
       "action" : "deny",
       "direction" : "outgoing",
@@ -429,6 +447,15 @@
         "socialblade.com",
         "socialpointgames.com",
         "vk.com"
+      ]
+    },
+    {
+      "notes" : "porn",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "Archived.Moe",
+        "geniusdate.com"
       ]
     },
     {
