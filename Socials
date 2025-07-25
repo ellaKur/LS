@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1624",
+  "description" : "2025-07-25 1630",
   "name" : "social2",
   "rules" : [
     {
@@ -188,6 +188,14 @@
       ]
     },
     {
+      "notes" : "Threads",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "threads.net"
+      ]
+    },
+    {
       "notes" : "TikTok",
       "action" : "deny",
       "direction" : "outgoing",
@@ -207,6 +215,58 @@
         "vercel.app",
         "watchwithout.com",
         "xaller.com"
+      ]
+    },
+    {
+      "notes" : "Tumbex",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "tumbex.com"
+      ]
+    },
+    {
+      "notes" : "Tumblr",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "tumbig.com"
+      ]
+    },
+    {
+      "notes" : "Twitch",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "ext-twitch.tv",
+        "jtvnw.net",
+        "live-video.net",
+        "ttvnw.net",
+        "twitch-shadow.net",
+        "twitch.a2z.com",
+        "twitch.tv",
+        "twitchcdn-shadow.net",
+        "twitchcdn.net",
+        "twitchsvc-staging.tech",
+        "twitchsvc.net",
+        "twitchtracker.com"
+      ]
+    },
+    {
+      "notes" : "Twitter",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "muskviewer.com",
+        "sotwe.com",
+        "t.co",
+        "twimg.com",
+        "twitter.co.uk",
+        "twitter.com",
+        "twitter.com.edgekey.net",
+        "twstalker.com",
+        "x.com",
+        "xszpuvwr7.com"
       ]
     },
     {
