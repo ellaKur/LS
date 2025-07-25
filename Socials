@@ -487,17 +487,6 @@
         "viralyft.com",
         "weibo.com"
       ]
-    },
-    {
-      "notes" : "suspicious",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "gab.ai",
-        "instagram.co.uk",
-        "panjury.com",
-        "saidit.net"
-      ]
     }
  ]
 }
