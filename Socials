@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1834",
+  "description" : "2025-07-25 1845",
   "name" : "social2",
   "rules" : [
     {
@@ -78,6 +78,15 @@
       ]
     },
     {
+      "notes" : "Gab",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "dissenter.com",
+        "gab.com"
+      ]
+    },
+    {
       "notes" : "Instagram",
       "action" : "deny",
       "direction" : "outgoing",
@@ -124,6 +133,21 @@
       ]
     },
     {
+      "notes" : "Pinterest",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "likepinterest.de",
+        "pinimg.com",
+        "pinterest.ch",
+        "pinterest.co.uk",
+        "pinterest.com",
+        "pinterest.de",
+        "pinterest.fr",
+        "pinterest.ph"
+      ]
+    },
+    {
       "notes" : "Quora",
       "action" : "deny",
       "direction" : "outgoing",
@@ -164,6 +188,15 @@
         "reddxxx.com",
         "scrolldit.com",
         "scrollx.org"
+      ]
+    },
+    {
+      "notes" : "Rumble",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "rumble.com",
+        "rumblesolutions.com"
       ]
     },
     {
@@ -360,7 +393,6 @@
         "gravatar.com",
         "highsocial.com",
         "kwai.net",
-        "list-manage.com",
         "locanto.com.mx",
         "loforo.com",
         "minds.com",
