@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1612",
+  "description" : "2025-07-25 1619",
   "name" : "social2",
   "rules" : [
     {
@@ -78,6 +78,21 @@
       ]
     },
     {
+      "notes" : "Instagram",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "cdninstagram.com",
+        "facebook.com",
+        "fbcdn.net",
+        "instagram.com",
+        "instagramstatic-a.akamaihd.net",
+        "megastory.org",
+        "net.edgesuite.net",
+        "saveinsta.cc"
+      ]
+    },
+    {
       "notes" : "Mastadon",
       "action" : "deny",
       "direction" : "outgoing",
@@ -97,6 +112,25 @@
         "mastodon.online",
         "mastodon.social",
         "mastodon.world"
+      ]
+    },
+    {
+      "notes" : "MySpace",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "myspace.com",
+        "myspacecdn.com"
+      ]
+    },
+    {
+      "notes" : "Quora",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "quora-wiki.com",
+        "quora.com",
+        "quoracdn.net"
       ]
     },
     {
