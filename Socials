@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1619",
+  "description" : "2025-07-25 1624",
   "name" : "social2",
   "rules" : [
     {
@@ -185,6 +185,67 @@
         "telesco.pe",
         "tg.dev",
         "tgram.ru"
+      ]
+    },
+    {
+      "notes" : "TikTok",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "lemon8-app.com",
+        "picuki.com",
+        "snaptiko.com",
+        "tikmate.cc",
+        "tiktok-thots.com",
+        "tiktok.com",
+        "tiktok.pm",
+        "tiktokcdn-eu.com",
+        "tiktokcdn.com",
+        "tikviewer.app",
+        "trollishly.com",
+        "ttthots.com",
+        "vercel.app",
+        "watchwithout.com",
+        "xaller.com"
+      ]
+    },
+    {
+      "notes" : "chat",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "1v1chat.me",
+        "FaceFlow.com",
+        "alloteens.org",
+        "chartoo.com",
+        "chatkr.com",
+        "chatogo.com",
+        "chatra.com",
+        "e-chats.com",
+        "faceflow.com",
+        "facil.services",
+        "fantasygen.ai",
+        "group.io",
+        "groups.io",
+        "imeetzu.com",
+        "kidschat.net",
+        "kidsteenchat.com",
+        "koolkidschat.com",
+        "ktc-chat.com",
+        "livechat.com",
+        "loveforheart.com",
+        "meetyou.me",
+        "mirotalk.com",
+        "momjunction.com",
+        "oneplus.com",
+        "shagle.com",
+        "skype.com",
+        "teen-chat.org",
+        "teenagers.chat",
+        "teenchathouse.com",
+        "teenkidschat.com",
+        "tochato.com",
+        "yesichat.com"
       ]
     }
  ]
