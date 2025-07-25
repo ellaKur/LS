@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1845",
+  "description" : "2025-07-25 1857",
   "name" : "social2",
   "rules" : [
     {
@@ -83,6 +83,7 @@
       "direction" : "outgoing",
       "remote-domains" : [
         "dissenter.com",
+        "gab.ai",
         "gab.com"
       ]
     },
@@ -94,6 +95,7 @@
         "cdninstagram.com",
         "facebook.com",
         "fbcdn.net",
+        "instagram.co.uk",
         "instagram.com",
         "instagramstatic-a.akamaihd.net",
         "megastory.org",
@@ -200,6 +202,16 @@
       ]
     },
     {
+      "notes" : "Signal",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "signal.com",
+        "signal.net",
+        "signal.org"
+      ]
+    },
+    {
       "notes" : "Telegram",
       "action" : "deny",
       "direction" : "outgoing",
@@ -251,6 +263,15 @@
       ]
     },
     {
+      "notes" : "TruthSocial",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "truthsocial.com",
+        "truthsocial.org"
+      ]
+    },
+    {
       "notes" : "Tumbex",
       "action" : "deny",
       "direction" : "outgoing",
@@ -263,7 +284,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "tumbig.com"
+        "tumbig.com",
+        "tumblr.com"
       ]
     },
     {
@@ -300,6 +322,15 @@
         "twstalker.com",
         "x.com",
         "xszpuvwr7.com"
+      ]
+    },
+    {
+      "notes" : "WordPress",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "wordpress.com",
+        "wp.com"
       ]
     },
     {
@@ -380,6 +411,27 @@
       ]
     },
     {
+      "notes" : "misc",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "Socialblade.com",
+        "bumble4friends.com",
+        "delachat.com",
+        "flickr.com",
+        "izoomyou.com",
+        "joinclubhouse.com",
+        "joyland.ai",
+        "openverse.com",
+        "photo.blog",
+        "plurk.com",
+        "snapchat.com",
+        "socialblade.com",
+        "socialpointgames.com",
+        "vk.com"
+      ]
+    },
+    {
       "notes" : "social",
       "action" : "deny",
       "direction" : "outgoing",
@@ -414,6 +466,15 @@
         "viralsachxd.com",
         "viralyft.com",
         "weibo.com"
+      ]
+    },
+    {
+      "notes" : "suspicious",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "panjury.com",
+        "saidit.net"
       ]
     }
  ]
