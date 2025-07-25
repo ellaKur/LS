@@ -1,12 +1,12 @@
 {
-  "description" : "2025-07-24 1526",
+  "description" : "2025-07-25 1333",
   "name" : "social",
   "rules" : [
     {
       "notes" : "4chan",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "4-ch.net",
         "4Archive.org",
         "4archive.org",
@@ -15,7 +15,6 @@
         "4chan.org",
         "4chanarchives.com",
         "4chansearch.com",
-        "Archived.Moe",
         "newchan.org",
         "randomarchive.com",
         "thebarchive.com",
@@ -26,7 +25,7 @@
       "notes" : "Discord",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "discord.co.uk",
         "discord.com",
         "discord.gg",
@@ -45,7 +44,7 @@
       "notes" : "Facebook",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "com.edgesuite.net",
         "facebook.be",
         "facebook.co.uk",
@@ -82,7 +81,7 @@
       "notes" : "Flare",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "theflareapp.com"
       ]
     },
@@ -90,9 +89,8 @@
       "notes" : "Gab",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "dissenter.com",
-        "gab.ai",
         "gab.com"
       ]
     },
@@ -100,7 +98,7 @@
       "notes" : "GroupMe",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "groupme.com"
       ]
     },
@@ -108,11 +106,10 @@
       "notes" : "Instagram",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "cdninstagram.com",
         "facebook.com",
         "fbcdn.net",
-        "instagram.co.uk",
         "instagram.com",
         "instagramstatic-a.akamaihd.net",
         "megastory.org",
@@ -124,7 +121,7 @@
       "notes" : "Mastadon",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "mastadon.com",
         "mastadon.net"
       ]
@@ -133,7 +130,7 @@
       "notes" : "Mastodon",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "livester.net",
         "mastodon.art",
         "mastodon.com",
@@ -146,7 +143,7 @@
       "notes" : "MySpace",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "myspace.com",
         "myspacecdn.com"
       ]
@@ -155,7 +152,7 @@
       "notes" : "Pinterest",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "likepinterest.de",
         "pinimg.com",
         "pinterest.ch",
@@ -170,7 +167,7 @@
       "notes" : "Quora",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "quora-wiki.com",
         "quora.com",
         "quoracdn.net"
@@ -180,7 +177,7 @@
       "notes" : "Reddit",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "amp-reddit-com.cdn.ampproject.org",
         "imagoid.com",
         "redd.it",
@@ -213,7 +210,7 @@
       "notes" : "Rumble",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "rumble.com",
         "rumblesolutions.com"
       ]
@@ -222,7 +219,7 @@
       "notes" : "Telegram",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "chpic.su",
         "codekeeper.Telegram",
         "t.me",
@@ -242,7 +239,7 @@
       "notes" : "Threads",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "threads.net"
       ]
     },
@@ -250,7 +247,7 @@
       "notes" : "TikTok",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "lemon8-app.com",
         "picuki.com",
         "snaptiko.com",
@@ -272,7 +269,7 @@
       "notes" : "Tumbex",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "tumbex.com"
       ]
     },
@@ -280,7 +277,7 @@
       "notes" : "Tumblr",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "tumbig.com"
       ]
     },
@@ -288,7 +285,7 @@
       "notes" : "Twitch",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "ext-twitch.tv",
         "jtvnw.net",
         "live-video.net",
@@ -307,7 +304,7 @@
       "notes" : "Twitter",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "muskviewer.com",
         "sotwe.com",
         "t.co",
@@ -324,7 +321,7 @@
       "notes" : "WordPress",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "wp.com"
       ]
     },
@@ -332,7 +329,7 @@
       "notes" : "chat",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "1v1chat.me",
         "FaceFlow.com",
         "alloteens.org",
@@ -347,7 +344,6 @@
         "group.io",
         "groups.io",
         "imeetzu.com",
-        "io.",
         "kidschat.net",
         "kidsteenchat.com",
         "koolkidschat.com",
@@ -372,7 +368,7 @@
       "notes" : "dating",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "badoo.com",
         "bdsmir.com",
         "bravodate.com",
@@ -410,7 +406,7 @@
       "notes" : "lemon8",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "lemon8-app.com",
         "lemon8.com"
       ]
@@ -419,7 +415,7 @@
       "notes" : "misc",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "Socialblade.com",
         "bumble4friends.com",
         "delachat.com",
@@ -447,7 +443,8 @@
       "notes" : "porn",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
+        "Archived.Moe",
         "chatzone.com",
         "geniusdate.com",
         "mainchan.com"
@@ -457,7 +454,7 @@
       "notes" : "social",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
         "almondraf.itch.io",
         "bastyon.com",
         "cato.social",
@@ -495,7 +492,9 @@
       "notes" : "suspicious",
       "action" : "deny",
       "direction" : "outgoing",
-      "remote_domains" : [
+      "remote-domains" : [
+        "gab.ai",
+        "instagram.co.uk",
         "panjury.com",
         "saidit.net"
       ]
