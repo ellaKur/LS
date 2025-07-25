@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1905",
+  "description" : "2025-07-25 1911",
   "name" : "social2",
   "rules" : [
     {
@@ -78,6 +78,14 @@
       ]
     },
     {
+      "notes" : "Flare",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "theflareapp.com"
+      ]
+    },
+    {
       "notes" : "Gab",
       "action" : "deny",
       "direction" : "outgoing",
@@ -85,6 +93,14 @@
         "dissenter.com",
         "gab.ai",
         "gab.com"
+      ]
+    },
+    {
+      "notes" : "GroupMe",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "groupme.com"
       ]
     },
     {
