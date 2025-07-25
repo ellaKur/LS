@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1350",
+  "description" : "2025-07-25 1602",
   "name" : "social2",
   "rules" : [
     {
@@ -19,6 +19,62 @@
         "randomarchive.com",
         "thebarchive.com",
         "wakarimasen.moe"
+      ]
+    },
+    {
+      "notes" : "Discord",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "discord.co.uk",
+        "discord.com",
+        "discord.gg",
+        "discord.me",
+        "discord.media",
+        "discord.org",
+        "discordapp.com",
+        "discordapp.gg",
+        "discordapp.net",
+        "discordservers.com",
+        "discordstatus.com",
+        "renai.us"
+      ]
+    },
+    {
+      "notes" : "Facebook",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "com.edgesuite.net",
+        "facebook.be",
+        "facebook.co.uk",
+        "facebook.com",
+        "facebook.com.edgekey.net",
+        "facebook.de",
+        "facebook.dk",
+        "facebook.es",
+        "facebook.fr",
+        "facebook.is",
+        "facebook.it",
+        "facebook.jp",
+        "facebook.mx",
+        "facebook.net",
+        "facebook.nl",
+        "facebook.no",
+        "facebook.se",
+        "facebook.us",
+        "fb.com",
+        "fb.ed",
+        "fbcdn.com",
+        "fbcdn.net",
+        "fbsbx.com",
+        "m.me",
+        "mbasic.facebook.com",
+        "messenger.com",
+        "tfbnw.net",
+        "threads.net",
+        "whatsapp.com",
+        "whatsapp.net"
       ]
     }
  ]
