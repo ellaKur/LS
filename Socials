@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-25 1919",
+  "description" : "2025-07-26 1355",
   "name" : "social2",
   "rules" : [
     {
@@ -100,7 +100,10 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "groupme.com"
+        "groupme.com",
+        "i.groupme.com",
+        "push.groupme.com",
+        "v.groupme.com"
       ]
     },
     {
@@ -226,6 +229,12 @@
         "signal.net",
         "signal.org"
       ]
+    },
+    {
+      "notes" : "Telegram",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-addresses" : "149.154.167.51, 149.154.167.91, 149.154.175.100, 149.154.175.50, 149.154.175.53, 149.154.175.55, 91.108.56.130, 91.108.56.149, 95.161.76.100"
     },
     {
       "notes" : "Telegram",
