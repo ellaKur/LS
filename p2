@@ -1,7 +1,20 @@
 {
-  "description" : "2025-07-27 1432",
+  "description" : "2025-07-27 1609",
   "name" : "porn2",
   "rules" : [
+    {
+      "notes" : "nsfw",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "nsfw-ai-chat.com",
+        "nsfw247.to",
+        "nsfwaichat.com",
+        "nsfwais.com",
+        "onlynsfw.ai",
+        "promptchan.com"
+      ]
+    },
     {
       "notes" : "porn",
       "action" : "deny",
