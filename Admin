@@ -1,5 +1,5 @@
 {
-  "description" : "2025-01-16 1511",
+  "description" : "2025-07-27 1505",
   "name" : "admin",
   "rules" : [
     {
@@ -29,6 +29,8 @@
       "action" : "allow",
       "direction" : "outgoing",
       "remote-domains" : [
+        "alive.github.com",
+        "collector.github.com",
         "obdev.at",
         "raw.githubusercontent.com",
         "sw-update.obdev.at"
@@ -70,6 +72,7 @@
       "action" : "allow",
       "direction" : "outgoing",
       "remote-domains" : [
+        "bamboohr.com",
         "tazworks.com"
       ]
     }
