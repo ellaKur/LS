@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-19 1536",
+  "description" : "2025-07-27 1432",
   "name" : "misc",
   "rules" : [
     {
@@ -578,12 +578,7 @@
         "macupdater.net",
         "mcloud.bz",
         "mediafire.com",
-        "mega.co.nz",
-        "mega.com",
-        "mega.inz",
-        "mega.io",
         "mega.nz",
-        "megapay.nz",
         "mqdownload.com",
         "netsons.com",
         "novafile.org",
@@ -598,6 +593,19 @@
         "uploadbaz.me",
         "uploadingsite.com",
         "workupload.com"
+      ]
+    },
+    {
+      "notes" : "file storage Mega",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "mega.co.nz",
+        "mega.com",
+        "mega.inz",
+        "mega.io",
+        "mega.nz",
+        "megapay.nz"
       ]
     },
     {
@@ -647,10 +655,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "alive.github.com",
         "anychans.github.io",
         "camo.githubusercontent.com",
-        "collector.github.com",
         "gist.github.com",
         "gitlab.com",
         "gitlab.net",
@@ -1110,6 +1116,14 @@
       ]
     },
     {
+      "notes" : "social",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "4wall.us8.list-manage.com"
+      ]
+    },
+    {
       "notes" : "software",
       "action" : "deny",
       "direction" : "outgoing",
@@ -1362,6 +1376,7 @@
         "anonymised.io",
         "antecedentbees.com",
         "anusib.net",
+        "anydaynowdc.us8.list-manage.com",
         "appiersig.com",
         "argentum.hr",
         "arsen-nei.com",
@@ -1445,6 +1460,7 @@
         "daidlietreble.com",
         "decisive-red.com",
         "dedridseewab.net",
+        "deepfiction.us14.list-manage.com",
         "deniceinm.info",
         "desired.ai",
         "dexpredict.com",
@@ -1498,6 +1514,7 @@
         "forms.gle",
         "fotosdefamosas.tk",
         "freecamglobal.com",
+        "freeddns.uk",
         "friednourishment.com",
         "frizzyactor.pro",
         "frontalwall.online",
@@ -1551,6 +1568,7 @@
         "imput.net",
         "index.hr",
         "influencerscalientes.com",
+        "informer.com",
         "interstitial-07.com",
         "invitewingorphan.com",
         "iq.wiki",
@@ -1589,7 +1607,6 @@
         "lernodydenknow.info",
         "lewandowscy-nowemiasto.pl",
         "libgen.li",
-        "list-manage.com",
         "litix.io",
         "localbajan.com",
         "locals.com",
@@ -1771,6 +1788,7 @@
         "tingexcelelernodyden.info",
         "tingo.pro",
         "tinthethao.com.vn",
+        "tommyhydra.us11.list-manage.com",
         "top2-corporate-credit-card-and-business-credit-card.info",
         "topdevka.com",
         "topwear.shop",
