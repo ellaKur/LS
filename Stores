@@ -1,7 +1,35 @@
 {
-  "description" : "2025-07-03 1354",
+  "description" : "2025-07-29 1510",
   "name" : "stores",
   "rules" : [
+    {
+      "notes" : "Apple",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "amp-api-edge.apps.apple.com",
+        "amp-api.apps.apple.com",
+        "apps.apple.com"
+      ]
+    },
+    {
+      "notes" : "Google",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "chrome.google.com",
+        "chromewebstore.google.com",
+        "chromewebstore.googleapis.com"
+      ]
+    },
+    {
+      "notes" : "Mozilla",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "addons.mozilla.org"
+      ]
+    },
     {
       "notes" : "anime",
       "action" : "deny",
@@ -901,7 +929,6 @@
         "nudedworld.com",
         "nudefapgirls.com",
         "nudepornhub.com",
-        "nudofans.com",
         "nutaku.net",
         "nuvid.com",
         "nwwrtbbit.com",
@@ -935,7 +962,6 @@
         "or.tz",
         "orbitcache.com",
         "ordzhonikidze-sanatorium.ru",
-        "org.ru",
         "oroc-int.fr",
         "oseroc.click",
         "ottpornhub.com",
@@ -1439,7 +1465,6 @@
         "twingodating.com",
         "twishu.com",
         "twistedlocals.com",
-        "twitch.tv",
         "tykims.com",
         "tzegilo.com",
         "u-psud.fr",
@@ -1606,6 +1631,7 @@
       "remote-domains" : [
         "apponic.com",
         "astian.org",
+        "myapps4pc.com",
         "nordlayer.com",
         "sourceforge.net"
       ]
@@ -1615,11 +1641,9 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "addons.mozilla.org",
         "addons.opera.com",
         "apk.cafe",
         "apkpure.com",
-        "apps.apple.com",
         "appsdrop.com",
         "apptopia.com",
         "appurse.com",
@@ -1627,8 +1651,6 @@
         "ccm.net",
         "chrome.google.com",
         "chrome.webstore.com",
-        "chromewebstore.google.com",
-        "chromewebstore.googleapis.com",
         "digitaltrends.com",
         "download.cnet.com",
         "dvdvideosoft.net",
