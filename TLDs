@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-03 1354",
+  "description" : "2025-07-29 1510",
   "name" : "TLD",
   "rules" : [
     {
@@ -343,7 +343,8 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
-        "skin"
+        "skin",
+        "yt"
       ]
     },
     {
