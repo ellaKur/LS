@@ -1,7 +1,21 @@
 {
-  "description" : "2025-07-29 1510",
+  "description" : "2025-07-30 1359",
   "name" : "misc",
   "rules" : [
+    {
+      "notes" : "Apple Private Relay",
+      "action" : "deny",
+      "direction" : "outgoing",
+      "remote-domains" : [
+        "apple-relay.cloudflare.com",
+        "apple-relay.fastly-edge.com",
+        "fe.apple-dns.net",
+        "mask-h2.icloud.com",
+        "mask-t.apple-dns.net",
+        "mask.apple-dns.net",
+        "mask.icloud.com"
+      ]
+    },
     {
       "notes" : "DoH",
       "action" : "deny",
@@ -1631,7 +1645,6 @@
         "maipo.net",
         "makingsilverrip.info",
         "mandrillapp.com",
-        "mask.icloud.com",
         "masto.host",
         "meblemarkowicz.pl",
         "mediscount.ru",
