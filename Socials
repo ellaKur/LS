@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-29 1510",
+  "description" : "2025-07-30 1356",
   "name" : "social2",
   "rules" : [
     {
@@ -243,6 +243,12 @@
       "notes" : "Telegram",
       "action" : "deny",
       "direction" : "outgoing",
+      "remote-addresses" : "149.154.167.50, 149.154.167.51, 149.154.167.91, 149.154.175.100, 149.154.175.50, 149.154.175.53, 149.154.175.55, 91.108.56.130, 91.108.56.149, 95.161.76.100"
+    },
+    {
+      "notes" : "Telegram",
+      "action" : "deny",
+      "direction" : "outgoing",
       "remote-domains" : [
         "chpic.su",
         "codekeeper.Telegram",
@@ -259,12 +265,6 @@
         "tg.dev",
         "tgram.ru"
       ]
-    },
-    {
-      "notes" : "Telegram",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-addresses" : "149.154.167.50, 149.154.167.51, 149.154.167.91, 149.154.175.100, 149.154.175.50, 149.154.175.53, 149.154.175.55, 91.108.56.130, 91.108.56.149, 95.161.76.100"
     },
     {
       "notes" : "Threads",
