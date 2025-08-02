@@ -1,107 +1,52 @@
-{
-  "description" : "2025-07-31 1140",
-  "name" : "stores",
-  "rules" : [
-    {
-      "notes" : "Apple",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "amp-api-edge.apps.apple.com",
-        "amp-api.apps.apple.com",
-        "apps.apple.com"
-      ]
-    },
-    {
-      "notes" : "Google",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "chrome.google.com",
-        "chromewebstore.google.com",
-        "chromewebstore.googleapis.com"
-      ]
-    },
-    {
-      "notes" : "Mozilla",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "addons.mozilla.org"
-      ]
-    },
-    {
-      "notes" : "anime",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "chia-anime.su",
-        "coolmic.me",
-        "ve.jp"
-      ]
-    },
-    {
-      "notes" : "software",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "apponic.com",
-        "astian.org",
-        "myapps4pc.com",
-        "nordlayer.com",
-        "sourceforge.net"
-      ]
-    },
-    {
-      "notes" : "stores",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "addons.opera.com",
-        "apk.cafe",
-        "apkpure.com",
-        "appsdrop.com",
-        "apptopia.com",
-        "appurse.com",
-        "bestfreewaredownload.com",
-        "ccm.net",
-        "chrome.google.com",
-        "chrome.webstore.com",
-        "digitaltrends.com",
-        "download.cnet.com",
-        "dvdvideosoft.net",
-        "ebay.ph",
-        "filecr.com",
-        "firesticktricks.com",
-        "freedownloadmanager.org",
-        "informer.com",
-        "itch.io",
-        "macosx-update.com",
-        "macupdate.com",
-        "maxthon-browser.soft32.com",
-        "mob.org",
-        "mobile9.com",
-        "mrdownload.com",
-        "mrsdownloader.com",
-        "osxapps.itunes.apple.com",
-        "panzoid.com",
-        "saashub.com",
-        "sadaalomma.com",
-        "soft32.com",
-        "softonic.com",
-        "techspot.com",
-        "top-app-store.com",
-        "update-mac.com"
-      ]
-    },
-    {
-      "notes" : "suspicious",
-      "action" : "deny",
-      "direction" : "outgoing",
-      "remote-domains" : [
-        "ungothoritator.com",
-        "update-macos.com"
-      ]
-    }
- ]
-}
+myapps4pc.com
+chia-anime.su
+coolmic.me
+ve.jp
+amp-api-edge.apps.apple.com
+amp-api.apps.apple.com
+apps.apple.com
+chrome.google.com
+chromewebstore.google.com
+chromewebstore.googleapis.com
+addons.mozilla.org
+apponic.com
+astian.org
+nordlayer.com
+sourceforge.net
+addons.opera.com
+apk.cafe
+apkpure.com
+appsdrop.com
+apptopia.com
+appurse.com
+bestfreewaredownload.com
+ccm.net
+chrome.google.com
+chrome.webstore.com
+digitaltrends.com
+download.cnet.com
+dvdvideosoft.net
+ebay.ph
+filecr.com
+firesticktricks.com
+freedownloadmanager.org
+informer.com
+itch.io
+macosx-update.com
+macupdate.com
+maxthon-browser.soft32.com
+mob.org
+mobile9.com
+mrdownload.com
+mrsdownloader.com
+osxapps.itunes.apple.com
+panzoid.com
+saashub.com
+sadaalomma.com
+soft32.com
+softonic.com
+techspot.com
+top-app-store.com
+update-mac.com
+ungothoritator.com
+update-macos.com
