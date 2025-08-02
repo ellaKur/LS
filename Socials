@@ -1,5 +1,5 @@
 {
-  "description" : "2025-07-31 1154",
+  "description" : "2025-08-02 1422",
   "name" : "social2",
   "rules" : [
     {
@@ -26,6 +26,7 @@
       "action" : "deny",
       "direction" : "outgoing",
       "remote-domains" : [
+        "cdn.discordapp.com",
         "discord.co.uk",
         "discord.com",
         "discord.gg",
@@ -217,7 +218,8 @@
         "reddpics.com",
         "reddxxx.com",
         "scrolldit.com",
-        "scrollx.org"
+        "scrollx.org",
+        "www.reddit.com"
       ]
     },
     {
@@ -291,6 +293,9 @@
         "tiktokcdn-us.com",
         "tiktokcdn.com",
         "tiktokdownload.io",
+        "tiktokv.com",
+        "tiktokv.us",
+        "tiktokw.us",
         "tikviewer.app",
         "trollishly.com",
         "ttthots.com",
@@ -408,6 +413,7 @@
         "teenchathouse.com",
         "teenkidschat.com",
         "tochato.com",
+        "twentyflirt.com",
         "yesichat.com"
       ]
     },
