@@ -1,5 +1,5 @@
 {
 "name" : "name test 1608",
 "description" : "description test",
-"denied-remote-domains" : ['test']
+"denied-remote-domains" : ["test"]
 }
