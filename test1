@@ -1,0 +1,5 @@
+{
+"name" : "name test 0804",
+"description" : "description test",
+"denied-remote-domains" : ["testtesttest"]
+}
